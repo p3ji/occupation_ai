@@ -10,7 +10,8 @@ export default function App() {
     majors: null,
     occupations: null,
     crosswalk: null,
-    provinces: null
+    provinces: null,
+    census: null
   });
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -38,10 +39,14 @@ export default function App() {
       fetch('/data/provinces.json').then(r => {
         if (!r.ok) throw new Error(`HTTP ${r.status} provinces`);
         return r.json();
+      }),
+      fetch('/data/census.json').then(r => {
+        if (!r.ok) throw new Error(`HTTP ${r.status} census`);
+        return r.json();
       })
     ])
-      .then(([majors, occupations, crosswalk, provinces]) => {
-        setData({ majors, occupations, crosswalk, provinces });
+      .then(([majors, occupations, crosswalk, provinces, census]) => {
+        setData({ majors, occupations, crosswalk, provinces, census });
         setLoading(false);
       })
       .catch(err => {
@@ -215,6 +220,7 @@ export default function App() {
                     occupations={data.occupations}
                     selectedNoc={selectedNoc}
                     onSelectNoc={setSelectedNoc}
+                    census={data.census}
                   />
                 </section>
               </div>

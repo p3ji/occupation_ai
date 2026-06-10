@@ -1,7 +1,7 @@
 import React, { useMemo } from 'react';
 import { Briefcase, AlertTriangle, HelpCircle } from 'lucide-react';
 
-export default function OccupationTable({ selectedCip, crosswalk, occupations, selectedNoc, onSelectNoc }) {
+export default function OccupationTable({ selectedCip, crosswalk, occupations, selectedNoc, onSelectNoc, census }) {
   
   // Resolve mapped occupations for this major
   const mappedJobs = useMemo(() => {
@@ -76,6 +76,7 @@ export default function OccupationTable({ selectedCip, crosswalk, occupations, s
             <tr className="border-b border-border bg-surface/40 text-zinc-500 font-medium">
               <th className="p-3">Occupation (NOC)</th>
               <th className="p-3">Type</th>
+              <th className="p-3 text-center">Census Share</th>
               <th className="p-3 text-center">Entry Salary</th>
               <th className="p-3 text-center">Median Salary</th>
               <th className="p-3 text-center">Openings</th>
@@ -86,6 +87,10 @@ export default function OccupationTable({ selectedCip, crosswalk, occupations, s
           <tbody className="divide-y divide-zinc-900/60">
             {allJobs.map(job => {
               const isSelected = selectedNoc === job.noc;
+              const shareInfo = census?.[selectedCip]?.shares?.[job.noc];
+              const sharePct = shareInfo ? `${shareInfo.percentage}%` : '0.0%';
+              const shareCount = shareInfo ? shareInfo.count.toLocaleString() : '0';
+
               return (
                 <tr
                   key={job.noc}
@@ -108,6 +113,10 @@ export default function OccupationTable({ selectedCip, crosswalk, occupations, s
                     }`}>
                       {job.type}
                     </span>
+                  </td>
+                  <td className="p-3 text-center font-mono font-semibold text-white">
+                    <div>{sharePct}</div>
+                    <div className="text-[9px] text-zinc-500 font-sans mt-0.5">({shareCount} grads)</div>
                   </td>
                   <td className="p-3 text-center font-mono font-medium text-zinc-400">
                     ${job.entrySalary.toLocaleString()}
@@ -139,6 +148,9 @@ export default function OccupationTable({ selectedCip, crosswalk, occupations, s
       <div className="grid grid-cols-1 gap-3 md:hidden">
         {allJobs.map(job => {
           const isSelected = selectedNoc === job.noc;
+          const shareInfo = census?.[selectedCip]?.shares?.[job.noc];
+          const sharePct = shareInfo ? `${shareInfo.percentage}%` : '0.0%';
+
           return (
             <div
               key={job.noc}
@@ -157,6 +169,9 @@ export default function OccupationTable({ selectedCip, crosswalk, occupations, s
                       : 'bg-zinc-800 text-zinc-400 border border-zinc-700/30'
                   }`}>
                     {job.type}
+                  </span>
+                  <span className="inline-block px-1.5 py-0.5 rounded text-[9px] font-semibold bg-accent/10 text-accent border border-accent/20 ml-2 mb-1.5">
+                    {sharePct} share
                   </span>
                   <h5 className="font-semibold text-white text-sm leading-tight leading-snug">
                     {job.title}

@@ -1,0 +1,2048 @@
+{
+  "11.0101": {
+    "total_graduates": 164690,
+    "shares": {
+      "10010": {
+        "count": 225,
+        "percentage": 0.14
+      },
+      "11100": {
+        "count": 310,
+        "percentage": 0.19
+      },
+      "11101": {
+        "count": 355,
+        "percentage": 0.22
+      },
+      "11202": {
+        "count": 650,
+        "percentage": 0.39
+      },
+      "12101": {
+        "count": 220,
+        "percentage": 0.13
+      },
+      "20012": {
+        "count": 7035,
+        "percentage": 4.27
+      },
+      "21110": {
+        "count": 10,
+        "percentage": 0.01
+      },
+      "21211": {
+        "count": 720,
+        "percentage": 0.44
+      },
+      "21232": {
+        "count": 5575,
+        "percentage": 3.39
+      },
+      "21234": {
+        "count": 3725,
+        "percentage": 2.26
+      },
+      "21300": {
+        "count": 50,
+        "percentage": 0.03
+      },
+      "21301": {
+        "count": 70,
+        "percentage": 0.04
+      },
+      "21310": {
+        "count": 155,
+        "percentage": 0.09
+      },
+      "31102": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31200": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31301": {
+        "count": 100,
+        "percentage": 0.06
+      },
+      "41101": {
+        "count": 30,
+        "percentage": 0.02
+      },
+      "41220": {
+        "count": 110,
+        "percentage": 0.07
+      },
+      "41221": {
+        "count": 140,
+        "percentage": 0.09
+      },
+      "41300": {
+        "count": 25,
+        "percentage": 0.02
+      },
+      "41400": {
+        "count": 80,
+        "percentage": 0.05
+      },
+      "52120": {
+        "count": 650,
+        "percentage": 0.39
+      }
+    }
+  },
+  "11.0801": {
+    "total_graduates": 24420,
+    "shares": {
+      "10010": {
+        "count": 35,
+        "percentage": 0.14
+      },
+      "11100": {
+        "count": 25,
+        "percentage": 0.1
+      },
+      "11101": {
+        "count": 35,
+        "percentage": 0.14
+      },
+      "11202": {
+        "count": 460,
+        "percentage": 1.88
+      },
+      "12101": {
+        "count": 40,
+        "percentage": 0.16
+      },
+      "20012": {
+        "count": 160,
+        "percentage": 0.66
+      },
+      "21110": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "21211": {
+        "count": 15,
+        "percentage": 0.06
+      },
+      "21232": {
+        "count": 345,
+        "percentage": 1.41
+      },
+      "21234": {
+        "count": 1480,
+        "percentage": 6.06
+      },
+      "21300": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "21301": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "21310": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31102": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31200": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31301": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "41101": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "41220": {
+        "count": 20,
+        "percentage": 0.08
+      },
+      "41221": {
+        "count": 20,
+        "percentage": 0.08
+      },
+      "41300": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "41400": {
+        "count": 25,
+        "percentage": 0.1
+      },
+      "52120": {
+        "count": 2335,
+        "percentage": 9.56
+      }
+    }
+  },
+  "11.0401": {
+    "total_graduates": 4610,
+    "shares": {
+      "10010": {
+        "count": 15,
+        "percentage": 0.33
+      },
+      "11100": {
+        "count": 15,
+        "percentage": 0.33
+      },
+      "11101": {
+        "count": 20,
+        "percentage": 0.43
+      },
+      "11202": {
+        "count": 80,
+        "percentage": 1.74
+      },
+      "12101": {
+        "count": 15,
+        "percentage": 0.33
+      },
+      "20012": {
+        "count": 85,
+        "percentage": 1.84
+      },
+      "21110": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "21211": {
+        "count": 45,
+        "percentage": 0.98
+      },
+      "21232": {
+        "count": 80,
+        "percentage": 1.74
+      },
+      "21234": {
+        "count": 70,
+        "percentage": 1.52
+      },
+      "21300": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "21301": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "21310": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31102": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31200": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31301": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "41101": {
+        "count": 15,
+        "percentage": 0.33
+      },
+      "41220": {
+        "count": 20,
+        "percentage": 0.43
+      },
+      "41221": {
+        "count": 15,
+        "percentage": 0.33
+      },
+      "41300": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "41400": {
+        "count": 15,
+        "percentage": 0.33
+      },
+      "52120": {
+        "count": 0,
+        "percentage": 0.0
+      }
+    }
+  },
+  "52.0201": {
+    "total_graduates": 848070,
+    "shares": {
+      "10010": {
+        "count": 9700,
+        "percentage": 1.14
+      },
+      "11100": {
+        "count": 18240,
+        "percentage": 2.15
+      },
+      "11101": {
+        "count": 7765,
+        "percentage": 0.92
+      },
+      "11202": {
+        "count": 11145,
+        "percentage": 1.31
+      },
+      "12101": {
+        "count": 4340,
+        "percentage": 0.51
+      },
+      "20012": {
+        "count": 7925,
+        "percentage": 0.93
+      },
+      "21110": {
+        "count": 230,
+        "percentage": 0.03
+      },
+      "21211": {
+        "count": 500,
+        "percentage": 0.06
+      },
+      "21232": {
+        "count": 1895,
+        "percentage": 0.22
+      },
+      "21234": {
+        "count": 1515,
+        "percentage": 0.18
+      },
+      "21300": {
+        "count": 1270,
+        "percentage": 0.15
+      },
+      "21301": {
+        "count": 1145,
+        "percentage": 0.14
+      },
+      "21310": {
+        "count": 965,
+        "percentage": 0.11
+      },
+      "31102": {
+        "count": 240,
+        "percentage": 0.03
+      },
+      "31200": {
+        "count": 35,
+        "percentage": 0.0
+      },
+      "31301": {
+        "count": 1245,
+        "percentage": 0.15
+      },
+      "41101": {
+        "count": 1785,
+        "percentage": 0.21
+      },
+      "41220": {
+        "count": 1275,
+        "percentage": 0.15
+      },
+      "41221": {
+        "count": 1465,
+        "percentage": 0.17
+      },
+      "41300": {
+        "count": 500,
+        "percentage": 0.06
+      },
+      "41400": {
+        "count": 1365,
+        "percentage": 0.16
+      },
+      "52120": {
+        "count": 955,
+        "percentage": 0.11
+      }
+    }
+  },
+  "52.0301": {
+    "total_graduates": 635780,
+    "shares": {
+      "10010": {
+        "count": 25625,
+        "percentage": 4.03
+      },
+      "11100": {
+        "count": 114580,
+        "percentage": 18.02
+      },
+      "11101": {
+        "count": 9010,
+        "percentage": 1.42
+      },
+      "11202": {
+        "count": 1245,
+        "percentage": 0.2
+      },
+      "12101": {
+        "count": 915,
+        "percentage": 0.14
+      },
+      "20012": {
+        "count": 1165,
+        "percentage": 0.18
+      },
+      "21110": {
+        "count": 10,
+        "percentage": 0.0
+      },
+      "21211": {
+        "count": 105,
+        "percentage": 0.02
+      },
+      "21232": {
+        "count": 380,
+        "percentage": 0.06
+      },
+      "21234": {
+        "count": 290,
+        "percentage": 0.05
+      },
+      "21300": {
+        "count": 45,
+        "percentage": 0.01
+      },
+      "21301": {
+        "count": 20,
+        "percentage": 0.0
+      },
+      "21310": {
+        "count": 40,
+        "percentage": 0.01
+      },
+      "31102": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31200": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31301": {
+        "count": 420,
+        "percentage": 0.07
+      },
+      "41101": {
+        "count": 225,
+        "percentage": 0.04
+      },
+      "41220": {
+        "count": 220,
+        "percentage": 0.03
+      },
+      "41221": {
+        "count": 420,
+        "percentage": 0.07
+      },
+      "41300": {
+        "count": 135,
+        "percentage": 0.02
+      },
+      "41400": {
+        "count": 185,
+        "percentage": 0.03
+      },
+      "52120": {
+        "count": 260,
+        "percentage": 0.04
+      }
+    }
+  },
+  "52.0801": {
+    "total_graduates": 221865,
+    "shares": {
+      "10010": {
+        "count": 6265,
+        "percentage": 2.82
+      },
+      "11100": {
+        "count": 8685,
+        "percentage": 3.91
+      },
+      "11101": {
+        "count": 11955,
+        "percentage": 5.39
+      },
+      "11202": {
+        "count": 1155,
+        "percentage": 0.52
+      },
+      "12101": {
+        "count": 470,
+        "percentage": 0.21
+      },
+      "20012": {
+        "count": 1170,
+        "percentage": 0.53
+      },
+      "21110": {
+        "count": 10,
+        "percentage": 0.0
+      },
+      "21211": {
+        "count": 305,
+        "percentage": 0.14
+      },
+      "21232": {
+        "count": 315,
+        "percentage": 0.14
+      },
+      "21234": {
+        "count": 305,
+        "percentage": 0.14
+      },
+      "21300": {
+        "count": 50,
+        "percentage": 0.02
+      },
+      "21301": {
+        "count": 55,
+        "percentage": 0.02
+      },
+      "21310": {
+        "count": 40,
+        "percentage": 0.02
+      },
+      "31102": {
+        "count": 10,
+        "percentage": 0.0
+      },
+      "31200": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31301": {
+        "count": 110,
+        "percentage": 0.05
+      },
+      "41101": {
+        "count": 210,
+        "percentage": 0.09
+      },
+      "41220": {
+        "count": 115,
+        "percentage": 0.05
+      },
+      "41221": {
+        "count": 205,
+        "percentage": 0.09
+      },
+      "41300": {
+        "count": 45,
+        "percentage": 0.02
+      },
+      "41400": {
+        "count": 155,
+        "percentage": 0.07
+      },
+      "52120": {
+        "count": 115,
+        "percentage": 0.05
+      }
+    }
+  },
+  "52.1401": {
+    "total_graduates": 157820,
+    "shares": {
+      "10010": {
+        "count": 525,
+        "percentage": 0.33
+      },
+      "11100": {
+        "count": 660,
+        "percentage": 0.42
+      },
+      "11101": {
+        "count": 575,
+        "percentage": 0.36
+      },
+      "11202": {
+        "count": 14205,
+        "percentage": 9.0
+      },
+      "12101": {
+        "count": 750,
+        "percentage": 0.48
+      },
+      "20012": {
+        "count": 865,
+        "percentage": 0.55
+      },
+      "21110": {
+        "count": 20,
+        "percentage": 0.01
+      },
+      "21211": {
+        "count": 65,
+        "percentage": 0.04
+      },
+      "21232": {
+        "count": 150,
+        "percentage": 0.1
+      },
+      "21234": {
+        "count": 550,
+        "percentage": 0.35
+      },
+      "21300": {
+        "count": 15,
+        "percentage": 0.01
+      },
+      "21301": {
+        "count": 30,
+        "percentage": 0.02
+      },
+      "21310": {
+        "count": 35,
+        "percentage": 0.02
+      },
+      "31102": {
+        "count": 10,
+        "percentage": 0.01
+      },
+      "31200": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31301": {
+        "count": 130,
+        "percentage": 0.08
+      },
+      "41101": {
+        "count": 40,
+        "percentage": 0.03
+      },
+      "41220": {
+        "count": 100,
+        "percentage": 0.06
+      },
+      "41221": {
+        "count": 310,
+        "percentage": 0.2
+      },
+      "41300": {
+        "count": 45,
+        "percentage": 0.03
+      },
+      "41400": {
+        "count": 110,
+        "percentage": 0.07
+      },
+      "52120": {
+        "count": 900,
+        "percentage": 0.57
+      }
+    }
+  },
+  "52.1001": {
+    "total_graduates": 139880,
+    "shares": {
+      "10010": {
+        "count": 480,
+        "percentage": 0.34
+      },
+      "11100": {
+        "count": 600,
+        "percentage": 0.43
+      },
+      "11101": {
+        "count": 310,
+        "percentage": 0.22
+      },
+      "11202": {
+        "count": 1010,
+        "percentage": 0.72
+      },
+      "12101": {
+        "count": 7910,
+        "percentage": 5.65
+      },
+      "20012": {
+        "count": 325,
+        "percentage": 0.23
+      },
+      "21110": {
+        "count": 15,
+        "percentage": 0.01
+      },
+      "21211": {
+        "count": 40,
+        "percentage": 0.03
+      },
+      "21232": {
+        "count": 75,
+        "percentage": 0.05
+      },
+      "21234": {
+        "count": 100,
+        "percentage": 0.07
+      },
+      "21300": {
+        "count": 20,
+        "percentage": 0.01
+      },
+      "21301": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "21310": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31102": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31200": {
+        "count": 10,
+        "percentage": 0.01
+      },
+      "31301": {
+        "count": 220,
+        "percentage": 0.16
+      },
+      "41101": {
+        "count": 200,
+        "percentage": 0.14
+      },
+      "41220": {
+        "count": 75,
+        "percentage": 0.05
+      },
+      "41221": {
+        "count": 280,
+        "percentage": 0.2
+      },
+      "41300": {
+        "count": 185,
+        "percentage": 0.13
+      },
+      "41400": {
+        "count": 145,
+        "percentage": 0.1
+      },
+      "52120": {
+        "count": 75,
+        "percentage": 0.05
+      }
+    }
+  },
+  "51.3801": {
+    "total_graduates": 655735,
+    "shares": {
+      "10010": {
+        "count": 210,
+        "percentage": 0.03
+      },
+      "11100": {
+        "count": 165,
+        "percentage": 0.03
+      },
+      "11101": {
+        "count": 55,
+        "percentage": 0.01
+      },
+      "11202": {
+        "count": 295,
+        "percentage": 0.04
+      },
+      "12101": {
+        "count": 180,
+        "percentage": 0.03
+      },
+      "20012": {
+        "count": 55,
+        "percentage": 0.01
+      },
+      "21110": {
+        "count": 465,
+        "percentage": 0.07
+      },
+      "21211": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "21232": {
+        "count": 30,
+        "percentage": 0.0
+      },
+      "21234": {
+        "count": 65,
+        "percentage": 0.01
+      },
+      "21300": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "21301": {
+        "count": 10,
+        "percentage": 0.0
+      },
+      "21310": {
+        "count": 10,
+        "percentage": 0.0
+      },
+      "31102": {
+        "count": 20,
+        "percentage": 0.0
+      },
+      "31200": {
+        "count": 10,
+        "percentage": 0.0
+      },
+      "31301": {
+        "count": 285035,
+        "percentage": 43.47
+      },
+      "41101": {
+        "count": 85,
+        "percentage": 0.01
+      },
+      "41220": {
+        "count": 180,
+        "percentage": 0.03
+      },
+      "41221": {
+        "count": 235,
+        "percentage": 0.04
+      },
+      "41300": {
+        "count": 645,
+        "percentage": 0.1
+      },
+      "41400": {
+        "count": 55,
+        "percentage": 0.01
+      },
+      "52120": {
+        "count": 95,
+        "percentage": 0.01
+      }
+    }
+  },
+  "51.1201": {
+    "total_graduates": 85465,
+    "shares": {
+      "10010": {
+        "count": 10,
+        "percentage": 0.01
+      },
+      "11100": {
+        "count": 90,
+        "percentage": 0.11
+      },
+      "11101": {
+        "count": 10,
+        "percentage": 0.01
+      },
+      "11202": {
+        "count": 90,
+        "percentage": 0.11
+      },
+      "12101": {
+        "count": 15,
+        "percentage": 0.02
+      },
+      "20012": {
+        "count": 70,
+        "percentage": 0.08
+      },
+      "21110": {
+        "count": 415,
+        "percentage": 0.49
+      },
+      "21211": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "21232": {
+        "count": 25,
+        "percentage": 0.03
+      },
+      "21234": {
+        "count": 40,
+        "percentage": 0.05
+      },
+      "21300": {
+        "count": 50,
+        "percentage": 0.06
+      },
+      "21301": {
+        "count": 35,
+        "percentage": 0.04
+      },
+      "21310": {
+        "count": 10,
+        "percentage": 0.01
+      },
+      "31102": {
+        "count": 32165,
+        "percentage": 37.64
+      },
+      "31200": {
+        "count": 15,
+        "percentage": 0.02
+      },
+      "31301": {
+        "count": 1250,
+        "percentage": 1.46
+      },
+      "41101": {
+        "count": 255,
+        "percentage": 0.3
+      },
+      "41220": {
+        "count": 75,
+        "percentage": 0.09
+      },
+      "41221": {
+        "count": 155,
+        "percentage": 0.18
+      },
+      "41300": {
+        "count": 60,
+        "percentage": 0.07
+      },
+      "41400": {
+        "count": 15,
+        "percentage": 0.02
+      },
+      "52120": {
+        "count": 35,
+        "percentage": 0.04
+      }
+    }
+  },
+  "14.1001": {
+    "total_graduates": 156370,
+    "shares": {
+      "10010": {
+        "count": 125,
+        "percentage": 0.08
+      },
+      "11100": {
+        "count": 285,
+        "percentage": 0.18
+      },
+      "11101": {
+        "count": 235,
+        "percentage": 0.15
+      },
+      "11202": {
+        "count": 325,
+        "percentage": 0.21
+      },
+      "12101": {
+        "count": 90,
+        "percentage": 0.06
+      },
+      "20012": {
+        "count": 2465,
+        "percentage": 1.58
+      },
+      "21110": {
+        "count": 55,
+        "percentage": 0.04
+      },
+      "21211": {
+        "count": 475,
+        "percentage": 0.3
+      },
+      "21232": {
+        "count": 4530,
+        "percentage": 2.9
+      },
+      "21234": {
+        "count": 1440,
+        "percentage": 0.92
+      },
+      "21300": {
+        "count": 450,
+        "percentage": 0.29
+      },
+      "21301": {
+        "count": 630,
+        "percentage": 0.4
+      },
+      "21310": {
+        "count": 25625,
+        "percentage": 16.39
+      },
+      "31102": {
+        "count": 30,
+        "percentage": 0.02
+      },
+      "31200": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31301": {
+        "count": 95,
+        "percentage": 0.06
+      },
+      "41101": {
+        "count": 95,
+        "percentage": 0.06
+      },
+      "41220": {
+        "count": 290,
+        "percentage": 0.19
+      },
+      "41221": {
+        "count": 130,
+        "percentage": 0.08
+      },
+      "41300": {
+        "count": 25,
+        "percentage": 0.02
+      },
+      "41400": {
+        "count": 370,
+        "percentage": 0.24
+      },
+      "52120": {
+        "count": 195,
+        "percentage": 0.12
+      }
+    }
+  },
+  "14.1901": {
+    "total_graduates": 140890,
+    "shares": {
+      "10010": {
+        "count": 90,
+        "percentage": 0.06
+      },
+      "11100": {
+        "count": 300,
+        "percentage": 0.21
+      },
+      "11101": {
+        "count": 215,
+        "percentage": 0.15
+      },
+      "11202": {
+        "count": 295,
+        "percentage": 0.21
+      },
+      "12101": {
+        "count": 55,
+        "percentage": 0.04
+      },
+      "20012": {
+        "count": 660,
+        "percentage": 0.47
+      },
+      "21110": {
+        "count": 40,
+        "percentage": 0.03
+      },
+      "21211": {
+        "count": 245,
+        "percentage": 0.17
+      },
+      "21232": {
+        "count": 1105,
+        "percentage": 0.78
+      },
+      "21234": {
+        "count": 415,
+        "percentage": 0.29
+      },
+      "21300": {
+        "count": 1275,
+        "percentage": 0.9
+      },
+      "21301": {
+        "count": 31840,
+        "percentage": 22.6
+      },
+      "21310": {
+        "count": 620,
+        "percentage": 0.44
+      },
+      "31102": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31200": {
+        "count": 10,
+        "percentage": 0.01
+      },
+      "31301": {
+        "count": 75,
+        "percentage": 0.05
+      },
+      "41101": {
+        "count": 70,
+        "percentage": 0.05
+      },
+      "41220": {
+        "count": 280,
+        "percentage": 0.2
+      },
+      "41221": {
+        "count": 75,
+        "percentage": 0.05
+      },
+      "41300": {
+        "count": 15,
+        "percentage": 0.01
+      },
+      "41400": {
+        "count": 425,
+        "percentage": 0.3
+      },
+      "52120": {
+        "count": 155,
+        "percentage": 0.11
+      }
+    }
+  },
+  "14.0801": {
+    "total_graduates": 110500,
+    "shares": {
+      "10010": {
+        "count": 130,
+        "percentage": 0.12
+      },
+      "11100": {
+        "count": 255,
+        "percentage": 0.23
+      },
+      "11101": {
+        "count": 85,
+        "percentage": 0.08
+      },
+      "11202": {
+        "count": 175,
+        "percentage": 0.16
+      },
+      "12101": {
+        "count": 40,
+        "percentage": 0.04
+      },
+      "20012": {
+        "count": 365,
+        "percentage": 0.33
+      },
+      "21110": {
+        "count": 55,
+        "percentage": 0.05
+      },
+      "21211": {
+        "count": 110,
+        "percentage": 0.1
+      },
+      "21232": {
+        "count": 285,
+        "percentage": 0.26
+      },
+      "21234": {
+        "count": 225,
+        "percentage": 0.2
+      },
+      "21300": {
+        "count": 33395,
+        "percentage": 30.22
+      },
+      "21301": {
+        "count": 465,
+        "percentage": 0.42
+      },
+      "21310": {
+        "count": 170,
+        "percentage": 0.15
+      },
+      "31102": {
+        "count": 15,
+        "percentage": 0.01
+      },
+      "31200": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31301": {
+        "count": 75,
+        "percentage": 0.07
+      },
+      "41101": {
+        "count": 60,
+        "percentage": 0.05
+      },
+      "41220": {
+        "count": 150,
+        "percentage": 0.14
+      },
+      "41221": {
+        "count": 75,
+        "percentage": 0.07
+      },
+      "41300": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "41400": {
+        "count": 415,
+        "percentage": 0.38
+      },
+      "52120": {
+        "count": 125,
+        "percentage": 0.11
+      }
+    }
+  },
+  "42.0101": {
+    "total_graduates": 259430,
+    "shares": {
+      "10010": {
+        "count": 465,
+        "percentage": 0.18
+      },
+      "11100": {
+        "count": 795,
+        "percentage": 0.31
+      },
+      "11101": {
+        "count": 455,
+        "percentage": 0.18
+      },
+      "11202": {
+        "count": 2750,
+        "percentage": 1.06
+      },
+      "12101": {
+        "count": 1610,
+        "percentage": 0.62
+      },
+      "20012": {
+        "count": 855,
+        "percentage": 0.33
+      },
+      "21110": {
+        "count": 320,
+        "percentage": 0.12
+      },
+      "21211": {
+        "count": 95,
+        "percentage": 0.04
+      },
+      "21232": {
+        "count": 400,
+        "percentage": 0.15
+      },
+      "21234": {
+        "count": 350,
+        "percentage": 0.13
+      },
+      "21300": {
+        "count": 45,
+        "percentage": 0.02
+      },
+      "21301": {
+        "count": 55,
+        "percentage": 0.02
+      },
+      "21310": {
+        "count": 25,
+        "percentage": 0.01
+      },
+      "31102": {
+        "count": 65,
+        "percentage": 0.03
+      },
+      "31200": {
+        "count": 13590,
+        "percentage": 5.24
+      },
+      "31301": {
+        "count": 1835,
+        "percentage": 0.71
+      },
+      "41101": {
+        "count": 735,
+        "percentage": 0.28
+      },
+      "41220": {
+        "count": 1065,
+        "percentage": 0.41
+      },
+      "41221": {
+        "count": 5455,
+        "percentage": 2.1
+      },
+      "41300": {
+        "count": 3485,
+        "percentage": 1.34
+      },
+      "41400": {
+        "count": 300,
+        "percentage": 0.12
+      },
+      "52120": {
+        "count": 615,
+        "percentage": 0.24
+      }
+    }
+  },
+  "44.0701": {
+    "total_graduates": 174675,
+    "shares": {
+      "10010": {
+        "count": 65,
+        "percentage": 0.04
+      },
+      "11100": {
+        "count": 105,
+        "percentage": 0.06
+      },
+      "11101": {
+        "count": 45,
+        "percentage": 0.03
+      },
+      "11202": {
+        "count": 385,
+        "percentage": 0.22
+      },
+      "12101": {
+        "count": 290,
+        "percentage": 0.17
+      },
+      "20012": {
+        "count": 95,
+        "percentage": 0.05
+      },
+      "21110": {
+        "count": 65,
+        "percentage": 0.04
+      },
+      "21211": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "21232": {
+        "count": 25,
+        "percentage": 0.01
+      },
+      "21234": {
+        "count": 20,
+        "percentage": 0.01
+      },
+      "21300": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "21301": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "21310": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31102": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31200": {
+        "count": 20,
+        "percentage": 0.01
+      },
+      "31301": {
+        "count": 255,
+        "percentage": 0.15
+      },
+      "41101": {
+        "count": 205,
+        "percentage": 0.12
+      },
+      "41220": {
+        "count": 260,
+        "percentage": 0.15
+      },
+      "41221": {
+        "count": 775,
+        "percentage": 0.44
+      },
+      "41300": {
+        "count": 46000,
+        "percentage": 26.33
+      },
+      "41400": {
+        "count": 25,
+        "percentage": 0.01
+      },
+      "52120": {
+        "count": 100,
+        "percentage": 0.06
+      }
+    }
+  },
+  "45.0601": {
+    "total_graduates": 202525,
+    "shares": {
+      "10010": {
+        "count": 2220,
+        "percentage": 1.1
+      },
+      "11100": {
+        "count": 6420,
+        "percentage": 3.17
+      },
+      "11101": {
+        "count": 3745,
+        "percentage": 1.85
+      },
+      "11202": {
+        "count": 2340,
+        "percentage": 1.16
+      },
+      "12101": {
+        "count": 420,
+        "percentage": 0.21
+      },
+      "20012": {
+        "count": 1205,
+        "percentage": 0.59
+      },
+      "21110": {
+        "count": 25,
+        "percentage": 0.01
+      },
+      "21211": {
+        "count": 500,
+        "percentage": 0.25
+      },
+      "21232": {
+        "count": 610,
+        "percentage": 0.3
+      },
+      "21234": {
+        "count": 450,
+        "percentage": 0.22
+      },
+      "21300": {
+        "count": 65,
+        "percentage": 0.03
+      },
+      "21301": {
+        "count": 35,
+        "percentage": 0.02
+      },
+      "21310": {
+        "count": 60,
+        "percentage": 0.03
+      },
+      "31102": {
+        "count": 20,
+        "percentage": 0.01
+      },
+      "31200": {
+        "count": 10,
+        "percentage": 0.0
+      },
+      "31301": {
+        "count": 250,
+        "percentage": 0.12
+      },
+      "41101": {
+        "count": 980,
+        "percentage": 0.48
+      },
+      "41220": {
+        "count": 620,
+        "percentage": 0.31
+      },
+      "41221": {
+        "count": 675,
+        "percentage": 0.33
+      },
+      "41300": {
+        "count": 195,
+        "percentage": 0.1
+      },
+      "41400": {
+        "count": 640,
+        "percentage": 0.32
+      },
+      "52120": {
+        "count": 365,
+        "percentage": 0.18
+      }
+    }
+  },
+  "26.0101": {
+    "total_graduates": 122640,
+    "shares": {
+      "10010": {
+        "count": 275,
+        "percentage": 0.22
+      },
+      "11100": {
+        "count": 590,
+        "percentage": 0.48
+      },
+      "11101": {
+        "count": 195,
+        "percentage": 0.16
+      },
+      "11202": {
+        "count": 870,
+        "percentage": 0.71
+      },
+      "12101": {
+        "count": 195,
+        "percentage": 0.16
+      },
+      "20012": {
+        "count": 490,
+        "percentage": 0.4
+      },
+      "21110": {
+        "count": 7935,
+        "percentage": 6.47
+      },
+      "21211": {
+        "count": 85,
+        "percentage": 0.07
+      },
+      "21232": {
+        "count": 390,
+        "percentage": 0.32
+      },
+      "21234": {
+        "count": 320,
+        "percentage": 0.26
+      },
+      "21300": {
+        "count": 60,
+        "percentage": 0.05
+      },
+      "21301": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "21310": {
+        "count": 35,
+        "percentage": 0.03
+      },
+      "31102": {
+        "count": 260,
+        "percentage": 0.21
+      },
+      "31200": {
+        "count": 20,
+        "percentage": 0.02
+      },
+      "31301": {
+        "count": 1685,
+        "percentage": 1.37
+      },
+      "41101": {
+        "count": 340,
+        "percentage": 0.28
+      },
+      "41220": {
+        "count": 2315,
+        "percentage": 1.89
+      },
+      "41221": {
+        "count": 1495,
+        "percentage": 1.22
+      },
+      "41300": {
+        "count": 100,
+        "percentage": 0.08
+      },
+      "41400": {
+        "count": 1815,
+        "percentage": 1.48
+      },
+      "52120": {
+        "count": 245,
+        "percentage": 0.2
+      }
+    }
+  },
+  "27.0101": {
+    "total_graduates": 72285,
+    "shares": {
+      "10010": {
+        "count": 450,
+        "percentage": 0.62
+      },
+      "11100": {
+        "count": 1755,
+        "percentage": 2.43
+      },
+      "11101": {
+        "count": 960,
+        "percentage": 1.33
+      },
+      "11202": {
+        "count": 295,
+        "percentage": 0.41
+      },
+      "12101": {
+        "count": 80,
+        "percentage": 0.11
+      },
+      "20012": {
+        "count": 1130,
+        "percentage": 1.56
+      },
+      "21110": {
+        "count": 20,
+        "percentage": 0.03
+      },
+      "21211": {
+        "count": 770,
+        "percentage": 1.07
+      },
+      "21232": {
+        "count": 1470,
+        "percentage": 2.03
+      },
+      "21234": {
+        "count": 425,
+        "percentage": 0.59
+      },
+      "21300": {
+        "count": 35,
+        "percentage": 0.05
+      },
+      "21301": {
+        "count": 50,
+        "percentage": 0.07
+      },
+      "21310": {
+        "count": 70,
+        "percentage": 0.1
+      },
+      "31102": {
+        "count": 25,
+        "percentage": 0.03
+      },
+      "31200": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31301": {
+        "count": 95,
+        "percentage": 0.13
+      },
+      "41101": {
+        "count": 120,
+        "percentage": 0.17
+      },
+      "41220": {
+        "count": 3045,
+        "percentage": 4.21
+      },
+      "41221": {
+        "count": 885,
+        "percentage": 1.22
+      },
+      "41300": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "41400": {
+        "count": 90,
+        "percentage": 0.12
+      },
+      "52120": {
+        "count": 85,
+        "percentage": 0.12
+      }
+    }
+  },
+  "50.0409": {
+    "total_graduates": 206775,
+    "shares": {
+      "10010": {
+        "count": 210,
+        "percentage": 0.1
+      },
+      "11100": {
+        "count": 175,
+        "percentage": 0.08
+      },
+      "11101": {
+        "count": 120,
+        "percentage": 0.06
+      },
+      "11202": {
+        "count": 3125,
+        "percentage": 1.51
+      },
+      "12101": {
+        "count": 240,
+        "percentage": 0.12
+      },
+      "20012": {
+        "count": 430,
+        "percentage": 0.21
+      },
+      "21110": {
+        "count": 10,
+        "percentage": 0.0
+      },
+      "21211": {
+        "count": 15,
+        "percentage": 0.01
+      },
+      "21232": {
+        "count": 635,
+        "percentage": 0.31
+      },
+      "21234": {
+        "count": 930,
+        "percentage": 0.45
+      },
+      "21300": {
+        "count": 40,
+        "percentage": 0.02
+      },
+      "21301": {
+        "count": 95,
+        "percentage": 0.05
+      },
+      "21310": {
+        "count": 55,
+        "percentage": 0.03
+      },
+      "31102": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31200": {
+        "count": 10,
+        "percentage": 0.0
+      },
+      "31301": {
+        "count": 110,
+        "percentage": 0.05
+      },
+      "41101": {
+        "count": 15,
+        "percentage": 0.01
+      },
+      "41220": {
+        "count": 215,
+        "percentage": 0.1
+      },
+      "41221": {
+        "count": 305,
+        "percentage": 0.15
+      },
+      "41300": {
+        "count": 15,
+        "percentage": 0.01
+      },
+      "41400": {
+        "count": 75,
+        "percentage": 0.04
+      },
+      "52120": {
+        "count": 30835,
+        "percentage": 14.91
+      }
+    }
+  },
+  "13.1202": {
+    "total_graduates": 117740,
+    "shares": {
+      "10010": {
+        "count": 50,
+        "percentage": 0.04
+      },
+      "11100": {
+        "count": 105,
+        "percentage": 0.09
+      },
+      "11101": {
+        "count": 25,
+        "percentage": 0.02
+      },
+      "11202": {
+        "count": 220,
+        "percentage": 0.19
+      },
+      "12101": {
+        "count": 100,
+        "percentage": 0.08
+      },
+      "20012": {
+        "count": 105,
+        "percentage": 0.09
+      },
+      "21110": {
+        "count": 10,
+        "percentage": 0.01
+      },
+      "21211": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "21232": {
+        "count": 45,
+        "percentage": 0.04
+      },
+      "21234": {
+        "count": 35,
+        "percentage": 0.03
+      },
+      "21300": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "21301": {
+        "count": 15,
+        "percentage": 0.01
+      },
+      "21310": {
+        "count": 10,
+        "percentage": 0.01
+      },
+      "31102": {
+        "count": 10,
+        "percentage": 0.01
+      },
+      "31200": {
+        "count": 30,
+        "percentage": 0.03
+      },
+      "31301": {
+        "count": 220,
+        "percentage": 0.19
+      },
+      "41101": {
+        "count": 15,
+        "percentage": 0.01
+      },
+      "41220": {
+        "count": 5565,
+        "percentage": 4.73
+      },
+      "41221": {
+        "count": 23885,
+        "percentage": 20.29
+      },
+      "41300": {
+        "count": 125,
+        "percentage": 0.11
+      },
+      "41400": {
+        "count": 30,
+        "percentage": 0.03
+      },
+      "52120": {
+        "count": 110,
+        "percentage": 0.09
+      }
+    }
+  },
+  "13.1205": {
+    "total_graduates": 117740,
+    "shares": {
+      "10010": {
+        "count": 50,
+        "percentage": 0.04
+      },
+      "11100": {
+        "count": 105,
+        "percentage": 0.09
+      },
+      "11101": {
+        "count": 25,
+        "percentage": 0.02
+      },
+      "11202": {
+        "count": 220,
+        "percentage": 0.19
+      },
+      "12101": {
+        "count": 100,
+        "percentage": 0.08
+      },
+      "20012": {
+        "count": 105,
+        "percentage": 0.09
+      },
+      "21110": {
+        "count": 10,
+        "percentage": 0.01
+      },
+      "21211": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "21232": {
+        "count": 45,
+        "percentage": 0.04
+      },
+      "21234": {
+        "count": 35,
+        "percentage": 0.03
+      },
+      "21300": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "21301": {
+        "count": 15,
+        "percentage": 0.01
+      },
+      "21310": {
+        "count": 10,
+        "percentage": 0.01
+      },
+      "31102": {
+        "count": 10,
+        "percentage": 0.01
+      },
+      "31200": {
+        "count": 30,
+        "percentage": 0.03
+      },
+      "31301": {
+        "count": 220,
+        "percentage": 0.19
+      },
+      "41101": {
+        "count": 15,
+        "percentage": 0.01
+      },
+      "41220": {
+        "count": 5565,
+        "percentage": 4.73
+      },
+      "41221": {
+        "count": 23885,
+        "percentage": 20.29
+      },
+      "41300": {
+        "count": 125,
+        "percentage": 0.11
+      },
+      "41400": {
+        "count": 30,
+        "percentage": 0.03
+      },
+      "52120": {
+        "count": 110,
+        "percentage": 0.09
+      }
+    }
+  },
+  "22.0101": {
+    "total_graduates": 160775,
+    "shares": {
+      "10010": {
+        "count": 360,
+        "percentage": 0.22
+      },
+      "11100": {
+        "count": 585,
+        "percentage": 0.36
+      },
+      "11101": {
+        "count": 265,
+        "percentage": 0.16
+      },
+      "11202": {
+        "count": 760,
+        "percentage": 0.47
+      },
+      "12101": {
+        "count": 370,
+        "percentage": 0.23
+      },
+      "20012": {
+        "count": 160,
+        "percentage": 0.1
+      },
+      "21110": {
+        "count": 10,
+        "percentage": 0.01
+      },
+      "21211": {
+        "count": 10,
+        "percentage": 0.01
+      },
+      "21232": {
+        "count": 130,
+        "percentage": 0.08
+      },
+      "21234": {
+        "count": 120,
+        "percentage": 0.07
+      },
+      "21300": {
+        "count": 25,
+        "percentage": 0.02
+      },
+      "21301": {
+        "count": 10,
+        "percentage": 0.01
+      },
+      "21310": {
+        "count": 20,
+        "percentage": 0.01
+      },
+      "31102": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31200": {
+        "count": 0,
+        "percentage": 0.0
+      },
+      "31301": {
+        "count": 190,
+        "percentage": 0.12
+      },
+      "41101": {
+        "count": 65055,
+        "percentage": 40.46
+      },
+      "41220": {
+        "count": 160,
+        "percentage": 0.1
+      },
+      "41221": {
+        "count": 405,
+        "percentage": 0.25
+      },
+      "41300": {
+        "count": 205,
+        "percentage": 0.13
+      },
+      "41400": {
+        "count": 220,
+        "percentage": 0.14
+      },
+      "52120": {
+        "count": 120,
+        "percentage": 0.07
+      }
+    }
+  }
+}
