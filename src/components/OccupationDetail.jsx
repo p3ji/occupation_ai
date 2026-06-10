@@ -1,13 +1,31 @@
-import React, { useMemo } from 'react';
+import React, { useMemo, useRef, useEffect } from 'react';
 import { Cpu, TrendingUp, Users, DollarSign, BookOpen } from 'lucide-react';
 
 export default function OccupationDetail({ selectedNoc, occupations, onViewMethodology }) {
-  
+  const containerRef = useRef(null);
+
   // Find current active occupation details
   const activeOcc = useMemo(() => {
     if (!selectedNoc || !occupations) return null;
     return occupations.find(o => o.noc === selectedNoc);
   }, [selectedNoc, occupations]);
+
+  // Smooth auto-scroll on mobile when occupation changes
+  useEffect(() => {
+    if (activeOcc && window.innerWidth < 1024) {
+      const timer = setTimeout(() => {
+        containerRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 100);
+      return () => clearTimeout(timer);
+    }
+  }, [selectedNoc, activeOcc]);
+
+  const handleBackToTable = () => {
+    const tableEl = document.getElementById('careers-table-section');
+    if (tableEl) {
+      tableEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  };
 
   const getAiDisruptionLabelColor = (label) => {
     switch (label) {
@@ -39,7 +57,16 @@ export default function OccupationDetail({ selectedNoc, occupations, onViewMetho
   }
 
   return (
-    <div className="space-y-6">
+    <div ref={containerRef} className="space-y-6 scroll-mt-20">
+      {/* Mobile back button (visible on mobile viewports only) */}
+      <div className="block md:hidden">
+        <button
+          onClick={handleBackToTable}
+          className="w-full py-2.5 px-4 bg-zinc-900 hover:bg-zinc-800 text-zinc-300 rounded-lg border border-border text-xs font-semibold flex items-center justify-center gap-1.5 cursor-pointer active:scale-95 transition-all"
+        >
+          &larr; Back to Careers List
+        </button>
+      </div>
       {/* Header & Description */}
       <div>
         <div className="flex flex-wrap items-center gap-2">

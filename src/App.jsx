@@ -246,7 +246,7 @@ export default function App() {
             {/* Split Data Layout */}
             <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 items-start">
               {/* Careers Table - Left Column */}
-              <div className="lg:col-span-7 space-y-4">
+              <div id="careers-table-section" className="lg:col-span-7 space-y-4">
                 <section className="bg-surface/30 p-5 rounded-xl border border-border">
                   <OccupationTable
                     selectedCip={selectedCip}

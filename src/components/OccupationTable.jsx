@@ -102,31 +102,31 @@ export default function OccupationTable({ selectedCip, crosswalk, occupations, s
                       : 'text-zinc-300 hover:bg-surface/30 hover:text-white'
                   }`}
                 >
-                  <td className="p-3 text-center font-bold text-zinc-500">
+                  <td className="p-3.5 text-center font-bold text-zinc-500">
                     #{index + 1}
                   </td>
-                  <td className="p-3 font-semibold">
+                  <td className="p-3.5 font-semibold">
                     <div>{job.title}</div>
                     <div className="text-[10px] text-zinc-500 font-mono mt-0.5">NOC {job.noc}</div>
                   </td>
-                  <td className="p-3 text-center font-mono font-bold text-primary-bright">
+                  <td className="p-3.5 text-center font-mono font-bold text-primary-bright">
                     {sharePct}
                   </td>
-                  <td className="p-3 text-center font-mono font-medium text-zinc-400">
+                  <td className="p-3.5 text-center font-mono font-medium text-zinc-400">
                     ${job.entrySalary.toLocaleString()}
                   </td>
-                  <td className="p-3 text-center font-mono font-bold text-accent">
+                  <td className="p-3.5 text-center font-mono font-bold text-accent">
                     ${job.medianSalary.toLocaleString()}
                   </td>
-                  <td className="p-3 text-center font-mono text-zinc-400">
+                  <td className="p-3.5 text-center font-mono text-zinc-400">
                     {job.openPositions.toLocaleString()}
                   </td>
-                  <td className="p-3 text-center">
+                  <td className="p-3.5 text-center">
                     <span className={`px-2 py-0.5 rounded-full border text-[10px] font-medium inline-block ${getCompetitionColor(job.competitionLevel)}`}>
                       {job.competitionLevel}
                     </span>
                   </td>
-                  <td className="p-3 text-center">
+                  <td className="p-3.5 text-center">
                     <span className={`px-1.5 py-0.5 rounded font-bold text-[10px] ${getAiRiskColor(job.karpathyExposure)}`}>
                       {job.karpathyExposure}/10
                     </span>
@@ -148,7 +148,7 @@ export default function OccupationTable({ selectedCip, crosswalk, occupations, s
             <div
               key={job.noc}
               onClick={() => onSelectNoc(job.noc)}
-              className={`p-4 rounded-xl border cursor-pointer glass-panel select-none transition-all duration-200 ${
+              className={`p-4.5 rounded-xl border cursor-pointer glass-panel select-none transition-all duration-200 active:scale-[0.99] ${
                 isSelected 
                   ? 'border-primary/80 bg-primary/10 shadow-sm shadow-primary/10' 
                   : 'border-border bg-surface/10 hover:bg-surface/20'

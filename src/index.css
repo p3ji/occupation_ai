@@ -61,3 +61,13 @@
   background: rgba(39, 39, 42, 0.6);
   border-color: rgba(63, 63, 70, 0.8);
 }
+
+/* Hide scrollbars but keep functionality */
+.scrollbar-none {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+

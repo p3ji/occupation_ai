@@ -26,12 +26,12 @@ export default function MajorSelector({ majors, selectedCip, onSelectMajor }) {
   return (
     <div className="space-y-4">
       {/* Category Pills */}
-      <div className="flex flex-wrap gap-1.5 overflow-x-auto pb-1.5 scrollbar-thin">
+      <div className="flex overflow-x-auto gap-1.5 pb-2 scrollbar-none snap-x snap-mandatory touch-pan-x -mx-4 px-4 sm:mx-0 sm:px-0">
         {categories.map(cat => (
           <button
             key={cat}
             onClick={() => setActiveCategory(cat)}
-            className={`px-3 py-1 rounded-full text-xs font-medium cursor-pointer transition-all duration-200 border ${
+            className={`px-3.5 py-1.5 rounded-full text-xs font-semibold cursor-pointer transition-all duration-200 border shrink-0 snap-start select-none ${
               activeCategory === cat
                 ? 'bg-primary text-white border-primary shadow-sm shadow-primary/20'
                 : 'bg-surface/50 text-zinc-400 border-border hover:bg-surface hover:text-zinc-200'
