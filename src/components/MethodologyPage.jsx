@@ -14,7 +14,7 @@ export default function MethodologyPage() {
           Experimental Canadian AI Jobs Dashboard
         </h2>
         <p className="text-xs text-zinc-400 mt-2 leading-relaxed">
-          This methodology page details the data pipelines, empirical sources, mathematical models, and structural limitations of the dashboard. Our commitment is 100% empirical data and full transparency to enable total reproducibility of each statistic.
+          This methodology page details the data pipelines, empirical sources, mathematical models, and structural limitations of the dashboard.
         </p>
       </div>
 
