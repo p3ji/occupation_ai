@@ -20,8 +20,8 @@ export default function App() {
   const [activeTab, setActiveTab] = useState('explorer');     // 'explorer' | 'calculator'
   const [genderView, setGenderView] = useState('men');        // Default to men ('men' | 'women')
 
-  // Tracks whether the latest NOC change was an explicit user selection (should scroll on mobile)
-  const scrollPending = useRef(false);
+  // Increments on every explicit career row tap — fires scroll even if same NOC re-selected
+  const [nocScrollTrigger, setNocScrollTrigger] = useState(0);
   // Tracks whether the latest CIP change was an explicit user major selection (should scroll on mobile)
   const majorScrollPending = useRef(false);
 
@@ -95,22 +95,20 @@ export default function App() {
   }, [selectedCip]);
 
   const handleSelectNoc = (noc) => {
-    scrollPending.current = true;
     setSelectedNoc(noc);
+    setNocScrollTrigger(prev => prev + 1);
   };
 
-  // Scroll AFTER React commits the new NOC state — only for explicit table row clicks
+  // Scroll AFTER React commits — fires on every explicit career tap, even if same NOC
   useEffect(() => {
-    if (scrollPending.current && window.innerWidth < 1024) {
-      scrollPending.current = false;
+    if (nocScrollTrigger === 0) return; // skip initial mount
+    if (window.innerWidth < 1024) {
       const detailEl = document.getElementById('occupation-detail-section');
       if (detailEl) {
         detailEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
       }
-    } else {
-      scrollPending.current = false;
     }
-  }, [selectedNoc]);
+  }, [nocScrollTrigger]);
 
 
   if (loading) {
