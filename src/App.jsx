@@ -10,16 +10,16 @@ export default function App() {
     majors: null,
     occupations: null,
     crosswalk: null,
-    provinces: null,
-    census: null
+    provinces: null
   });
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   
   // Selection states
-  const [selectedCip, setSelectedCip] = useState('11.0101'); // Default to Computer Science
+  const [selectedCip, setSelectedCip] = useState('11.07'); // Default to Computer Science
   const [selectedNoc, setSelectedNoc] = useState('21232');    // Default to Software Developers
   const [activeTab, setActiveTab] = useState('explorer');     // 'explorer' | 'calculator'
+  const [genderView, setGenderView] = useState('all');        // 'all' | 'men' | 'women'
 
   // Fetch Canadian databases on mount
   useEffect(() => {
@@ -39,14 +39,10 @@ export default function App() {
       fetch('/data/provinces.json').then(r => {
         if (!r.ok) throw new Error(`HTTP ${r.status} provinces`);
         return r.json();
-      }),
-      fetch('/data/census.json').then(r => {
-        if (!r.ok) throw new Error(`HTTP ${r.status} census`);
-        return r.json();
       })
     ])
-      .then(([majors, occupations, crosswalk, provinces, census]) => {
-        setData({ majors, occupations, crosswalk, provinces, census });
+      .then(([majors, occupations, crosswalk, provinces]) => {
+        setData({ majors, occupations, crosswalk, provinces });
         setLoading(false);
       })
       .catch(err => {
@@ -56,14 +52,32 @@ export default function App() {
       });
   }, []);
 
+  // Update selected NOC when genderView or selectedCip changes
+  useEffect(() => {
+    if (!data.crosswalk || !selectedCip) return;
+    const mapping = data.crosswalk[selectedCip];
+    if (mapping) {
+      const list = genderView === 'men' 
+        ? mapping.men 
+        : (genderView === 'women' ? mapping.women : [...(mapping.men || []), ...(mapping.women || [])]);
+      
+      const firstNoc = list?.[0]?.noc;
+      if (firstNoc && !list.some(item => item.noc === selectedNoc)) {
+        setSelectedNoc(firstNoc);
+      }
+    }
+  }, [genderView, selectedCip, data.crosswalk]);
+
   const handleSelectMajor = (cip) => {
     setSelectedCip(cip);
-    // Proactively select the first primary occupation for this major as default
     const mapping = data.crosswalk?.[cip];
     if (mapping) {
-      const firstPrimary = mapping.primary?.[0] || mapping.related?.[0];
-      if (firstPrimary) {
-        setSelectedNoc(firstPrimary);
+      const list = genderView === 'men' 
+        ? mapping.men 
+        : (genderView === 'women' ? mapping.women : [...(mapping.men || []), ...(mapping.women || [])]);
+      const firstNoc = list?.[0]?.noc;
+      if (firstNoc) {
+        setSelectedNoc(firstNoc);
       }
     }
   };
@@ -203,8 +217,45 @@ export default function App() {
                     {activeMajorDetails.name} ({activeMajorDetails.cip})
                   </h3>
                 </div>
-                <div className="px-3 py-1 rounded bg-zinc-900 border border-zinc-800 text-[10px] text-zinc-400 font-medium">
-                  Category: <span className="text-white font-bold">{activeMajorDetails.category}</span>
+
+                {/* Gender View Selector */}
+                <div className="flex items-center gap-4 flex-wrap">
+                  <div className="flex items-center gap-1.5 p-1 rounded-lg bg-zinc-950 border border-zinc-800 text-xs">
+                    <button
+                      onClick={() => setGenderView('all')}
+                      className={`px-3 py-1 rounded-md font-medium transition-all cursor-pointer ${
+                        genderView === 'all' 
+                          ? 'bg-primary text-white shadow-sm' 
+                          : 'text-zinc-400 hover:text-white'
+                      }`}
+                    >
+                      Overall View
+                    </button>
+                    <button
+                      onClick={() => setGenderView('men')}
+                      className={`px-3 py-1 rounded-md font-medium transition-all cursor-pointer ${
+                        genderView === 'men' 
+                          ? 'bg-primary text-white shadow-sm' 
+                          : 'text-zinc-400 hover:text-white'
+                      }`}
+                    >
+                      Male Graduates
+                    </button>
+                    <button
+                      onClick={() => setGenderView('women')}
+                      className={`px-3 py-1 rounded-md font-medium transition-all cursor-pointer ${
+                        genderView === 'women' 
+                          ? 'bg-primary text-white shadow-sm' 
+                          : 'text-zinc-400 hover:text-white'
+                      }`}
+                    >
+                      Female Graduates
+                    </button>
+                  </div>
+
+                  <div className="px-3 py-1.5 rounded bg-zinc-900 border border-zinc-800 text-[10px] text-zinc-400 font-medium shrink-0">
+                    Category: <span className="text-white font-bold">{activeMajorDetails.category}</span>
+                  </div>
                 </div>
               </div>
             )}
@@ -220,7 +271,7 @@ export default function App() {
                     occupations={data.occupations}
                     selectedNoc={selectedNoc}
                     onSelectNoc={setSelectedNoc}
-                    census={data.census}
+                    genderView={genderView}
                   />
                 </section>
               </div>

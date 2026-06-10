@@ -1,33 +1,57 @@
 import React, { useMemo } from 'react';
 import { Briefcase, AlertTriangle, HelpCircle } from 'lucide-react';
 
-export default function OccupationTable({ selectedCip, crosswalk, occupations, selectedNoc, onSelectNoc, census }) {
+export default function OccupationTable({ selectedCip, crosswalk, occupations, selectedNoc, onSelectNoc, genderView }) {
   
-  // Resolve mapped occupations for this major
-  const mappedJobs = useMemo(() => {
-    if (!selectedCip || !crosswalk || !occupations) return { primary: [], related: [] };
+  // Resolve mapped occupations for this major based on genderView
+  const allJobs = useMemo(() => {
+    if (!selectedCip || !crosswalk || !occupations) return [];
     
     const mapping = crosswalk[selectedCip];
-    if (!mapping) return { primary: [], related: [] };
+    if (!mapping) return [];
 
-    const getJobs = (nocList) => {
-      return (nocList || [])
-        .map(noc => occupations.find(o => o.noc === noc))
-        .filter(Boolean);
-    };
+    // Resolve list of NOCs and their shares based on genderView
+    let list = [];
+    if (genderView === 'men') {
+      list = mapping.men || [];
+    } else if (genderView === 'women') {
+      list = mapping.women || [];
+    } else {
+      // 'all' combined view: Union of men and women top 5, averaging shares if overlap
+      const combined = {};
+      (mapping.men || []).forEach(item => {
+        combined[item.noc] = { noc: item.noc, shares: [item.share] };
+      });
+      (mapping.women || []).forEach(item => {
+        if (!combined[item.noc]) {
+          combined[item.noc] = { noc: item.noc, shares: [item.share] };
+        } else {
+          combined[item.noc].shares.push(item.share);
+        }
+      });
+      
+      list = Object.values(combined).map(item => {
+        const avgShare = item.shares.reduce((a, b) => a + b, 0) / item.shares.length;
+        return {
+          noc: item.noc,
+          share: Math.round(avgShare * 100) / 100
+        };
+      });
+    }
 
-    return {
-      primary: getJobs(mapping.primary),
-      related: getJobs(mapping.related)
-    };
-  }, [selectedCip, crosswalk, occupations]);
-
-  const allJobs = useMemo(() => {
-    return [
-      ...mappedJobs.primary.map(j => ({ ...j, type: 'Primary' })),
-      ...mappedJobs.related.map(j => ({ ...j, type: 'Related' }))
-    ];
-  }, [mappedJobs]);
+    // Map to full occupation data from occupations.json
+    return list
+      .map(item => {
+        const job = occupations.find(o => o.noc === item.noc);
+        if (!job) return null;
+        return {
+          ...job,
+          share: item.share
+        };
+      })
+      .filter(Boolean)
+      .sort((a, b) => b.share - a.share); // Sort by prevalence
+  }, [selectedCip, crosswalk, occupations, genderView]);
 
   const getCompetitionColor = (level) => {
     switch (level) {
@@ -74,8 +98,8 @@ export default function OccupationTable({ selectedCip, crosswalk, occupations, s
         <table className="w-full text-left border-collapse text-xs">
           <thead>
             <tr className="border-b border-border bg-surface/40 text-zinc-500 font-medium">
+              <th className="p-3 text-center">Rank</th>
               <th className="p-3">Occupation (NOC)</th>
-              <th className="p-3">Type</th>
               <th className="p-3 text-center">Census Share</th>
               <th className="p-3 text-center">Entry Salary</th>
               <th className="p-3 text-center">Median Salary</th>
@@ -85,11 +109,9 @@ export default function OccupationTable({ selectedCip, crosswalk, occupations, s
             </tr>
           </thead>
           <tbody className="divide-y divide-zinc-900/60">
-            {allJobs.map(job => {
+            {allJobs.map((job, index) => {
               const isSelected = selectedNoc === job.noc;
-              const shareInfo = census?.[selectedCip]?.shares?.[job.noc];
-              const sharePct = shareInfo ? `${shareInfo.percentage}%` : '0.0%';
-              const shareCount = shareInfo ? shareInfo.count.toLocaleString() : '0';
+              const sharePct = `${job.share}%`;
 
               return (
                 <tr
@@ -101,22 +123,15 @@ export default function OccupationTable({ selectedCip, crosswalk, occupations, s
                       : 'text-zinc-300 hover:bg-surface/30 hover:text-white'
                   }`}
                 >
+                  <td className="p-3 text-center font-bold text-zinc-500">
+                    #{index + 1}
+                  </td>
                   <td className="p-3 font-semibold">
                     <div>{job.title}</div>
                     <div className="text-[10px] text-zinc-500 font-mono mt-0.5">NOC {job.noc}</div>
                   </td>
-                  <td className="p-3">
-                    <span className={`px-2 py-0.5 rounded text-[10px] ${
-                      job.type === 'Primary' 
-                        ? 'bg-primary/10 text-primary-bright border border-primary/20' 
-                        : 'bg-zinc-800 text-zinc-400 border border-zinc-700/30'
-                    }`}>
-                      {job.type}
-                    </span>
-                  </td>
-                  <td className="p-3 text-center font-mono font-semibold text-white">
-                    <div>{sharePct}</div>
-                    <div className="text-[9px] text-zinc-500 font-sans mt-0.5">({shareCount} grads)</div>
+                  <td className="p-3 text-center font-mono font-bold text-primary-bright">
+                    {sharePct}
                   </td>
                   <td className="p-3 text-center font-mono font-medium text-zinc-400">
                     ${job.entrySalary.toLocaleString()}
@@ -146,10 +161,9 @@ export default function OccupationTable({ selectedCip, crosswalk, occupations, s
 
       {/* Mobile Card View */}
       <div className="grid grid-cols-1 gap-3 md:hidden">
-        {allJobs.map(job => {
+        {allJobs.map((job, index) => {
           const isSelected = selectedNoc === job.noc;
-          const shareInfo = census?.[selectedCip]?.shares?.[job.noc];
-          const sharePct = shareInfo ? `${shareInfo.percentage}%` : '0.0%';
+          const sharePct = `${job.share}%`;
 
           return (
             <div
@@ -163,12 +177,8 @@ export default function OccupationTable({ selectedCip, crosswalk, occupations, s
             >
               <div className="flex justify-between items-start">
                 <div className="min-w-0">
-                  <span className={`inline-block px-1.5 py-0.5 rounded text-[9px] font-medium mb-1.5 ${
-                    job.type === 'Primary' 
-                      ? 'bg-primary/10 text-primary-bright border border-primary/20' 
-                      : 'bg-zinc-800 text-zinc-400 border border-zinc-700/30'
-                  }`}>
-                    {job.type}
+                  <span className="inline-block px-1.5 py-0.5 rounded text-[9px] font-bold bg-zinc-800 text-zinc-400 border border-zinc-700/30 mb-1.5">
+                    Rank #{index + 1}
                   </span>
                   <span className="inline-block px-1.5 py-0.5 rounded text-[9px] font-semibold bg-accent/10 text-accent border border-accent/20 ml-2 mb-1.5">
                     {sharePct} share

@@ -13,7 +13,9 @@ export default function SalaryCalculator({ occupations, majors, crosswalk, onJum
     const mapping = {};
     Object.keys(crosswalk).forEach(cip => {
       const paths = crosswalk[cip];
-      const allNocs = [...(paths.primary || []), ...(paths.related || [])];
+      const allNocs = new Set();
+      (paths.men || []).forEach(item => allNocs.add(item.noc));
+      (paths.women || []).forEach(item => allNocs.add(item.noc));
       
       allNocs.forEach(noc => {
         if (!mapping[noc]) {

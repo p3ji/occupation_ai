@@ -1,112 +1,1022 @@
 [
   {
-    "cip": "11.0101",
-    "name": "Computer Science",
-    "category": "Technology & Computing"
+    "cip": "01.01",
+    "name": "Agricultural business and management",
+    "category": "Agriculture, natural resources and conservation"
   },
   {
-    "cip": "11.0801",
-    "name": "Web & Mobile App Development",
-    "category": "Technology & Computing"
+    "cip": "01.03",
+    "name": "Agricultural production operations",
+    "category": "Agriculture, natural resources and conservation"
   },
   {
-    "cip": "11.0401",
-    "name": "Information Technology / Data Analytics",
-    "category": "Technology & Computing"
+    "cip": "01.00",
+    "name": "Agriculture, general",
+    "category": "Agriculture, natural resources and conservation"
   },
   {
-    "cip": "52.0201",
-    "name": "Business Administration and Management",
-    "category": "Business & Finance"
+    "cip": "01.09",
+    "name": "Animal sciences",
+    "category": "Agriculture, natural resources and conservation"
   },
   {
-    "cip": "52.0301",
-    "name": "Accounting",
-    "category": "Business & Finance"
+    "cip": "03.02",
+    "name": "Environmental/natural resources management and policy",
+    "category": "Agriculture, natural resources and conservation"
   },
   {
-    "cip": "52.0801",
-    "name": "Finance",
-    "category": "Business & Finance"
+    "cip": "01.10",
+    "name": "Food science and technology",
+    "category": "Agriculture, natural resources and conservation"
   },
   {
-    "cip": "52.1401",
-    "name": "Marketing & Digital Communications",
-    "category": "Business & Finance"
+    "cip": "03.05",
+    "name": "Forestry",
+    "category": "Agriculture, natural resources and conservation"
   },
   {
-    "cip": "52.1001",
-    "name": "Human Resources Management",
-    "category": "Business & Finance"
+    "cip": "03.01",
+    "name": "Natural resources conservation and research",
+    "category": "Agriculture, natural resources and conservation"
   },
   {
-    "cip": "51.3801",
-    "name": "Registered Nursing / Nursing Science",
-    "category": "Health & Medicine"
+    "cip": "01.11",
+    "name": "Plant sciences",
+    "category": "Agriculture, natural resources and conservation"
   },
   {
-    "cip": "51.1201",
-    "name": "Medicine (MD)",
-    "category": "Health & Medicine"
+    "cip": "14.02",
+    "name": "Aerospace, aeronautical and astronautical/space engineering",
+    "category": "Architecture, engineering, and related trades"
   },
   {
-    "cip": "14.1001",
-    "name": "Electrical and Electronics Engineering",
-    "category": "Engineering"
+    "cip": "14.03",
+    "name": "Agricultural engineering",
+    "category": "Architecture, engineering, and related trades"
   },
   {
-    "cip": "14.1901",
-    "name": "Mechanical Engineering",
-    "category": "Engineering"
+    "cip": "04.02",
+    "name": "Architecture",
+    "category": "Architecture, engineering, and related trades"
   },
   {
-    "cip": "14.0801",
-    "name": "Civil Engineering",
-    "category": "Engineering"
+    "cip": "14.05",
+    "name": "Biomedical/medical engineering",
+    "category": "Architecture, engineering, and related trades"
   },
   {
-    "cip": "42.0101",
-    "name": "Psychology",
-    "category": "Social & Behavioural Sciences"
+    "cip": "14.07",
+    "name": "Chemical engineering",
+    "category": "Architecture, engineering, and related trades"
   },
   {
-    "cip": "44.0701",
-    "name": "Social Work",
-    "category": "Social & Behavioural Sciences"
+    "cip": "04.03",
+    "name": "City/urban, community and regional planning",
+    "category": "Architecture, engineering, and related trades"
   },
   {
-    "cip": "45.0601",
+    "cip": "14.08",
+    "name": "Civil engineering",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.09",
+    "name": "Computer engineering",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "15.12",
+    "name": "Computer engineering technologies/technicians",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.33",
+    "name": "Construction engineering",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.47",
+    "name": "Electrical and computer engineering",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.10",
+    "name": "Electrical, electronics and communications engineering",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "15.03",
+    "name": "Electrical/electronic engineering technologies/technicians",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.41",
+    "name": "Electromechanical engineering",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.48",
+    "name": "Energy systems engineering",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.12",
+    "name": "Engineering physics/applied physics",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.13",
+    "name": "Engineering science",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.99",
+    "name": "Engineering, other",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "15.15",
+    "name": "Engineering-related fields",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "04.04",
+    "name": "Environmental design/architecture",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.14",
+    "name": "Environmental/environmental health engineering",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.34",
+    "name": "Forest engineering",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.01",
+    "name": "General engineering",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "15.00",
+    "name": "General engineering technologies/technicians",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.39",
+    "name": "Geological/geophysical engineering",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.35",
+    "name": "Industrial engineering",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "15.06",
+    "name": "Industrial production technologies/technicians",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "04.06",
+    "name": "Landscape architecture",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.36",
+    "name": "Manufacturing engineering",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.18",
+    "name": "Materials engineering",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.19",
+    "name": "Mechanical engineering",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.42",
+    "name": "Mechatronics, robotics, and automation engineering",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.21",
+    "name": "Mining and mineral engineering",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "15.16",
+    "name": "Nanotechnology",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.23",
+    "name": "Nuclear engineering",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.25",
+    "name": "Petroleum engineering",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "15.07",
+    "name": "Quality control and safety technologies/technicians",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.38",
+    "name": "Surveying engineering",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "14.27",
+    "name": "Systems engineering",
+    "category": "Architecture, engineering, and related trades"
+  },
+  {
+    "cip": "52.03",
+    "name": "Accounting and related services",
+    "category": "Business, management and public administration"
+  },
+  {
+    "cip": "52.02",
+    "name": "Business administration, management and operations",
+    "category": "Business, management and public administration"
+  },
+  {
+    "cip": "52.04",
+    "name": "Business operations support and assistant services",
+    "category": "Business, management and public administration"
+  },
+  {
+    "cip": "52.01",
+    "name": "Business/commerce, general",
+    "category": "Business, management and public administration"
+  },
+  {
+    "cip": "52.05",
+    "name": "Business/corporate communications",
+    "category": "Business, management and public administration"
+  },
+  {
+    "cip": "52.06",
+    "name": "Business/managerial economics",
+    "category": "Business, management and public administration"
+  },
+  {
+    "cip": "52.20",
+    "name": "Construction management",
+    "category": "Business, management and public administration"
+  },
+  {
+    "cip": "52.07",
+    "name": "Entrepreneurial and small business operations",
+    "category": "Business, management and public administration"
+  },
+  {
+    "cip": "52.08",
+    "name": "Finance and financial management services",
+    "category": "Business, management and public administration"
+  },
+  {
+    "cip": "52.18",
+    "name": "General sales, merchandising and related marketing operations",
+    "category": "Business, management and public administration"
+  },
+  {
+    "cip": "52.09",
+    "name": "Hospitality administration/management",
+    "category": "Business, management and public administration"
+  },
+  {
+    "cip": "52.10",
+    "name": "Human resources management and services",
+    "category": "Business, management and public administration"
+  },
+  {
+    "cip": "44.00",
+    "name": "Human services, general",
+    "category": "Business, management and public administration"
+  },
+  {
+    "cip": "52.11",
+    "name": "International business/trade/commerce",
+    "category": "Business, management and public administration"
+  },
+  {
+    "cip": "52.12",
+    "name": "Management information systems and services",
+    "category": "Business, management and public administration"
+  },
+  {
+    "cip": "52.13",
+    "name": "Management sciences and quantitative methods",
+    "category": "Business, management and public administration"
+  },
+  {
+    "cip": "52.14",
+    "name": "Marketing",
+    "category": "Business, management and public administration"
+  },
+  {
+    "cip": "44.04",
+    "name": "Public administration",
+    "category": "Business, management and public administration"
+  },
+  {
+    "cip": "44.05",
+    "name": "Public policy analysis",
+    "category": "Business, management and public administration"
+  },
+  {
+    "cip": "52.15",
+    "name": "Real estate",
+    "category": "Business, management and public administration"
+  },
+  {
+    "cip": "44.07",
+    "name": "Social work",
+    "category": "Business, management and public administration"
+  },
+  {
+    "cip": "52.19",
+    "name": "Specialized sales, merchandising and marketing operations",
+    "category": "Business, management and public administration"
+  },
+  {
+    "cip": "13.02",
+    "name": "Bilingual, multilingual and multicultural education",
+    "category": "Education"
+  },
+  {
+    "cip": "13.01",
+    "name": "Education, general",
+    "category": "Education"
+  },
+  {
+    "cip": "13.10",
+    "name": "Special education and teaching",
+    "category": "Education"
+  },
+  {
+    "cip": "13.11",
+    "name": "Student counselling and personnel services",
+    "category": "Education"
+  },
+  {
+    "cip": "13.12",
+    "name": "Teacher education and professional development, specific levels and methods",
+    "category": "Education"
+  },
+  {
+    "cip": "13.13",
+    "name": "Teacher education and professional development, specific subject areas",
+    "category": "Education"
+  },
+  {
+    "cip": "13.14",
+    "name": "Teaching English or French as a second or foreign language",
+    "category": "Education"
+  },
+  {
+    "cip": "51.09",
+    "name": "Allied health diagnostic, intervention and treatment professions",
+    "category": "Health and related fields"
+  },
+  {
+    "cip": "51.34",
+    "name": "Alternative and complementary medical support services",
+    "category": "Health and related fields"
+  },
+  {
+    "cip": "51.10",
+    "name": "Clinical/medical laboratory science/research and allied professions",
+    "category": "Health and related fields"
+  },
+  {
+    "cip": "51.02",
+    "name": "Communication disorders sciences and services",
+    "category": "Health and related fields"
+  },
+  {
+    "cip": "51.06",
+    "name": "Dental support services and allied professions",
+    "category": "Health and related fields"
+  },
+  {
+    "cip": "51.31",
+    "name": "Dietetics and clinical nutrition services",
+    "category": "Health and related fields"
+  },
+  {
+    "cip": "51.00",
+    "name": "General health services/allied health/health sciences",
+    "category": "Health and related fields"
+  },
+  {
+    "cip": "51.07",
+    "name": "Health and medical administrative services",
+    "category": "Health and related fields"
+  },
+  {
+    "cip": "51.32",
+    "name": "Health professions education, ethics, and humanities",
+    "category": "Health and related fields"
+  },
+  {
+    "cip": "51.11",
+    "name": "Health/medical preparatory programs",
+    "category": "Health and related fields"
+  },
+  {
+    "cip": "51.27",
+    "name": "Medical illustration and informatics",
+    "category": "Health and related fields"
+  },
+  {
+    "cip": "51.15",
+    "name": "Mental and social health services and allied professions",
+    "category": "Health and related fields"
+  },
+  {
+    "cip": "31.06",
+    "name": "Outdoor education",
+    "category": "Health and related fields"
+  },
+  {
+    "cip": "31.01",
+    "name": "Parks, recreation, and leisure studies",
+    "category": "Health and related fields"
+  },
+  {
+    "cip": "51.20",
+    "name": "Pharmacy, pharmaceutical sciences and administration",
+    "category": "Health and related fields"
+  },
+  {
+    "cip": "51.22",
+    "name": "Public health",
+    "category": "Health and related fields"
+  },
+  {
+    "cip": "51.38",
+    "name": "Registered nursing, nursing administration, nursing research and clinical nursing",
+    "category": "Health and related fields"
+  },
+  {
+    "cip": "51.23",
+    "name": "Rehabilitation and therapeutic professions",
+    "category": "Health and related fields"
+  },
+  {
+    "cip": "51.35",
+    "name": "Somatic bodywork and related therapeutic services",
+    "category": "Health and related fields"
+  },
+  {
+    "cip": "31.05",
+    "name": "Sports, kinesiology, and physical education/physical fitness",
+    "category": "Health and related fields"
+  },
+  {
+    "cip": "39.02",
+    "name": "Bible/Biblical studies",
+    "category": "Humanities"
+  },
+  {
+    "cip": "30.22",
+    "name": "Classical and ancient studies",
+    "category": "Humanities"
+  },
+  {
+    "cip": "23.01",
+    "name": "English language and literature, general",
+    "category": "Humanities"
+  },
+  {
+    "cip": "23.14",
+    "name": "English literature",
+    "category": "Humanities"
+  },
+  {
+    "cip": "23.13",
+    "name": "English rhetoric and composition/writing studies",
+    "category": "Humanities"
+  },
+  {
+    "cip": "55.01",
+    "name": "French language and literature, general",
+    "category": "Humanities"
+  },
+  {
+    "cip": "55.14",
+    "name": "French literature",
+    "category": "Humanities"
+  },
+  {
+    "cip": "55.13",
+    "name": "French rhetoric and composition/writing studies",
+    "category": "Humanities"
+  },
+  {
+    "cip": "54.01",
+    "name": "History",
+    "category": "Humanities"
+  },
+  {
+    "cip": "30.45",
+    "name": "History and language/literature",
+    "category": "Humanities"
+  },
+  {
+    "cip": "24.01",
+    "name": "Liberal arts and sciences, general studies and humanities",
+    "category": "Humanities"
+  },
+  {
+    "cip": "16.01",
+    "name": "Linguistic, comparative and related language studies and services",
+    "category": "Humanities"
+  },
+  {
+    "cip": "39.07",
+    "name": "Pastoral counselling and specialized ministries",
+    "category": "Humanities"
+  },
+  {
+    "cip": "38.01",
+    "name": "Philosophy, logic and ethics",
+    "category": "Humanities"
+  },
+  {
+    "cip": "38.02",
+    "name": "Religion/religious studies",
+    "category": "Humanities"
+  },
+  {
+    "cip": "39.04",
+    "name": "Religious education",
+    "category": "Humanities"
+  },
+  {
+    "cip": "16.09",
+    "name": "Romance languages, literatures and linguistics",
+    "category": "Humanities"
+  },
+  {
+    "cip": "16.17",
+    "name": "Second language learning",
+    "category": "Humanities"
+  },
+  {
+    "cip": "39.06",
+    "name": "Theological and ministerial studies",
+    "category": "Humanities"
+  },
+  {
+    "cip": "27.03",
+    "name": "Applied mathematics",
+    "category": "Mathematics, computer and information sciences"
+  },
+  {
+    "cip": "11.01",
+    "name": "Computer and information sciences and support services, general",
+    "category": "Mathematics, computer and information sciences"
+  },
+  {
+    "cip": "11.99",
+    "name": "Computer and information sciences and support services, other",
+    "category": "Mathematics, computer and information sciences"
+  },
+  {
+    "cip": "11.02",
+    "name": "Computer programming",
+    "category": "Mathematics, computer and information sciences"
+  },
+  {
+    "cip": "11.07",
+    "name": "Computer science",
+    "category": "Mathematics, computer and information sciences"
+  },
+  {
+    "cip": "11.08",
+    "name": "Computer software and media applications",
+    "category": "Mathematics, computer and information sciences"
+  },
+  {
+    "cip": "11.10",
+    "name": "Computer/information technology administration and management",
+    "category": "Mathematics, computer and information sciences"
+  },
+  {
+    "cip": "30.39",
+    "name": "Economics and computer science",
+    "category": "Mathematics, computer and information sciences"
+  },
+  {
+    "cip": "30.49",
+    "name": "Mathematical economics",
+    "category": "Mathematics, computer and information sciences"
+  },
+  {
+    "cip": "27.01",
+    "name": "Mathematics",
+    "category": "Mathematics, computer and information sciences"
+  },
+  {
+    "cip": "30.08",
+    "name": "Mathematics and computer science",
+    "category": "Mathematics, computer and information sciences"
+  },
+  {
+    "cip": "27.05",
+    "name": "Statistics",
+    "category": "Mathematics, computer and information sciences"
+  },
+  {
+    "cip": "30.99",
+    "name": "Multidisciplinary/interdisciplinary studies, other",
+    "category": "Other"
+  },
+  {
+    "cip": "49.01",
+    "name": "Air transportation",
+    "category": "Personal, protective and transportation services"
+  },
+  {
+    "cip": "43.01",
+    "name": "Criminal justice and corrections",
+    "category": "Personal, protective and transportation services"
+  },
+  {
+    "cip": "28.08",
+    "name": "Military science, leadership and operational art",
+    "category": "Personal, protective and transportation services"
+  },
+  {
+    "cip": "43.03",
+    "name": "Security and protective services, specialized programs",
+    "category": "Personal, protective and transportation services"
+  },
+  {
+    "cip": "43.04",
+    "name": "Security science and technology",
+    "category": "Personal, protective and transportation services"
+  },
+  {
+    "cip": "40.02",
+    "name": "Astronomy and astrophysics",
+    "category": "Physical and life sciences and technologies"
+  },
+  {
+    "cip": "26.02",
+    "name": "Biochemistry/biophysics and molecular biology",
+    "category": "Physical and life sciences and technologies"
+  },
+  {
+    "cip": "30.01",
+    "name": "Biological and physical sciences",
+    "category": "Physical and life sciences and technologies"
+  },
+  {
+    "cip": "26.01",
+    "name": "Biology, general",
+    "category": "Physical and life sciences and technologies"
+  },
+  {
+    "cip": "30.10",
+    "name": "Biopsychology",
+    "category": "Physical and life sciences and technologies"
+  },
+  {
+    "cip": "26.12",
+    "name": "Biotechnology",
+    "category": "Physical and life sciences and technologies"
+  },
+  {
+    "cip": "26.03",
+    "name": "Botany/plant biology",
+    "category": "Physical and life sciences and technologies"
+  },
+  {
+    "cip": "26.04",
+    "name": "Cell/cellular biology and anatomical sciences",
+    "category": "Physical and life sciences and technologies"
+  },
+  {
+    "cip": "40.05",
+    "name": "Chemistry",
+    "category": "Physical and life sciences and technologies"
+  },
+  {
+    "cip": "26.13",
+    "name": "Ecology, evolution, systematics and population biology",
+    "category": "Physical and life sciences and technologies"
+  },
+  {
+    "cip": "26.08",
+    "name": "Genetics",
+    "category": "Physical and life sciences and technologies"
+  },
+  {
+    "cip": "40.06",
+    "name": "Geological and Earth sciences/geosciences",
+    "category": "Physical and life sciences and technologies"
+  },
+  {
+    "cip": "30.27",
+    "name": "Human biology",
+    "category": "Physical and life sciences and technologies"
+  },
+  {
+    "cip": "26.05",
+    "name": "Microbiological sciences and immunology",
+    "category": "Physical and life sciences and technologies"
+  },
+  {
+    "cip": "26.15",
+    "name": "Neurobiology and neurosciences",
+    "category": "Physical and life sciences and technologies"
+  },
+  {
+    "cip": "30.19",
+    "name": "Nutrition sciences",
+    "category": "Physical and life sciences and technologies"
+  },
+  {
+    "cip": "26.10",
+    "name": "Pharmacology and toxicology",
+    "category": "Physical and life sciences and technologies"
+  },
+  {
+    "cip": "40.01",
+    "name": "Physical sciences, general",
+    "category": "Physical and life sciences and technologies"
+  },
+  {
+    "cip": "40.08",
+    "name": "Physics",
+    "category": "Physical and life sciences and technologies"
+  },
+  {
+    "cip": "26.09",
+    "name": "Physiology, pathology and related sciences",
+    "category": "Physical and life sciences and technologies"
+  },
+  {
+    "cip": "26.07",
+    "name": "Zoology/animal biology",
+    "category": "Physical and life sciences and technologies"
+  },
+  {
+    "cip": "45.02",
+    "name": "Anthropology",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "19.09",
+    "name": "Apparel and textiles",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "45.03",
+    "name": "Archaeology",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "05.01",
+    "name": "Area studies",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "30.17",
+    "name": "Behavioural sciences",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "42.28",
+    "name": "Clinical, counselling and applied psychology",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "30.25",
+    "name": "Cognitive science",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "09.01",
+    "name": "Communication and media studies",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "09.99",
+    "name": "Communication, journalism and related programs, other",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "45.04",
+    "name": "Criminology",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "30.26",
+    "name": "Cultural studies/critical theory and analysis",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "45.06",
     "name": "Economics",
-    "category": "Social & Behavioural Sciences"
+    "category": "Social and behavioural sciences and law"
   },
   {
-    "cip": "26.0101",
-    "name": "Biology / Biological Sciences",
-    "category": "Natural Sciences"
+    "cip": "05.02",
+    "name": "Ethnic, cultural minority, gender, and group studies",
+    "category": "Social and behavioural sciences and law"
   },
   {
-    "cip": "27.0101",
-    "name": "Mathematics & Statistics",
-    "category": "Natural Sciences"
+    "cip": "19.02",
+    "name": "Family and consumer sciences/human sciences business services",
+    "category": "Social and behavioural sciences and law"
   },
   {
-    "cip": "50.0409",
-    "name": "Graphic Design & Digital Media",
-    "category": "Arts & Design"
+    "cip": "19.01",
+    "name": "Family and consumer sciences/human sciences, general",
+    "category": "Social and behavioural sciences and law"
   },
   {
-    "cip": "13.1202",
-    "name": "Elementary Education and Teaching",
-    "category": "Education & Teaching"
+    "cip": "19.99",
+    "name": "Family and consumer sciences/human sciences, other",
+    "category": "Social and behavioural sciences and law"
   },
   {
-    "cip": "13.1205",
-    "name": "Secondary Education and Teaching",
-    "category": "Education & Teaching"
+    "cip": "19.05",
+    "name": "Foods, nutrition and related services",
+    "category": "Social and behavioural sciences and law"
   },
   {
-    "cip": "22.0101",
-    "name": "Law (JD/LL.B)",
-    "category": "Legal & Public Policy"
+    "cip": "45.01",
+    "name": "General social sciences",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "45.07",
+    "name": "Geography and cartography",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "30.44",
+    "name": "Geography and environmental studies",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "30.11",
+    "name": "Gerontology",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "30.46",
+    "name": "History and political science",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "19.07",
+    "name": "Human development, family studies and related services",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "45.09",
+    "name": "International relations and national security studies",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "30.20",
+    "name": "International/globalization studies",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "09.04",
+    "name": "Journalism",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "22.01",
+    "name": "Law (LLB, BCL)",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "22.03",
+    "name": "Legal support services",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "22.00",
+    "name": "Non-professional legal studies",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "30.05",
+    "name": "Peace studies and conflict resolution",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "45.10",
+    "name": "Political science and government",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "42.01",
+    "name": "Psychology, general",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "09.09",
+    "name": "Public relations, advertising and applied communication",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "09.07",
+    "name": "Radio, television and digital communication",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "42.27",
+    "name": "Research and experimental psychology",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "45.99",
+    "name": "Social sciences, other",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "45.11",
+    "name": "Sociology",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "45.13",
+    "name": "Sociology and anthropology",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "30.33",
+    "name": "Sustainability studies",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "45.12",
+    "name": "Urban studies/affairs",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "19.10",
+    "name": "Work and family studies",
+    "category": "Social and behavioural sciences and law"
+  },
+  {
+    "cip": "50.03",
+    "name": "Dance",
+    "category": "Visual and performing arts, and communications technologies"
+  },
+  {
+    "cip": "50.04",
+    "name": "Design and applied arts",
+    "category": "Visual and performing arts, and communications technologies"
+  },
+  {
+    "cip": "50.05",
+    "name": "Drama/theatre arts and stagecraft",
+    "category": "Visual and performing arts, and communications technologies"
+  },
+  {
+    "cip": "50.06",
+    "name": "Film/video and photographic arts",
+    "category": "Visual and performing arts, and communications technologies"
+  },
+  {
+    "cip": "50.07",
+    "name": "Fine arts and art studies",
+    "category": "Visual and performing arts, and communications technologies"
+  },
+  {
+    "cip": "10.03",
+    "name": "Graphic communications",
+    "category": "Visual and performing arts, and communications technologies"
+  },
+  {
+    "cip": "50.09",
+    "name": "Music",
+    "category": "Visual and performing arts, and communications technologies"
+  },
+  {
+    "cip": "50.01",
+    "name": "Visual, digital and performing arts, general",
+    "category": "Visual and performing arts, and communications technologies"
   }
 ]

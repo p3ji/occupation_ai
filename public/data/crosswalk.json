@@ -1,190 +1,8129 @@
 {
-  "11.0101": {
-    "primary": [
-      "21232",
-      "21211"
+  "13.01": {
+    "men": [
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 39.4
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 35.1
+      },
+      {
+        "noc": "41210",
+        "title": "College and other vocational instructors",
+        "share": 1.4
+      },
+      {
+        "noc": "42202",
+        "title": "Early childhood educators and assistants",
+        "share": 0.9
+      },
+      {
+        "noc": "43109",
+        "title": "Other instructors",
+        "share": 0.9
+      }
     ],
-    "related": [
-      "20012",
-      "21234"
+    "women": [
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 65.1
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 16.1
+      },
+      {
+        "noc": "42202",
+        "title": "Early childhood educators and assistants",
+        "share": 3.0
+      },
+      {
+        "noc": "41210",
+        "title": "College and other vocational instructors",
+        "share": 0.7
+      },
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 0.6
+      }
     ]
   },
-  "11.0801": {
-    "primary": [
-      "21234",
-      "21232"
+  "13.10": {
+    "men": [
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 42.5
+      },
+      {
+        "noc": "412",
+        "title": "Professional occupations in education services",
+        "share": 40.7
+      }
     ],
-    "related": [
-      "52120"
+    "women": [
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 56.2
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 24.5
+      },
+      {
+        "noc": "42203",
+        "title": "Instructors of persons with disabilities",
+        "share": 4.9
+      },
+      {
+        "noc": "42202",
+        "title": "Early childhood educators and assistants",
+        "share": 2.1
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 3.3
+      }
     ]
   },
-  "11.0401": {
-    "primary": [
-      "21211",
-      "20012"
+  "13.11": {
+    "men": [
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 55.0
+      }
     ],
-    "related": [
-      "21232"
+    "women": [
+      {
+        "noc": "12101",
+        "title": "Human resources and recruitment officers",
+        "share": 14.4
+      },
+      {
+        "noc": "11200",
+        "title": "Human resources professionals",
+        "share": 10.0
+      },
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 8.9
+      },
+      {
+        "noc": "4132",
+        "title": "Educational and employment counsellors",
+        "share": 10.4
+      },
+      {
+        "noc": "131",
+        "title": "Administrative occupations",
+        "share": 7.3
+      }
     ]
   },
-  "52.0201": {
-    "primary": [
-      "10010",
-      "12101"
+  "13.12": {
+    "men": [
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 38.1
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 36.1
+      },
+      {
+        "noc": "4220",
+        "title": "Paraprofessional occupations in legal, social, community and education services",
+        "share": 4.3
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 5.2
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 4.4
+      }
     ],
-    "related": [
-      "11100",
-      "20012"
+    "women": [
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 60.5
+      },
+      {
+        "noc": "42202",
+        "title": "Early childhood educators and assistants",
+        "share": 16.2
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 7.3
+      },
+      {
+        "noc": "13110",
+        "title": "Administrative assistants",
+        "share": 0.8
+      },
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 0.8
+      }
     ]
   },
-  "52.0301": {
-    "primary": [
-      "11100"
+  "13.13": {
+    "men": [
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 38.3
+      },
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 33.6
+      },
+      {
+        "noc": "41210",
+        "title": "College and other vocational instructors",
+        "share": 1.8
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 1.1
+      },
+      {
+        "noc": "4310",
+        "title": "Assisting occupations in education",
+        "share": 1.3
+      }
     ],
-    "related": [
-      "10010",
-      "11101"
+    "women": [
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 49.7
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 27.1
+      },
+      {
+        "noc": "42202",
+        "title": "Early childhood educators and assistants",
+        "share": 1.4
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 1.0
+      },
+      {
+        "noc": "41210",
+        "title": "College and other vocational instructors",
+        "share": 1.0
+      }
     ]
   },
-  "52.0801": {
-    "primary": [
-      "11101",
-      "10010"
+  "13.14": {
+    "men": [
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 44.0
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 25.8
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 23.7
+      }
     ],
-    "related": [
-      "11100"
+    "women": [
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 40.5
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 28.6
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 10.3
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 9.0
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 7.7
+      }
     ]
   },
-  "52.1401": {
-    "primary": [
-      "11202"
+  "10.03": {
+    "men": [
+      {
+        "noc": "52120",
+        "title": "Graphic designers and illustrators",
+        "share": 37.6
+      },
+      {
+        "noc": "52111",
+        "title": "Graphic arts technicians",
+        "share": 12.4
+      },
+      {
+        "noc": "2123",
+        "title": "Computer, software and Web designers and developers",
+        "share": 6.2
+      },
+      {
+        "noc": "531",
+        "title": "Occupations in art and culture",
+        "share": 4.0
+      },
+      {
+        "noc": "65",
+        "title": "Sales and service support occupations",
+        "share": 4.4
+      }
     ],
-    "related": [
-      "52120",
-      "12101"
+    "women": [
+      {
+        "noc": "52120",
+        "title": "Graphic designers and illustrators",
+        "share": 37.0
+      },
+      {
+        "noc": "52111",
+        "title": "Graphic arts technicians",
+        "share": 4.9
+      },
+      {
+        "noc": "10022",
+        "title": "Advertising, marketing and public relations managers",
+        "share": 3.5
+      },
+      {
+        "noc": "131",
+        "title": "Administrative occupations",
+        "share": 4.7
+      },
+      {
+        "noc": "531",
+        "title": "Occupations in art and culture",
+        "share": 3.8
+      }
     ]
   },
-  "52.1001": {
-    "primary": [
-      "12101"
+  "50.01": {
+    "men": [
+      {
+        "noc": "52120",
+        "title": "Graphic designers and illustrators",
+        "share": 10.6
+      },
+      {
+        "noc": "531",
+        "title": "Occupations in art and culture",
+        "share": 10.6
+      },
+      {
+        "noc": "65",
+        "title": "Sales and service support occupations",
+        "share": 10.5
+      },
+      {
+        "noc": "64",
+        "title": "Sales and service representatives and other customer and personal services occupations",
+        "share": 9.2
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 7.2
+      }
     ],
-    "related": [
-      "11202"
+    "women": [
+      {
+        "noc": "52120",
+        "title": "Graphic designers and illustrators",
+        "share": 7.8
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 5.1
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 3.7
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 3.7
+      },
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 3.0
+      }
     ]
   },
-  "51.3801": {
-    "primary": [
-      "31301"
+  "50.04": {
+    "men": [
+      {
+        "noc": "52120",
+        "title": "Graphic designers and illustrators",
+        "share": 28.1
+      },
+      {
+        "noc": "22211",
+        "title": "Industrial designers",
+        "share": 9.6
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 3.9
+      },
+      {
+        "noc": "52121",
+        "title": "Interior designers and interior decorators",
+        "share": 3.6
+      },
+      {
+        "noc": "21233",
+        "title": "Web designers",
+        "share": 3.2
+      }
     ],
-    "related": []
-  },
-  "51.1201": {
-    "primary": [
-      "31102"
-    ],
-    "related": []
-  },
-  "14.1001": {
-    "primary": [
-      "21310"
-    ],
-    "related": [
-      "21232",
-      "20012"
+    "women": [
+      {
+        "noc": "52120",
+        "title": "Graphic designers and illustrators",
+        "share": 28.6
+      },
+      {
+        "noc": "52121",
+        "title": "Interior designers and interior decorators",
+        "share": 16.0
+      },
+      {
+        "noc": "22211",
+        "title": "Industrial designers",
+        "share": 4.3
+      },
+      {
+        "noc": "53123",
+        "title": "Theatre, fashion, exhibit and other creative designers",
+        "share": 3.9
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 3.8
+      }
     ]
   },
-  "14.1901": {
-    "primary": [
-      "21301"
+  "50.05": {
+    "men": [
+      {
+        "noc": "53121",
+        "title": "Actors, comedians and circus performers",
+        "share": 11.7
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 5.6
+      },
+      {
+        "noc": "51120",
+        "title": "Producers, directors, choreographers and related occupations",
+        "share": 4.4
+      },
+      {
+        "noc": "65201",
+        "title": "Food counter attendants, kitchen helpers and related support occupations",
+        "share": 3.8
+      },
+      {
+        "noc": "52119",
+        "title": "Other technical and coordinating occupations in motion pictures, broadcasting and the performing arts",
+        "share": 2.8
+      }
     ],
-    "related": [
-      "21310",
-      "21300"
+    "women": [
+      {
+        "noc": "53121",
+        "title": "Actors, comedians and circus performers",
+        "share": 6.5
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 4.8
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 4.0
+      },
+      {
+        "noc": "65200",
+        "title": "Food and beverage servers",
+        "share": 3.6
+      },
+      {
+        "noc": "51120",
+        "title": "Producers, directors, choreographers and related occupations",
+        "share": 3.5
+      }
     ]
   },
-  "14.0801": {
-    "primary": [
-      "21300"
+  "50.06": {
+    "men": [
+      {
+        "noc": "51120",
+        "title": "Producers, directors, choreographers and related occupations",
+        "share": 15.7
+      },
+      {
+        "noc": "52113",
+        "title": "Audio and video recording technicians",
+        "share": 9.0
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 6.0
+      },
+      {
+        "noc": "53111",
+        "title": "Motion pictures, broadcasting, photography and performing arts assistants and operators",
+        "share": 5.3
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 4.4
+      }
     ],
-    "related": [
-      "21301"
+    "women": [
+      {
+        "noc": "51120",
+        "title": "Producers, directors, choreographers and related occupations",
+        "share": 8.1
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 7.0
+      },
+      {
+        "noc": "53110",
+        "title": "Photographers",
+        "share": 6.8
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 5.9
+      },
+      {
+        "noc": "10022",
+        "title": "Advertising, marketing and public relations managers",
+        "share": 3.9
+      }
     ]
   },
-  "42.0101": {
-    "primary": [
-      "31200"
+  "50.07": {
+    "men": [
+      {
+        "noc": "52120",
+        "title": "Graphic designers and illustrators",
+        "share": 10.0
+      },
+      {
+        "noc": "53122",
+        "title": "Painters, sculptors and other visual artists",
+        "share": 4.0
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 3.9
+      },
+      {
+        "noc": "60020",
+        "title": "Retail and wholesale trade managers",
+        "share": 3.1
+      },
+      {
+        "noc": "51120",
+        "title": "Producers, directors, choreographers and related occupations",
+        "share": 2.7
+      }
     ],
-    "related": [
-      "41300",
-      "12101"
+    "women": [
+      {
+        "noc": "52120",
+        "title": "Graphic designers and illustrators",
+        "share": 8.4
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 4.8
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 4.0
+      },
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 2.7
+      },
+      {
+        "noc": "60020",
+        "title": "Retail and wholesale trade managers",
+        "share": 2.7
+      }
     ]
   },
-  "44.0701": {
-    "primary": [
-      "41300"
+  "50.09": {
+    "men": [
+      {
+        "noc": "51122",
+        "title": "Musicians and singers",
+        "share": 23.5
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 6.6
+      },
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 3.7
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 3.3
+      },
+      {
+        "noc": "51121",
+        "title": "Conductors, composers and arrangers",
+        "share": 3.2
+      }
     ],
-    "related": [
-      "31200"
+    "women": [
+      {
+        "noc": "51122",
+        "title": "Musicians and singers",
+        "share": 27.1
+      },
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 9.5
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 3.0
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 2.4
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 2.4
+      }
     ]
   },
-  "45.0601": {
-    "primary": [
-      "11101",
-      "41400"
+  "16.01": {
+    "men": [
+      {
+        "noc": "51114",
+        "title": "Translators, terminologists and interpreters",
+        "share": 19.1
+      },
+      {
+        "noc": "5111",
+        "title": "Writing, translating and related communications professionals",
+        "share": 6.7
+      },
+      {
+        "noc": "6410",
+        "title": "Retail salespersons and non-technical wholesale trade sales and account representatives",
+        "share": 4.6
+      },
+      {
+        "noc": "412",
+        "title": "Professional occupations in education services",
+        "share": 9.3
+      },
+      {
+        "noc": "141",
+        "title": "Office, court, and data support occupations",
+        "share": 4.7
+      }
     ],
-    "related": [
-      "11100"
+    "women": [
+      {
+        "noc": "51114",
+        "title": "Translators, terminologists and interpreters",
+        "share": 16.1
+      },
+      {
+        "noc": "13110",
+        "title": "Administrative assistants",
+        "share": 5.5
+      },
+      {
+        "noc": "51110",
+        "title": "Editors",
+        "share": 3.2
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 3.1
+      },
+      {
+        "noc": "64409",
+        "title": "Other customer and information services representatives",
+        "share": 2.9
+      }
     ]
   },
-  "26.0101": {
-    "primary": [
-      "21110"
+  "23.01": {
+    "men": [
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 4.4
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 4.2
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 3.8
+      },
+      {
+        "noc": "51111",
+        "title": "Authors and writers (except technical)",
+        "share": 3.6
+      },
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 3.1
+      }
     ],
-    "related": [
-      "31102",
-      "41400"
+    "women": [
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 8.1
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 6.4
+      },
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 3.8
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 3.8
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 3.8
+      }
     ]
   },
-  "27.0101": {
-    "primary": [
-      "21211"
+  "23.13": {
+    "men": [
+      {
+        "noc": "5111",
+        "title": "Writing, translating and related communications professionals",
+        "share": 13.6
+      },
+      {
+        "noc": "11",
+        "title": "Professional occupations in finance and business",
+        "share": 10.7
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 27.0
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 12.9
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 11.6
+      }
     ],
-    "related": [
-      "21232",
-      "11101"
+    "women": [
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 15.5
+      },
+      {
+        "noc": "51111",
+        "title": "Authors and writers (except technical)",
+        "share": 6.8
+      },
+      {
+        "noc": "10022",
+        "title": "Advertising, marketing and public relations managers",
+        "share": 6.7
+      },
+      {
+        "noc": "51110",
+        "title": "Editors",
+        "share": 5.8
+      },
+      {
+        "noc": "64",
+        "title": "Sales and service representatives and other customer and personal services occupations",
+        "share": 8.1
+      }
     ]
   },
-  "50.0409": {
-    "primary": [
-      "52120"
+  "23.14": {
+    "men": [
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 6.5
+      },
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 4.5
+      },
+      {
+        "noc": "51111",
+        "title": "Authors and writers (except technical)",
+        "share": 4.3
+      },
+      {
+        "noc": "5111",
+        "title": "Writing, translating and related communications professionals",
+        "share": 6.0
+      },
+      {
+        "noc": "521",
+        "title": "Technical occupations in art and culture",
+        "share": 5.3
+      }
     ],
-    "related": [
-      "11202",
-      "21234"
+    "women": [
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 8.3
+      },
+      {
+        "noc": "51111",
+        "title": "Authors and writers (except technical)",
+        "share": 4.5
+      },
+      {
+        "noc": "13110",
+        "title": "Administrative assistants",
+        "share": 4.1
+      },
+      {
+        "noc": "10022",
+        "title": "Advertising, marketing and public relations managers",
+        "share": 4.0
+      },
+      {
+        "noc": "64409",
+        "title": "Other customer and information services representatives",
+        "share": 3.9
+      }
     ]
   },
-  "13.1202": {
-    "primary": [
-      "41221"
+  "24.01": {
+    "men": [
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 4.3
+      },
+      {
+        "noc": "60020",
+        "title": "Retail and wholesale trade managers",
+        "share": 2.8
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 2.7
+      },
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 2.0
+      },
+      {
+        "noc": "64409",
+        "title": "Other customer and information services representatives",
+        "share": 1.6
+      }
     ],
-    "related": [
-      "41220"
+    "women": [
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 5.4
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 4.1
+      },
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 4.1
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 4.0
+      },
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 2.9
+      }
     ]
   },
-  "13.1205": {
-    "primary": [
-      "41220"
+  "30.22": {
+    "men": [
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 29.6
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 22.0
+      },
+      {
+        "noc": "5",
+        "title": "Occupations in art, culture, recreation and sport",
+        "share": 14.7
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 12.2
+      }
     ],
-    "related": [
-      "41221"
+    "women": [
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 7.5
+      },
+      {
+        "noc": "1311",
+        "title": "Office administrative assistants - general, legal and medical",
+        "share": 8.9
+      },
+      {
+        "noc": "412",
+        "title": "Professional occupations in education services",
+        "share": 8.6
+      },
+      {
+        "noc": "64",
+        "title": "Sales and service representatives and other customer and personal services occupations",
+        "share": 9.7
+      },
+      {
+        "noc": "14",
+        "title": "Administrative and financial support and supply chain logistics occupations",
+        "share": 7.1
+      }
     ]
   },
-  "22.0101": {
-    "primary": [
-      "41101"
+  "30.45": {
+    "men": [
+      {
+        "noc": "4122",
+        "title": "Secondary, elementary and kindergarten school teachers",
+        "share": 17.5
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 34.1
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 17.3
+      }
     ],
-    "related": [
-      "41400"
+    "women": [
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 9.8
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 8.5
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 7.3
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 6.9
+      },
+      {
+        "noc": "1410",
+        "title": "Office support and court services occupations",
+        "share": 4.7
+      }
+    ]
+  },
+  "38.01": {
+    "men": [
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 6.2
+      },
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 4.9
+      },
+      {
+        "noc": "64409",
+        "title": "Other customer and information services representatives",
+        "share": 3.2
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 3.1
+      },
+      {
+        "noc": "21232",
+        "title": "Software developers and programmers",
+        "share": 2.6
+      }
+    ],
+    "women": [
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 5.8
+      },
+      {
+        "noc": "42200",
+        "title": "Paralegals and related occupations",
+        "share": 4.6
+      },
+      {
+        "noc": "10022",
+        "title": "Advertising, marketing and public relations managers",
+        "share": 3.7
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 3.1
+      },
+      {
+        "noc": "64409",
+        "title": "Other customer and information services representatives",
+        "share": 2.8
+      }
+    ]
+  },
+  "38.02": {
+    "men": [
+      {
+        "noc": "41302",
+        "title": "Religious leaders",
+        "share": 12.0
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 9.0
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 11.7
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 16.3
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 14.9
+      }
+    ],
+    "women": [
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 8.3
+      },
+      {
+        "noc": "4220",
+        "title": "Paraprofessional occupations in legal, social, community and education services",
+        "share": 9.8
+      },
+      {
+        "noc": "131",
+        "title": "Administrative occupations",
+        "share": 7.0
+      },
+      {
+        "noc": "652",
+        "title": "Support occupations in food, accommodation and tourism",
+        "share": 5.5
+      },
+      {
+        "noc": "11",
+        "title": "Professional occupations in finance and business",
+        "share": 9.6
+      }
+    ]
+  },
+  "39.02": {
+    "men": [
+      {
+        "noc": "41302",
+        "title": "Religious leaders",
+        "share": 31.0
+      },
+      {
+        "noc": "7",
+        "title": "Trades, transport and equipment operators and related occupations",
+        "share": 23.9
+      }
+    ],
+    "women": []
+  },
+  "39.06": {
+    "men": [
+      {
+        "noc": "41302",
+        "title": "Religious leaders",
+        "share": 37.9
+      },
+      {
+        "noc": "7",
+        "title": "Trades, transport and equipment operators and related occupations",
+        "share": 14.5
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 12.8
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 8.9
+      }
+    ],
+    "women": [
+      {
+        "noc": "41302",
+        "title": "Religious leaders",
+        "share": 24.1
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 26.9
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 24.7
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 15.6
+      }
+    ]
+  },
+  "39.07": {
+    "men": [
+      {
+        "noc": "41302",
+        "title": "Religious leaders",
+        "share": 36.0
+      }
+    ],
+    "women": []
+  },
+  "54.01": {
+    "men": [
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 4.0
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 4.0
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 2.8
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 2.5
+      },
+      {
+        "noc": "64409",
+        "title": "Other customer and information services representatives",
+        "share": 2.1
+      }
+    ],
+    "women": [
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 7.8
+      },
+      {
+        "noc": "13110",
+        "title": "Administrative assistants",
+        "share": 4.3
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 4.2
+      },
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 4.0
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 3.2
+      }
+    ]
+  },
+  "55.01": {
+    "men": [
+      {
+        "noc": "4122",
+        "title": "Secondary, elementary and kindergarten school teachers",
+        "share": 18.1
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 28.0
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 17.6
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 14.1
+      }
+    ],
+    "women": [
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 25.9
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 6.3
+      },
+      {
+        "noc": "64409",
+        "title": "Other customer and information services representatives",
+        "share": 4.3
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 3.4
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 3.3
+      }
+    ]
+  },
+  "55.14": {
+    "men": [
+      {
+        "noc": "412",
+        "title": "Professional occupations in education services",
+        "share": 16.3
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 24.6
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 19.0
+      }
+    ],
+    "women": [
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 8.6
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 6.7
+      },
+      {
+        "noc": "13110",
+        "title": "Administrative assistants",
+        "share": 6.2
+      },
+      {
+        "noc": "4122",
+        "title": "Secondary, elementary and kindergarten school teachers",
+        "share": 6.0
+      },
+      {
+        "noc": "5111",
+        "title": "Writing, translating and related communications professionals",
+        "share": 5.7
+      }
+    ]
+  },
+  "05.01": {
+    "men": [
+      {
+        "noc": "64",
+        "title": "Sales and service representatives and other customer and personal services occupations",
+        "share": 15.6
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 10.7
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 25.1
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 17.3
+      },
+      {
+        "noc": "7",
+        "title": "Trades, transport and equipment operators and related occupations",
+        "share": 14.5
+      }
+    ],
+    "women": [
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 12.0
+      },
+      {
+        "noc": "64409",
+        "title": "Other customer and information services representatives",
+        "share": 4.8
+      },
+      {
+        "noc": "13110",
+        "title": "Administrative assistants",
+        "share": 4.5
+      },
+      {
+        "noc": "60020",
+        "title": "Retail and wholesale trade managers",
+        "share": 3.5
+      },
+      {
+        "noc": "14100",
+        "title": "General office support workers",
+        "share": 3.3
+      }
+    ]
+  },
+  "05.02": {
+    "men": [
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 40.6
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 18.4
+      }
+    ],
+    "women": [
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 7.9
+      },
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 4.7
+      },
+      {
+        "noc": "13110",
+        "title": "Administrative assistants",
+        "share": 3.8
+      },
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 3.6
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 3.4
+      }
+    ]
+  },
+  "09.01": {
+    "men": [
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 15.6
+      },
+      {
+        "noc": "10022",
+        "title": "Advertising, marketing and public relations managers",
+        "share": 6.7
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 4.1
+      },
+      {
+        "noc": "64409",
+        "title": "Other customer and information services representatives",
+        "share": 3.5
+      },
+      {
+        "noc": "51120",
+        "title": "Producers, directors, choreographers and related occupations",
+        "share": 3.3
+      }
+    ],
+    "women": [
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 26.4
+      },
+      {
+        "noc": "10022",
+        "title": "Advertising, marketing and public relations managers",
+        "share": 9.3
+      },
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 2.6
+      },
+      {
+        "noc": "13110",
+        "title": "Administrative assistants",
+        "share": 2.4
+      },
+      {
+        "noc": "52120",
+        "title": "Graphic designers and illustrators",
+        "share": 2.1
+      }
+    ]
+  },
+  "09.04": {
+    "men": [
+      {
+        "noc": "51113",
+        "title": "Journalists",
+        "share": 20.5
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 7.6
+      },
+      {
+        "noc": "51111",
+        "title": "Authors and writers (except technical)",
+        "share": 7.4
+      },
+      {
+        "noc": "51110",
+        "title": "Editors",
+        "share": 4.8
+      },
+      {
+        "noc": "521",
+        "title": "Technical occupations in art and culture",
+        "share": 6.0
+      }
+    ],
+    "women": [
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 21.2
+      },
+      {
+        "noc": "51113",
+        "title": "Journalists",
+        "share": 14.9
+      },
+      {
+        "noc": "10022",
+        "title": "Advertising, marketing and public relations managers",
+        "share": 8.3
+      },
+      {
+        "noc": "51120",
+        "title": "Producers, directors, choreographers and related occupations",
+        "share": 5.3
+      },
+      {
+        "noc": "51111",
+        "title": "Authors and writers (except technical)",
+        "share": 5.1
+      }
+    ]
+  },
+  "09.07": {
+    "men": [
+      {
+        "noc": "51120",
+        "title": "Producers, directors, choreographers and related occupations",
+        "share": 14.8
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 8.5
+      },
+      {
+        "noc": "52113",
+        "title": "Audio and video recording technicians",
+        "share": 7.4
+      },
+      {
+        "noc": "5211",
+        "title": "Technical occupations in motion pictures, broadcasting and the performing arts",
+        "share": 15.3
+      },
+      {
+        "noc": "5",
+        "title": "Occupations in art, culture, recreation and sport",
+        "share": 15.5
+      }
+    ],
+    "women": [
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 14.4
+      },
+      {
+        "noc": "51120",
+        "title": "Producers, directors, choreographers and related occupations",
+        "share": 11.4
+      },
+      {
+        "noc": "52120",
+        "title": "Graphic designers and illustrators",
+        "share": 7.9
+      },
+      {
+        "noc": "10022",
+        "title": "Advertising, marketing and public relations managers",
+        "share": 7.8
+      },
+      {
+        "noc": "5211",
+        "title": "Technical occupations in motion pictures, broadcasting and the performing arts",
+        "share": 6.1
+      }
+    ]
+  },
+  "09.09": {
+    "men": [
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 26.7
+      },
+      {
+        "noc": "10022",
+        "title": "Advertising, marketing and public relations managers",
+        "share": 7.2
+      },
+      {
+        "noc": "511",
+        "title": "Professional occupations in art and culture",
+        "share": 7.7
+      },
+      {
+        "noc": "521",
+        "title": "Technical occupations in art and culture",
+        "share": 7.5
+      },
+      {
+        "noc": "600",
+        "title": "Middle management occupations in retail and wholesale trade and customer services",
+        "share": 6.1
+      }
+    ],
+    "women": [
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 35.3
+      },
+      {
+        "noc": "10022",
+        "title": "Advertising, marketing and public relations managers",
+        "share": 9.7
+      },
+      {
+        "noc": "52120",
+        "title": "Graphic designers and illustrators",
+        "share": 5.1
+      },
+      {
+        "noc": "51111",
+        "title": "Authors and writers (except technical)",
+        "share": 2.2
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 2.1
+      }
+    ]
+  },
+  "09.99": {
+    "men": [
+      {
+        "noc": "5",
+        "title": "Occupations in art, culture, recreation and sport",
+        "share": 35.4
+      }
+    ],
+    "women": [
+      {
+        "noc": "5111",
+        "title": "Writing, translating and related communications professionals",
+        "share": 32.2
+      },
+      {
+        "noc": "1120",
+        "title": "Human resources and business service professionals",
+        "share": 22.4
+      }
+    ]
+  },
+  "19.02": {
+    "men": [
+      {
+        "noc": "11",
+        "title": "Professional occupations in finance and business",
+        "share": 28.4
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 34.8
+      }
+    ],
+    "women": [
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 13.7
+      },
+      {
+        "noc": "1110",
+        "title": "Auditors, accountants and investment professionals",
+        "share": 10.9
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 31.3
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 30.6
+      }
+    ]
+  },
+  "19.05": {
+    "men": [
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 22.2
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 19.3
+      },
+      {
+        "noc": "3",
+        "title": "Health occupations",
+        "share": 19.1
+      }
+    ],
+    "women": [
+      {
+        "noc": "31121",
+        "title": "Dietitians and nutritionists",
+        "share": 40.8
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 2.9
+      },
+      {
+        "noc": "62020",
+        "title": "Food service supervisors",
+        "share": 2.9
+      },
+      {
+        "noc": "32129",
+        "title": "Other medical technologists and technicians",
+        "share": 2.5
+      },
+      {
+        "noc": "60020",
+        "title": "Retail and wholesale trade managers",
+        "share": 1.9
+      }
+    ]
+  },
+  "19.07": {
+    "men": [
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 14.6
+      },
+      {
+        "noc": "413",
+        "title": "Professional occupations in social and community services",
+        "share": 12.5
+      },
+      {
+        "noc": "42",
+        "title": "Front-line public protection services and paraprofessional occupations in legal, social, community, education services",
+        "share": 12.9
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 11.8
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 15.0
+      }
+    ],
+    "women": [
+      {
+        "noc": "42202",
+        "title": "Early childhood educators and assistants",
+        "share": 21.5
+      },
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 13.2
+      },
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 10.9
+      },
+      {
+        "noc": "43100",
+        "title": "Elementary and secondary school teacher assistants",
+        "share": 6.8
+      },
+      {
+        "noc": "41301",
+        "title": "Therapists in counselling and related specialized therapies",
+        "share": 3.6
+      }
+    ]
+  },
+  "19.99": {
+    "men": [
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 46.2
+      }
+    ],
+    "women": [
+      {
+        "noc": "12101",
+        "title": "Human resources and recruitment officers",
+        "share": 7.2
+      },
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 6.7
+      },
+      {
+        "noc": "1120",
+        "title": "Human resources and business service professionals",
+        "share": 10.4
+      },
+      {
+        "noc": "413",
+        "title": "Professional occupations in social and community services",
+        "share": 5.9
+      },
+      {
+        "noc": "64",
+        "title": "Sales and service representatives and other customer and personal services occupations",
+        "share": 7.3
+      }
+    ]
+  },
+  "22.00": {
+    "men": [
+      {
+        "noc": "11",
+        "title": "Professional occupations in finance and business",
+        "share": 10.1
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 10.1
+      },
+      {
+        "noc": "42",
+        "title": "Front-line public protection services and paraprofessional occupations in legal, social, community, education services",
+        "share": 9.5
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 25.8
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 18.1
+      }
+    ],
+    "women": [
+      {
+        "noc": "42200",
+        "title": "Paralegals and related occupations",
+        "share": 12.5
+      },
+      {
+        "noc": "13111",
+        "title": "Legal administrative assistants",
+        "share": 7.8
+      },
+      {
+        "noc": "13110",
+        "title": "Administrative assistants",
+        "share": 6.5
+      },
+      {
+        "noc": "1120",
+        "title": "Human resources and business service professionals",
+        "share": 6.0
+      },
+      {
+        "noc": "100",
+        "title": "Specialized middle management occupations in administrative services, financial and business services and communication (except broadcasting)",
+        "share": 4.4
+      }
+    ]
+  },
+  "22.01": {
+    "men": [
+      {
+        "noc": "41101",
+        "title": "Lawyers and Quebec notaries",
+        "share": 55.7
+      },
+      {
+        "noc": "42200",
+        "title": "Paralegals and related occupations",
+        "share": 1.9
+      },
+      {
+        "noc": "11200",
+        "title": "Human resources professionals",
+        "share": 1.5
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 1.3
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 1.3
+      }
+    ],
+    "women": [
+      {
+        "noc": "41101",
+        "title": "Lawyers and Quebec notaries",
+        "share": 60.1
+      },
+      {
+        "noc": "42200",
+        "title": "Paralegals and related occupations",
+        "share": 4.5
+      },
+      {
+        "noc": "13111",
+        "title": "Legal administrative assistants",
+        "share": 3.3
+      },
+      {
+        "noc": "11200",
+        "title": "Human resources professionals",
+        "share": 1.6
+      },
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 1.5
+      }
+    ]
+  },
+  "30.20": {
+    "men": [
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 28.9
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 23.4
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 19.2
+      }
+    ],
+    "women": [
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 6.3
+      },
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 5.0
+      },
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 4.9
+      },
+      {
+        "noc": "4140",
+        "title": "Policy and program researchers, consultants and officers",
+        "share": 6.6
+      },
+      {
+        "noc": "1210",
+        "title": "Administrative and regulatory occupations",
+        "share": 6.6
+      }
+    ]
+  },
+  "30.25": {
+    "men": [
+      {
+        "noc": "2123",
+        "title": "Computer, software and Web designers and developers",
+        "share": 20.8
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 20.6
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 20.4
+      }
+    ],
+    "women": [
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 16.1
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 28.2
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 22.4
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 15.0
+      }
+    ]
+  },
+  "30.44": {
+    "men": [
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 17.5
+      },
+      {
+        "noc": "7",
+        "title": "Trades, transport and equipment operators and related occupations",
+        "share": 21.8
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 17.5
+      }
+    ],
+    "women": [
+      {
+        "noc": "41400",
+        "title": "Natural and applied science policy researchers, consultants and program officers",
+        "share": 9.9
+      },
+      {
+        "noc": "131",
+        "title": "Administrative occupations",
+        "share": 8.6
+      },
+      {
+        "noc": "22",
+        "title": "Technical occupations related to natural and applied sciences",
+        "share": 11.9
+      },
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 11.7
+      },
+      {
+        "noc": "64",
+        "title": "Sales and service representatives and other customer and personal services occupations",
+        "share": 9.7
+      }
+    ]
+  },
+  "30.46": {
+    "men": [
+      {
+        "noc": "600",
+        "title": "Middle management occupations in retail and wholesale trade and customer services",
+        "share": 10.1
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 10.7
+      },
+      {
+        "noc": "64",
+        "title": "Sales and service representatives and other customer and personal services occupations",
+        "share": 8.1
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 20.7
+      },
+      {
+        "noc": "7",
+        "title": "Trades, transport and equipment operators and related occupations",
+        "share": 12.8
+      }
+    ],
+    "women": [
+      {
+        "noc": "4140",
+        "title": "Policy and program researchers, consultants and officers",
+        "share": 12.8
+      },
+      {
+        "noc": "12",
+        "title": "Administrative and financial supervisors and specialized administrative occupations",
+        "share": 11.4
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 27.2
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 15.6
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 14.9
+      }
+    ]
+  },
+  "42.01": {
+    "men": [
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 6.8
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 3.7
+      },
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 2.5
+      },
+      {
+        "noc": "60020",
+        "title": "Retail and wholesale trade managers",
+        "share": 2.5
+      },
+      {
+        "noc": "64409",
+        "title": "Other customer and information services representatives",
+        "share": 2.3
+      }
+    ],
+    "women": [
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 8.3
+      },
+      {
+        "noc": "41301",
+        "title": "Therapists in counselling and related specialized therapies",
+        "share": 4.0
+      },
+      {
+        "noc": "11200",
+        "title": "Human resources professionals",
+        "share": 3.5
+      },
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 3.3
+      },
+      {
+        "noc": "13110",
+        "title": "Administrative assistants",
+        "share": 2.9
+      }
+    ]
+  },
+  "42.27": {
+    "men": [
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 15.2
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 25.7
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 16.9
+      }
+    ],
+    "women": [
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 9.2
+      },
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 3.9
+      },
+      {
+        "noc": "41301",
+        "title": "Therapists in counselling and related specialized therapies",
+        "share": 3.6
+      },
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 3.6
+      },
+      {
+        "noc": "41300",
+        "title": "Social workers",
+        "share": 3.2
+      }
+    ]
+  },
+  "42.28": {
+    "men": [
+      {
+        "noc": "42100",
+        "title": "Police officers (except commissioned)",
+        "share": 8.1
+      },
+      {
+        "noc": "42203",
+        "title": "Instructors of persons with disabilities",
+        "share": 7.1
+      },
+      {
+        "noc": "4130",
+        "title": "Social and community service professionals",
+        "share": 6.9
+      },
+      {
+        "noc": "4220",
+        "title": "Paraprofessional occupations in legal, social, community and education services",
+        "share": 5.5
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 12.6
+      }
+    ],
+    "women": [
+      {
+        "noc": "42203",
+        "title": "Instructors of persons with disabilities",
+        "share": 15.6
+      },
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 12.5
+      },
+      {
+        "noc": "41301",
+        "title": "Therapists in counselling and related specialized therapies",
+        "share": 7.7
+      },
+      {
+        "noc": "42202",
+        "title": "Early childhood educators and assistants",
+        "share": 3.8
+      },
+      {
+        "noc": "13110",
+        "title": "Administrative assistants",
+        "share": 3.0
+      }
+    ]
+  },
+  "45.01": {
+    "men": [
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 3.8
+      },
+      {
+        "noc": "64410",
+        "title": "Security guards and related security service occupations",
+        "share": 3.4
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 2.5
+      },
+      {
+        "noc": "4140",
+        "title": "Policy and program researchers, consultants and officers",
+        "share": 4.5
+      },
+      {
+        "noc": "4122",
+        "title": "Secondary, elementary and kindergarten school teachers",
+        "share": 3.7
+      }
+    ],
+    "women": [
+      {
+        "noc": "41300",
+        "title": "Social workers",
+        "share": 6.0
+      },
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 4.4
+      },
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 3.9
+      },
+      {
+        "noc": "64409",
+        "title": "Other customer and information services representatives",
+        "share": 3.5
+      },
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 3.4
+      }
+    ]
+  },
+  "45.02": {
+    "men": [
+      {
+        "noc": "41409",
+        "title": "Other professional occupations in social science",
+        "share": 4.4
+      },
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 3.9
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 3.8
+      },
+      {
+        "noc": "6520",
+        "title": "Food support occupations",
+        "share": 4.8
+      },
+      {
+        "noc": "644",
+        "title": "Occupations in customer, information and protective services",
+        "share": 4.4
+      }
+    ],
+    "women": [
+      {
+        "noc": "13110",
+        "title": "Administrative assistants",
+        "share": 4.6
+      },
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 4.2
+      },
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 4.0
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 3.8
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 3.7
+      }
+    ]
+  },
+  "45.03": {
+    "men": [
+      {
+        "noc": "41409",
+        "title": "Other professional occupations in social science",
+        "share": 23.6
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 22.7
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 18.2
+      }
+    ],
+    "women": [
+      {
+        "noc": "41409",
+        "title": "Other professional occupations in social science",
+        "share": 8.7
+      },
+      {
+        "noc": "12",
+        "title": "Administrative and financial supervisors and specialized administrative occupations",
+        "share": 10.7
+      },
+      {
+        "noc": "14",
+        "title": "Administrative and financial support and supply chain logistics occupations",
+        "share": 10.3
+      },
+      {
+        "noc": "5",
+        "title": "Occupations in art, culture, recreation and sport",
+        "share": 18.8
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 16.2
+      }
+    ]
+  },
+  "45.04": {
+    "men": [
+      {
+        "noc": "42100",
+        "title": "Police officers (except commissioned)",
+        "share": 14.1
+      },
+      {
+        "noc": "64410",
+        "title": "Security guards and related security service occupations",
+        "share": 6.6
+      },
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 4.5
+      },
+      {
+        "noc": "43201",
+        "title": "Correctional service officers",
+        "share": 4.3
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 2.6
+      }
+    ],
+    "women": [
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 7.8
+      },
+      {
+        "noc": "41311",
+        "title": "Probation and parole officers",
+        "share": 4.3
+      },
+      {
+        "noc": "42200",
+        "title": "Paralegals and related occupations",
+        "share": 3.8
+      },
+      {
+        "noc": "42100",
+        "title": "Police officers (except commissioned)",
+        "share": 3.7
+      },
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 3.5
+      }
+    ]
+  },
+  "45.06": {
+    "men": [
+      {
+        "noc": "11102",
+        "title": "Financial advisors",
+        "share": 5.5
+      },
+      {
+        "noc": "11101",
+        "title": "Financial and investment analysts",
+        "share": 4.5
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 3.7
+      },
+      {
+        "noc": "60020",
+        "title": "Retail and wholesale trade managers",
+        "share": 3.4
+      },
+      {
+        "noc": "63102",
+        "title": "Financial sales representatives",
+        "share": 2.9
+      }
+    ],
+    "women": [
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 3.8
+      },
+      {
+        "noc": "11102",
+        "title": "Financial advisors",
+        "share": 3.7
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 3.7
+      },
+      {
+        "noc": "11100",
+        "title": "Financial auditors and accountants",
+        "share": 3.6
+      },
+      {
+        "noc": "63102",
+        "title": "Financial sales representatives",
+        "share": 3.6
+      }
+    ]
+  },
+  "45.07": {
+    "men": [
+      {
+        "noc": "22214",
+        "title": "Technical occupations in geomatics and meteorology",
+        "share": 8.8
+      },
+      {
+        "noc": "21203",
+        "title": "Land surveyors",
+        "share": 5.9
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 3.2
+      },
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 2.3
+      },
+      {
+        "noc": "60020",
+        "title": "Retail and wholesale trade managers",
+        "share": 1.9
+      }
+    ],
+    "women": [
+      {
+        "noc": "22214",
+        "title": "Technical occupations in geomatics and meteorology",
+        "share": 6.9
+      },
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 5.6
+      },
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 3.7
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 3.4
+      },
+      {
+        "noc": "13110",
+        "title": "Administrative assistants",
+        "share": 3.3
+      }
+    ]
+  },
+  "45.09": {
+    "men": [
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 18.1
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 27.8
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 24.2
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 10.5
+      }
+    ],
+    "women": [
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 10.4
+      },
+      {
+        "noc": "4140",
+        "title": "Policy and program researchers, consultants and officers",
+        "share": 9.0
+      },
+      {
+        "noc": "1210",
+        "title": "Administrative and regulatory occupations",
+        "share": 5.1
+      },
+      {
+        "noc": "1310",
+        "title": "Administrative, property and payroll officers",
+        "share": 5.0
+      },
+      {
+        "noc": "1311",
+        "title": "Office administrative assistants - general, legal and medical",
+        "share": 4.8
+      }
+    ]
+  },
+  "45.10": {
+    "men": [
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 4.4
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 3.8
+      },
+      {
+        "noc": "60020",
+        "title": "Retail and wholesale trade managers",
+        "share": 3.4
+      },
+      {
+        "noc": "11102",
+        "title": "Financial advisors",
+        "share": 2.8
+      },
+      {
+        "noc": "64409",
+        "title": "Other customer and information services representatives",
+        "share": 2.7
+      }
+    ],
+    "women": [
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 6.6
+      },
+      {
+        "noc": "10022",
+        "title": "Advertising, marketing and public relations managers",
+        "share": 3.6
+      },
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 3.5
+      },
+      {
+        "noc": "13110",
+        "title": "Administrative assistants",
+        "share": 3.5
+      },
+      {
+        "noc": "41403",
+        "title": "Social policy researchers, consultants and program officers",
+        "share": 3.0
+      }
+    ]
+  },
+  "45.11": {
+    "men": [
+      {
+        "noc": "42100",
+        "title": "Police officers (except commissioned)",
+        "share": 5.0
+      },
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 4.1
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 3.3
+      },
+      {
+        "noc": "60020",
+        "title": "Retail and wholesale trade managers",
+        "share": 2.7
+      },
+      {
+        "noc": "64409",
+        "title": "Other customer and information services representatives",
+        "share": 2.7
+      }
+    ],
+    "women": [
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 7.1
+      },
+      {
+        "noc": "11200",
+        "title": "Human resources professionals",
+        "share": 4.7
+      },
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 3.6
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 3.5
+      },
+      {
+        "noc": "13110",
+        "title": "Administrative assistants",
+        "share": 3.5
+      }
+    ]
+  },
+  "45.12": {
+    "men": [
+      {
+        "noc": "212",
+        "title": "Professional occupations in applied sciences (except engineering)",
+        "share": 20.6
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 24.4
+      }
+    ],
+    "women": [
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 34.5
+      }
+    ]
+  },
+  "44.00": {
+    "men": [
+      {
+        "noc": "41300",
+        "title": "Social workers",
+        "share": 24.5
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 32.4
+      }
+    ],
+    "women": [
+      {
+        "noc": "41300",
+        "title": "Social workers",
+        "share": 63.2
+      },
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 7.3
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 6.0
+      },
+      {
+        "noc": "42",
+        "title": "Front-line public protection services and paraprofessional occupations in legal, social, community, education services",
+        "share": 4.2
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 6.7
+      }
+    ]
+  },
+  "44.04": {
+    "men": [
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 16.3
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 32.4
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 15.1
+      }
+    ],
+    "women": [
+      {
+        "noc": "41403",
+        "title": "Social policy researchers, consultants and program officers",
+        "share": 14.0
+      },
+      {
+        "noc": "1120",
+        "title": "Human resources and business service professionals",
+        "share": 9.3
+      },
+      {
+        "noc": "4140",
+        "title": "Policy and program researchers, consultants and officers",
+        "share": 8.8
+      },
+      {
+        "noc": "1210",
+        "title": "Administrative and regulatory occupations",
+        "share": 7.9
+      },
+      {
+        "noc": "131",
+        "title": "Administrative occupations",
+        "share": 9.8
+      }
+    ]
+  },
+  "44.05": {
+    "men": [
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 26.8
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 25.4
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 24.1
+      }
+    ],
+    "women": [
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 19.9
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 40.1
+      }
+    ]
+  },
+  "44.07": {
+    "men": [
+      {
+        "noc": "41300",
+        "title": "Social workers",
+        "share": 47.5
+      },
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 11.5
+      },
+      {
+        "noc": "41301",
+        "title": "Therapists in counselling and related specialized therapies",
+        "share": 3.5
+      },
+      {
+        "noc": "4220",
+        "title": "Paraprofessional occupations in legal, social, community and education services",
+        "share": 3.1
+      },
+      {
+        "noc": "413",
+        "title": "Professional occupations in social and community services",
+        "share": 3.1
+      }
+    ],
+    "women": [
+      {
+        "noc": "41300",
+        "title": "Social workers",
+        "share": 58.8
+      },
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 9.4
+      },
+      {
+        "noc": "41301",
+        "title": "Therapists in counselling and related specialized therapies",
+        "share": 3.1
+      },
+      {
+        "noc": "43100",
+        "title": "Elementary and secondary school teacher assistants",
+        "share": 1.6
+      },
+      {
+        "noc": "42202",
+        "title": "Early childhood educators and assistants",
+        "share": 1.5
+      }
+    ]
+  },
+  "52.01": {
+    "men": [
+      {
+        "noc": "11100",
+        "title": "Financial auditors and accountants",
+        "share": 8.1
+      },
+      {
+        "noc": "60020",
+        "title": "Retail and wholesale trade managers",
+        "share": 4.6
+      },
+      {
+        "noc": "11101",
+        "title": "Financial and investment analysts",
+        "share": 3.6
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 3.5
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 3.5
+      }
+    ],
+    "women": [
+      {
+        "noc": "11100",
+        "title": "Financial auditors and accountants",
+        "share": 8.4
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 7.6
+      },
+      {
+        "noc": "11200",
+        "title": "Human resources professionals",
+        "share": 5.1
+      },
+      {
+        "noc": "10022",
+        "title": "Advertising, marketing and public relations managers",
+        "share": 4.5
+      },
+      {
+        "noc": "11201",
+        "title": "Professional occupations in business management consulting",
+        "share": 2.6
+      }
+    ]
+  },
+  "52.02": {
+    "men": [
+      {
+        "noc": "11100",
+        "title": "Financial auditors and accountants",
+        "share": 4.1
+      },
+      {
+        "noc": "60020",
+        "title": "Retail and wholesale trade managers",
+        "share": 3.7
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 3.5
+      },
+      {
+        "noc": "11201",
+        "title": "Professional occupations in business management consulting",
+        "share": 3.5
+      },
+      {
+        "noc": "11102",
+        "title": "Financial advisors",
+        "share": 3.4
+      }
+    ],
+    "women": [
+      {
+        "noc": "11200",
+        "title": "Human resources professionals",
+        "share": 6.5
+      },
+      {
+        "noc": "11100",
+        "title": "Financial auditors and accountants",
+        "share": 4.9
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 4.7
+      },
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 4.6
+      },
+      {
+        "noc": "10022",
+        "title": "Advertising, marketing and public relations managers",
+        "share": 3.1
+      }
+    ]
+  },
+  "52.03": {
+    "men": [
+      {
+        "noc": "11100",
+        "title": "Financial auditors and accountants",
+        "share": 42.0
+      },
+      {
+        "noc": "10010",
+        "title": "Financial managers",
+        "share": 7.2
+      },
+      {
+        "noc": "11101",
+        "title": "Financial and investment analysts",
+        "share": 5.3
+      },
+      {
+        "noc": "14200",
+        "title": "Accounting and related clerks",
+        "share": 4.7
+      },
+      {
+        "noc": "12200",
+        "title": "Accounting technicians and bookkeepers",
+        "share": 2.7
+      }
+    ],
+    "women": [
+      {
+        "noc": "11100",
+        "title": "Financial auditors and accountants",
+        "share": 49.5
+      },
+      {
+        "noc": "10010",
+        "title": "Financial managers",
+        "share": 6.2
+      },
+      {
+        "noc": "12200",
+        "title": "Accounting technicians and bookkeepers",
+        "share": 5.5
+      },
+      {
+        "noc": "14200",
+        "title": "Accounting and related clerks",
+        "share": 5.2
+      },
+      {
+        "noc": "11101",
+        "title": "Financial and investment analysts",
+        "share": 4.8
+      }
+    ]
+  },
+  "52.04": {
+    "men": [
+      {
+        "noc": "2122",
+        "title": "Computer and information systems professionals",
+        "share": 17.8
+      },
+      {
+        "noc": "1120",
+        "title": "Human resources and business service professionals",
+        "share": 15.1
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 22.0
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 20.8
+      }
+    ],
+    "women": [
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 51.2
+      }
+    ]
+  },
+  "52.05": {
+    "men": [
+      {
+        "noc": "1120",
+        "title": "Human resources and business service professionals",
+        "share": 27.8
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 36.9
+      }
+    ],
+    "women": [
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 21.7
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 47.7
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 18.5
+      }
+    ]
+  },
+  "52.06": {
+    "men": [
+      {
+        "noc": "11101",
+        "title": "Financial and investment analysts",
+        "share": 9.7
+      },
+      {
+        "noc": "11102",
+        "title": "Financial advisors",
+        "share": 9.2
+      },
+      {
+        "noc": "10021",
+        "title": "Banking, credit and other investment managers",
+        "share": 6.4
+      },
+      {
+        "noc": "11100",
+        "title": "Financial auditors and accountants",
+        "share": 3.8
+      },
+      {
+        "noc": "11201",
+        "title": "Professional occupations in business management consulting",
+        "share": 3.4
+      }
+    ],
+    "women": [
+      {
+        "noc": "11101",
+        "title": "Financial and investment analysts",
+        "share": 6.6
+      },
+      {
+        "noc": "11102",
+        "title": "Financial advisors",
+        "share": 6.5
+      },
+      {
+        "noc": "63102",
+        "title": "Financial sales representatives",
+        "share": 5.8
+      },
+      {
+        "noc": "1110",
+        "title": "Auditors, accountants and investment professionals",
+        "share": 7.8
+      },
+      {
+        "noc": "1002",
+        "title": "Managers in financial and business services",
+        "share": 7.7
+      }
+    ]
+  },
+  "52.07": {
+    "men": [
+      {
+        "noc": "11",
+        "title": "Professional occupations in finance and business",
+        "share": 17.8
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 34.6
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 20.1
+      }
+    ],
+    "women": [
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 47.2
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 32.2
+      }
+    ]
+  },
+  "52.08": {
+    "men": [
+      {
+        "noc": "11101",
+        "title": "Financial and investment analysts",
+        "share": 13.4
+      },
+      {
+        "noc": "11102",
+        "title": "Financial advisors",
+        "share": 12.1
+      },
+      {
+        "noc": "10021",
+        "title": "Banking, credit and other investment managers",
+        "share": 5.6
+      },
+      {
+        "noc": "63102",
+        "title": "Financial sales representatives",
+        "share": 5.0
+      },
+      {
+        "noc": "11100",
+        "title": "Financial auditors and accountants",
+        "share": 4.3
+      }
+    ],
+    "women": [
+      {
+        "noc": "11101",
+        "title": "Financial and investment analysts",
+        "share": 12.0
+      },
+      {
+        "noc": "11102",
+        "title": "Financial advisors",
+        "share": 9.4
+      },
+      {
+        "noc": "11100",
+        "title": "Financial auditors and accountants",
+        "share": 6.8
+      },
+      {
+        "noc": "63102",
+        "title": "Financial sales representatives",
+        "share": 5.4
+      },
+      {
+        "noc": "10021",
+        "title": "Banking, credit and other investment managers",
+        "share": 4.6
+      }
+    ]
+  },
+  "52.09": {
+    "men": [
+      {
+        "noc": "60030",
+        "title": "Restaurant and food service managers",
+        "share": 5.0
+      },
+      {
+        "noc": "64314",
+        "title": "Hotel front desk clerks",
+        "share": 5.0
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 4.7
+      },
+      {
+        "noc": "60020",
+        "title": "Retail and wholesale trade managers",
+        "share": 4.6
+      },
+      {
+        "noc": "60031",
+        "title": "Accommodation service managers",
+        "share": 4.6
+      }
+    ],
+    "women": [
+      {
+        "noc": "12103",
+        "title": "Conference and event planners",
+        "share": 6.0
+      },
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 5.4
+      },
+      {
+        "noc": "13110",
+        "title": "Administrative assistants",
+        "share": 4.5
+      },
+      {
+        "noc": "60020",
+        "title": "Retail and wholesale trade managers",
+        "share": 4.5
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 3.7
+      }
+    ]
+  },
+  "52.10": {
+    "men": [
+      {
+        "noc": "11200",
+        "title": "Human resources professionals",
+        "share": 21.3
+      },
+      {
+        "noc": "12101",
+        "title": "Human resources and recruitment officers",
+        "share": 10.5
+      },
+      {
+        "noc": "10011",
+        "title": "Human resources managers",
+        "share": 9.1
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 3.2
+      },
+      {
+        "noc": "14102",
+        "title": "Personnel clerks",
+        "share": 2.2
+      }
+    ],
+    "women": [
+      {
+        "noc": "11200",
+        "title": "Human resources professionals",
+        "share": 34.3
+      },
+      {
+        "noc": "12101",
+        "title": "Human resources and recruitment officers",
+        "share": 12.7
+      },
+      {
+        "noc": "10011",
+        "title": "Human resources managers",
+        "share": 8.2
+      },
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 2.7
+      },
+      {
+        "noc": "13110",
+        "title": "Administrative assistants",
+        "share": 2.5
+      }
+    ]
+  },
+  "52.11": {
+    "men": [
+      {
+        "noc": "60020",
+        "title": "Retail and wholesale trade managers",
+        "share": 4.9
+      },
+      {
+        "noc": "10022",
+        "title": "Advertising, marketing and public relations managers",
+        "share": 4.2
+      },
+      {
+        "noc": "1110",
+        "title": "Auditors, accountants and investment professionals",
+        "share": 6.7
+      },
+      {
+        "noc": "1120",
+        "title": "Human resources and business service professionals",
+        "share": 5.3
+      },
+      {
+        "noc": "4140",
+        "title": "Policy and program researchers, consultants and officers",
+        "share": 5.0
+      }
+    ],
+    "women": [
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 5.8
+      },
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 5.4
+      },
+      {
+        "noc": "10022",
+        "title": "Advertising, marketing and public relations managers",
+        "share": 4.0
+      },
+      {
+        "noc": "60020",
+        "title": "Retail and wholesale trade managers",
+        "share": 3.6
+      },
+      {
+        "noc": "6410",
+        "title": "Retail salespersons and non-technical wholesale trade sales and account representatives",
+        "share": 5.9
+      }
+    ]
+  },
+  "52.12": {
+    "men": [
+      {
+        "noc": "21222",
+        "title": "Information systems specialists",
+        "share": 19.2
+      },
+      {
+        "noc": "212",
+        "title": "Professional occupations in applied sciences (except engineering)",
+        "share": 22.6
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 20.8
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 17.8
+      }
+    ],
+    "women": [
+      {
+        "noc": "212",
+        "title": "Professional occupations in applied sciences (except engineering)",
+        "share": 41.3
+      }
+    ]
+  },
+  "52.13": {
+    "men": [
+      {
+        "noc": "21210",
+        "title": "Mathematicians, statisticians and actuaries",
+        "share": 55.3
+      },
+      {
+        "noc": "11101",
+        "title": "Financial and investment analysts",
+        "share": 4.6
+      },
+      {
+        "noc": "11201",
+        "title": "Professional occupations in business management consulting",
+        "share": 2.4
+      },
+      {
+        "noc": "11200",
+        "title": "Human resources professionals",
+        "share": 2.1
+      },
+      {
+        "noc": "12202",
+        "title": "Insurance underwriters",
+        "share": 2.1
+      }
+    ],
+    "women": [
+      {
+        "noc": "21210",
+        "title": "Mathematicians, statisticians and actuaries",
+        "share": 52.9
+      },
+      {
+        "noc": "11200",
+        "title": "Human resources professionals",
+        "share": 3.6
+      },
+      {
+        "noc": "11101",
+        "title": "Financial and investment analysts",
+        "share": 3.2
+      },
+      {
+        "noc": "1110",
+        "title": "Auditors, accountants and investment professionals",
+        "share": 4.7
+      },
+      {
+        "noc": "1220",
+        "title": "Accounting, insurance and related business administrative occupations",
+        "share": 4.0
+      }
+    ]
+  },
+  "52.14": {
+    "men": [
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 17.8
+      },
+      {
+        "noc": "10022",
+        "title": "Advertising, marketing and public relations managers",
+        "share": 9.9
+      },
+      {
+        "noc": "60020",
+        "title": "Retail and wholesale trade managers",
+        "share": 5.1
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 4.5
+      },
+      {
+        "noc": "60010",
+        "title": "Corporate sales managers",
+        "share": 3.7
+      }
+    ],
+    "women": [
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 26.7
+      },
+      {
+        "noc": "10022",
+        "title": "Advertising, marketing and public relations managers",
+        "share": 14.0
+      },
+      {
+        "noc": "60020",
+        "title": "Retail and wholesale trade managers",
+        "share": 3.2
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 3.1
+      },
+      {
+        "noc": "41402",
+        "title": "Business development officers and market researchers and analysts",
+        "share": 2.9
+      }
+    ]
+  },
+  "52.15": {
+    "men": [
+      {
+        "noc": "12203",
+        "title": "Assessors, business valuators and appraisers",
+        "share": 22.3
+      },
+      {
+        "noc": "63101",
+        "title": "Real estate agents and salespersons",
+        "share": 18.2
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 27.9
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 13.7
+      }
+    ],
+    "women": [
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 47.7
+      }
+    ]
+  },
+  "52.18": {
+    "men": [
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 85.1
+      }
+    ],
+    "women": []
+  },
+  "52.19": {
+    "men": [
+      {
+        "noc": "64",
+        "title": "Sales and service representatives and other customer and personal services occupations",
+        "share": 25.4
+      }
+    ],
+    "women": [
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 10.5
+      },
+      {
+        "noc": "1002",
+        "title": "Managers in financial and business services",
+        "share": 7.9
+      },
+      {
+        "noc": "600",
+        "title": "Middle management occupations in retail and wholesale trade and customer services",
+        "share": 11.1
+      },
+      {
+        "noc": "64",
+        "title": "Sales and service representatives and other customer and personal services occupations",
+        "share": 15.6
+      },
+      {
+        "noc": "63",
+        "title": "Occupations in sales and services",
+        "share": 8.0
+      }
+    ]
+  },
+  "52.20": {
+    "men": [
+      {
+        "noc": "70010",
+        "title": "Construction managers",
+        "share": 52.7
+      },
+      {
+        "noc": "22303",
+        "title": "Construction estimators",
+        "share": 8.0
+      },
+      {
+        "noc": "22",
+        "title": "Technical occupations related to natural and applied sciences",
+        "share": 7.4
+      },
+      {
+        "noc": "72",
+        "title": "Technical trades and transportation officers and controllers",
+        "share": 6.4
+      }
+    ],
+    "women": []
+  },
+  "26.01": {
+    "men": [
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 7.0
+      },
+      {
+        "noc": "21110",
+        "title": "Biologists and related scientists",
+        "share": 5.9
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 2.8
+      },
+      {
+        "noc": "22110",
+        "title": "Biological technologists and technicians",
+        "share": 2.2
+      },
+      {
+        "noc": "32102",
+        "title": "Paramedical occupations",
+        "share": 1.9
+      }
+    ],
+    "women": [
+      {
+        "noc": "21110",
+        "title": "Biologists and related scientists",
+        "share": 6.8
+      },
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 5.3
+      },
+      {
+        "noc": "31301",
+        "title": "Registered nurses and registered psychiatric nurses",
+        "share": 4.4
+      },
+      {
+        "noc": "32120",
+        "title": "Medical laboratory technologists",
+        "share": 3.0
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 2.6
+      }
+    ]
+  },
+  "26.02": {
+    "men": [
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 10.7
+      },
+      {
+        "noc": "21101",
+        "title": "Chemists",
+        "share": 6.9
+      },
+      {
+        "noc": "21110",
+        "title": "Biologists and related scientists",
+        "share": 4.0
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 3.1
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 1.9
+      }
+    ],
+    "women": [
+      {
+        "noc": "21101",
+        "title": "Chemists",
+        "share": 10.5
+      },
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 8.4
+      },
+      {
+        "noc": "21110",
+        "title": "Biologists and related scientists",
+        "share": 4.4
+      },
+      {
+        "noc": "32120",
+        "title": "Medical laboratory technologists",
+        "share": 4.0
+      },
+      {
+        "noc": "31301",
+        "title": "Registered nurses and registered psychiatric nurses",
+        "share": 3.3
+      }
+    ]
+  },
+  "26.04": {
+    "men": [
+      {
+        "noc": "412",
+        "title": "Professional occupations in education services",
+        "share": 21.0
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 22.9
+      }
+    ],
+    "women": [
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 14.3
+      },
+      {
+        "noc": "3212",
+        "title": "Medical technologists and technicians",
+        "share": 13.9
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 21.8
+      },
+      {
+        "noc": "3",
+        "title": "Health occupations",
+        "share": 14.6
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 12.1
+      }
+    ]
+  },
+  "26.05": {
+    "men": [
+      {
+        "noc": "21110",
+        "title": "Biologists and related scientists",
+        "share": 11.5
+      },
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 8.2
+      },
+      {
+        "noc": "2123",
+        "title": "Computer, software and Web designers and developers",
+        "share": 6.0
+      },
+      {
+        "noc": "3310",
+        "title": "Assisting occupations in support of health services",
+        "share": 4.8
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 6.2
+      }
+    ],
+    "women": [
+      {
+        "noc": "21110",
+        "title": "Biologists and related scientists",
+        "share": 11.0
+      },
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 10.7
+      },
+      {
+        "noc": "32120",
+        "title": "Medical laboratory technologists",
+        "share": 6.6
+      },
+      {
+        "noc": "22110",
+        "title": "Biological technologists and technicians",
+        "share": 3.5
+      },
+      {
+        "noc": "3310",
+        "title": "Assisting occupations in support of health services",
+        "share": 3.7
+      }
+    ]
+  },
+  "26.07": {
+    "men": [
+      {
+        "noc": "3",
+        "title": "Health occupations",
+        "share": 21.0
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 19.4
+      }
+    ],
+    "women": [
+      {
+        "noc": "32104",
+        "title": "Animal health technologists and veterinary technicians",
+        "share": 24.4
+      },
+      {
+        "noc": "65220",
+        "title": "Pet groomers and animal care workers",
+        "share": 6.5
+      },
+      {
+        "noc": "21110",
+        "title": "Biologists and related scientists",
+        "share": 5.8
+      },
+      {
+        "noc": "131",
+        "title": "Administrative occupations",
+        "share": 6.5
+      },
+      {
+        "noc": "412",
+        "title": "Professional occupations in education services",
+        "share": 4.8
+      }
+    ]
+  },
+  "26.08": {
+    "men": [
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 32.5
+      }
+    ],
+    "women": []
+  },
+  "26.09": {
+    "men": [
+      {
+        "noc": "412",
+        "title": "Professional occupations in education services",
+        "share": 16.9
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 16.5
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 15.9
+      }
+    ],
+    "women": [
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 32.3
+      },
+      {
+        "noc": "3",
+        "title": "Health occupations",
+        "share": 21.4
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 18.6
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 14.4
+      }
+    ]
+  },
+  "26.10": {
+    "men": [
+      {
+        "noc": "211",
+        "title": "Professional occupations in natural sciences",
+        "share": 18.8
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 19.8
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 18.5
+      }
+    ],
+    "women": [
+      {
+        "noc": "211",
+        "title": "Professional occupations in natural sciences",
+        "share": 19.4
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 18.9
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 19.7
+      },
+      {
+        "noc": "3",
+        "title": "Health occupations",
+        "share": 16.5
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 12.7
+      }
+    ]
+  },
+  "26.12": {
+    "men": [
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 24.7
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 15.4
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 15.2
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 14.2
+      }
+    ],
+    "women": [
+      {
+        "noc": "211",
+        "title": "Professional occupations in natural sciences",
+        "share": 12.5
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 25.2
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 21.8
+      }
+    ]
+  },
+  "26.13": {
+    "men": [
+      {
+        "noc": "21110",
+        "title": "Biologists and related scientists",
+        "share": 8.0
+      },
+      {
+        "noc": "412",
+        "title": "Professional occupations in education services",
+        "share": 10.2
+      },
+      {
+        "noc": "221",
+        "title": "Technical occupations related to natural sciences",
+        "share": 8.6
+      },
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 11.4
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 17.5
+      }
+    ],
+    "women": [
+      {
+        "noc": "21110",
+        "title": "Biologists and related scientists",
+        "share": 14.1
+      },
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 8.1
+      },
+      {
+        "noc": "22110",
+        "title": "Biological technologists and technicians",
+        "share": 6.1
+      },
+      {
+        "noc": "41400",
+        "title": "Natural and applied science policy researchers, consultants and program officers",
+        "share": 4.9
+      },
+      {
+        "noc": "65",
+        "title": "Sales and service support occupations",
+        "share": 6.5
+      }
+    ]
+  },
+  "26.15": {
+    "men": [
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 17.2
+      },
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 9.2
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 8.5
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 18.7
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 13.9
+      }
+    ],
+    "women": [
+      {
+        "noc": "31301",
+        "title": "Registered nurses and registered psychiatric nurses",
+        "share": 9.0
+      },
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 8.8
+      },
+      {
+        "noc": "4220",
+        "title": "Paraprofessional occupations in legal, social, community and education services",
+        "share": 4.7
+      },
+      {
+        "noc": "3210",
+        "title": "Technical occupations in therapy and assessment",
+        "share": 4.4
+      },
+      {
+        "noc": "131",
+        "title": "Administrative occupations",
+        "share": 5.0
+      }
+    ]
+  },
+  "30.01": {
+    "men": [
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 4.0
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 3.4
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 1.9
+      },
+      {
+        "noc": "21232",
+        "title": "Software developers and programmers",
+        "share": 1.9
+      },
+      {
+        "noc": "60020",
+        "title": "Retail and wholesale trade managers",
+        "share": 1.8
+      }
+    ],
+    "women": [
+      {
+        "noc": "31301",
+        "title": "Registered nurses and registered psychiatric nurses",
+        "share": 6.3
+      },
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 3.1
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 2.6
+      },
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 2.5
+      },
+      {
+        "noc": "21110",
+        "title": "Biologists and related scientists",
+        "share": 2.4
+      }
+    ]
+  },
+  "30.10": {
+    "men": [
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 27.0
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 21.8
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 18.9
+      }
+    ],
+    "women": [
+      {
+        "noc": "31301",
+        "title": "Registered nurses and registered psychiatric nurses",
+        "share": 5.0
+      },
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 4.2
+      },
+      {
+        "noc": "1410",
+        "title": "Office support and court services occupations",
+        "share": 5.9
+      },
+      {
+        "noc": "1120",
+        "title": "Human resources and business service professionals",
+        "share": 5.9
+      },
+      {
+        "noc": "4220",
+        "title": "Paraprofessional occupations in legal, social, community and education services",
+        "share": 5.3
+      }
+    ]
+  },
+  "30.27": {
+    "men": [
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 29.2
+      }
+    ],
+    "women": [
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 29.0
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 22.3
+      },
+      {
+        "noc": "3",
+        "title": "Health occupations",
+        "share": 16.4
+      }
+    ]
+  },
+  "40.01": {
+    "men": [
+      {
+        "noc": "21300",
+        "title": "Civil engineers",
+        "share": 10.5
+      },
+      {
+        "noc": "21231",
+        "title": "Software engineers and designers",
+        "share": 9.4
+      },
+      {
+        "noc": "21301",
+        "title": "Mechanical engineers",
+        "share": 8.2
+      },
+      {
+        "noc": "21310",
+        "title": "Electrical and electronics engineers",
+        "share": 8.2
+      },
+      {
+        "noc": "21232",
+        "title": "Software developers and programmers",
+        "share": 6.6
+      }
+    ],
+    "women": [
+      {
+        "noc": "4220",
+        "title": "Paraprofessional occupations in legal, social, community and education services",
+        "share": 10.8
+      },
+      {
+        "noc": "2130",
+        "title": "Civil and mechanical engineers",
+        "share": 7.2
+      },
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 15.4
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 9.6
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 22.2
+      }
+    ]
+  },
+  "40.02": {
+    "men": [
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 39.3
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 31.8
+      }
+    ],
+    "women": []
+  },
+  "40.05": {
+    "men": [
+      {
+        "noc": "21101",
+        "title": "Chemists",
+        "share": 22.4
+      },
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 12.1
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 2.1
+      },
+      {
+        "noc": "21232",
+        "title": "Software developers and programmers",
+        "share": 1.9
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 1.9
+      }
+    ],
+    "women": [
+      {
+        "noc": "21101",
+        "title": "Chemists",
+        "share": 20.4
+      },
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 9.9
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 3.1
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 2.5
+      },
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 2.0
+      }
+    ]
+  },
+  "40.06": {
+    "men": [
+      {
+        "noc": "21102",
+        "title": "Geoscientists and oceanographers",
+        "share": 36.4
+      },
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 3.8
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 3.1
+      },
+      {
+        "noc": "41400",
+        "title": "Natural and applied science policy researchers, consultants and program officers",
+        "share": 2.9
+      },
+      {
+        "noc": "21110",
+        "title": "Biologists and related scientists",
+        "share": 1.9
+      }
+    ],
+    "women": [
+      {
+        "noc": "21102",
+        "title": "Geoscientists and oceanographers",
+        "share": 34.4
+      },
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 4.1
+      },
+      {
+        "noc": "41400",
+        "title": "Natural and applied science policy researchers, consultants and program officers",
+        "share": 3.6
+      },
+      {
+        "noc": "1310",
+        "title": "Administrative, property and payroll officers",
+        "share": 3.1
+      },
+      {
+        "noc": "212",
+        "title": "Professional occupations in applied sciences (except engineering)",
+        "share": 3.5
+      }
+    ]
+  },
+  "40.08": {
+    "men": [
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 14.2
+      },
+      {
+        "noc": "21232",
+        "title": "Software developers and programmers",
+        "share": 8.8
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 3.3
+      },
+      {
+        "noc": "21230",
+        "title": "Computer systems developers and programmers",
+        "share": 3.2
+      },
+      {
+        "noc": "43109",
+        "title": "Other instructors",
+        "share": 2.9
+      }
+    ],
+    "women": [
+      {
+        "noc": "4120",
+        "title": "University professors and post-secondary assistants",
+        "share": 12.2
+      },
+      {
+        "noc": "4122",
+        "title": "Secondary, elementary and kindergarten school teachers",
+        "share": 11.4
+      },
+      {
+        "noc": "212",
+        "title": "Professional occupations in applied sciences (except engineering)",
+        "share": 14.3
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 18.1
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 14.7
+      }
+    ]
+  },
+  "11.01": {
+    "men": [
+      {
+        "noc": "21222",
+        "title": "Information systems specialists",
+        "share": 16.8
+      },
+      {
+        "noc": "21232",
+        "title": "Software developers and programmers",
+        "share": 9.2
+      },
+      {
+        "noc": "21234",
+        "title": "Web developers and programmers",
+        "share": 6.8
+      },
+      {
+        "noc": "22220",
+        "title": "Computer network and web technicians",
+        "share": 6.6
+      },
+      {
+        "noc": "21231",
+        "title": "Software engineers and designers",
+        "share": 5.3
+      }
+    ],
+    "women": [
+      {
+        "noc": "21222",
+        "title": "Information systems specialists",
+        "share": 14.8
+      },
+      {
+        "noc": "2123",
+        "title": "Computer, software and Web designers and developers",
+        "share": 17.0
+      },
+      {
+        "noc": "2222",
+        "title": "Technical occupations in computer and information systems",
+        "share": 9.0
+      },
+      {
+        "noc": "2122",
+        "title": "Computer and information systems professionals",
+        "share": 7.7
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 16.0
+      }
+    ]
+  },
+  "11.02": {
+    "men": [
+      {
+        "noc": "21232",
+        "title": "Software developers and programmers",
+        "share": 36.8
+      },
+      {
+        "noc": "21230",
+        "title": "Computer systems developers and programmers",
+        "share": 15.5
+      },
+      {
+        "noc": "21234",
+        "title": "Web developers and programmers",
+        "share": 9.1
+      },
+      {
+        "noc": "21231",
+        "title": "Software engineers and designers",
+        "share": 8.3
+      },
+      {
+        "noc": "212",
+        "title": "Professional occupations in applied sciences (except engineering)",
+        "share": 9.5
+      }
+    ],
+    "women": []
+  },
+  "11.07": {
+    "men": [
+      {
+        "noc": "21232",
+        "title": "Software developers and programmers",
+        "share": 28.2
+      },
+      {
+        "noc": "21231",
+        "title": "Software engineers and designers",
+        "share": 17.8
+      },
+      {
+        "noc": "21234",
+        "title": "Web developers and programmers",
+        "share": 11.0
+      },
+      {
+        "noc": "21230",
+        "title": "Computer systems developers and programmers",
+        "share": 7.8
+      },
+      {
+        "noc": "21222",
+        "title": "Information systems specialists",
+        "share": 5.7
+      }
+    ],
+    "women": [
+      {
+        "noc": "21232",
+        "title": "Software developers and programmers",
+        "share": 26.0
+      },
+      {
+        "noc": "21231",
+        "title": "Software engineers and designers",
+        "share": 13.4
+      },
+      {
+        "noc": "21234",
+        "title": "Web developers and programmers",
+        "share": 12.6
+      },
+      {
+        "noc": "21230",
+        "title": "Computer systems developers and programmers",
+        "share": 6.1
+      },
+      {
+        "noc": "21222",
+        "title": "Information systems specialists",
+        "share": 4.9
+      }
+    ]
+  },
+  "11.08": {
+    "men": [
+      {
+        "noc": "52120",
+        "title": "Graphic designers and illustrators",
+        "share": 25.1
+      },
+      {
+        "noc": "2123",
+        "title": "Computer, software and Web designers and developers",
+        "share": 26.0
+      },
+      {
+        "noc": "5",
+        "title": "Occupations in art, culture, recreation and sport",
+        "share": 13.3
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 12.5
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 10.1
+      }
+    ],
+    "women": [
+      {
+        "noc": "52120",
+        "title": "Graphic designers and illustrators",
+        "share": 30.5
+      },
+      {
+        "noc": "21233",
+        "title": "Web designers",
+        "share": 10.6
+      },
+      {
+        "noc": "2123",
+        "title": "Computer, software and Web designers and developers",
+        "share": 13.3
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 13.4
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 12.9
+      }
+    ]
+  },
+  "11.10": {
+    "men": [
+      {
+        "noc": "21220",
+        "title": "Cybersecurity specialists",
+        "share": 19.5
+      },
+      {
+        "noc": "21222",
+        "title": "Information systems specialists",
+        "share": 12.1
+      },
+      {
+        "noc": "22220",
+        "title": "Computer network and web technicians",
+        "share": 7.4
+      },
+      {
+        "noc": "20012",
+        "title": "Computer and information systems managers",
+        "share": 7.2
+      },
+      {
+        "noc": "2123",
+        "title": "Computer, software and Web designers and developers",
+        "share": 11.4
+      }
+    ],
+    "women": [
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 26.8
+      }
+    ]
+  },
+  "11.99": {
+    "men": [
+      {
+        "noc": "21232",
+        "title": "Software developers and programmers",
+        "share": 31.3
+      },
+      {
+        "noc": "2123",
+        "title": "Computer, software and Web designers and developers",
+        "share": 24.6
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 18.1
+      }
+    ],
+    "women": []
+  },
+  "27.01": {
+    "men": [
+      {
+        "noc": "21210",
+        "title": "Mathematicians, statisticians and actuaries",
+        "share": 8.2
+      },
+      {
+        "noc": "11101",
+        "title": "Financial and investment analysts",
+        "share": 4.3
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 4.2
+      },
+      {
+        "noc": "21211",
+        "title": "Data scientists",
+        "share": 4.2
+      },
+      {
+        "noc": "21232",
+        "title": "Software developers and programmers",
+        "share": 4.1
+      }
+    ],
+    "women": [
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 9.0
+      },
+      {
+        "noc": "21210",
+        "title": "Mathematicians, statisticians and actuaries",
+        "share": 8.7
+      },
+      {
+        "noc": "11101",
+        "title": "Financial and investment analysts",
+        "share": 5.1
+      },
+      {
+        "noc": "11100",
+        "title": "Financial auditors and accountants",
+        "share": 3.3
+      },
+      {
+        "noc": "11201",
+        "title": "Professional occupations in business management consulting",
+        "share": 2.8
+      }
+    ]
+  },
+  "27.03": {
+    "men": [
+      {
+        "noc": "2123",
+        "title": "Computer, software and Web designers and developers",
+        "share": 20.6
+      },
+      {
+        "noc": "11",
+        "title": "Professional occupations in finance and business",
+        "share": 15.6
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 18.5
+      }
+    ],
+    "women": [
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 38.4
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 20.9
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 19.0
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 15.4
+      }
+    ]
+  },
+  "27.05": {
+    "men": [
+      {
+        "noc": "21210",
+        "title": "Mathematicians, statisticians and actuaries",
+        "share": 9.0
+      },
+      {
+        "noc": "21211",
+        "title": "Data scientists",
+        "share": 4.7
+      },
+      {
+        "noc": "1110",
+        "title": "Auditors, accountants and investment professionals",
+        "share": 11.6
+      },
+      {
+        "noc": "2123",
+        "title": "Computer, software and Web designers and developers",
+        "share": 7.2
+      },
+      {
+        "noc": "2122",
+        "title": "Computer and information systems professionals",
+        "share": 6.0
+      }
+    ],
+    "women": [
+      {
+        "noc": "21210",
+        "title": "Mathematicians, statisticians and actuaries",
+        "share": 6.2
+      },
+      {
+        "noc": "1110",
+        "title": "Auditors, accountants and investment professionals",
+        "share": 11.1
+      },
+      {
+        "noc": "2122",
+        "title": "Computer and information systems professionals",
+        "share": 8.6
+      },
+      {
+        "noc": "1120",
+        "title": "Human resources and business service professionals",
+        "share": 7.4
+      },
+      {
+        "noc": "4140",
+        "title": "Policy and program researchers, consultants and officers",
+        "share": 6.7
+      }
+    ]
+  },
+  "30.08": {
+    "men": [
+      {
+        "noc": "21232",
+        "title": "Software developers and programmers",
+        "share": 20.6
+      },
+      {
+        "noc": "21231",
+        "title": "Software engineers and designers",
+        "share": 16.1
+      },
+      {
+        "noc": "21234",
+        "title": "Web developers and programmers",
+        "share": 10.7
+      },
+      {
+        "noc": "21230",
+        "title": "Computer systems developers and programmers",
+        "share": 8.8
+      },
+      {
+        "noc": "2122",
+        "title": "Computer and information systems professionals",
+        "share": 8.5
+      }
+    ],
+    "women": [
+      {
+        "noc": "2123",
+        "title": "Computer, software and Web designers and developers",
+        "share": 52.5
+      }
+    ]
+  },
+  "30.39": {
+    "men": [
+      {
+        "noc": "2123",
+        "title": "Computer, software and Web designers and developers",
+        "share": 43.3
+      }
+    ],
+    "women": []
+  },
+  "30.49": {
+    "men": [
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 32.4
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 24.7
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 19.6
+      }
+    ],
+    "women": [
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 47.4
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 25.5
+      }
+    ]
+  },
+  "04.02": {
+    "men": [
+      {
+        "noc": "22210",
+        "title": "Architectural technologists and technicians",
+        "share": 20.3
+      },
+      {
+        "noc": "21200",
+        "title": "Architects",
+        "share": 17.8
+      },
+      {
+        "noc": "70010",
+        "title": "Construction managers",
+        "share": 9.7
+      },
+      {
+        "noc": "22212",
+        "title": "Drafting technologists and technicians",
+        "share": 4.7
+      },
+      {
+        "noc": "5212",
+        "title": "Graphic and interior designers",
+        "share": 6.0
+      }
+    ],
+    "women": [
+      {
+        "noc": "22210",
+        "title": "Architectural technologists and technicians",
+        "share": 18.3
+      },
+      {
+        "noc": "21200",
+        "title": "Architects",
+        "share": 17.2
+      },
+      {
+        "noc": "70010",
+        "title": "Construction managers",
+        "share": 6.4
+      },
+      {
+        "noc": "5212",
+        "title": "Graphic and interior designers",
+        "share": 8.7
+      },
+      {
+        "noc": "22",
+        "title": "Technical occupations related to natural and applied sciences",
+        "share": 5.3
+      }
+    ]
+  },
+  "04.03": {
+    "men": [
+      {
+        "noc": "21202",
+        "title": "Urban and land use planners",
+        "share": 29.7
+      },
+      {
+        "noc": "43202",
+        "title": "By-law enforcement and other regulatory officers",
+        "share": 3.6
+      },
+      {
+        "noc": "63101",
+        "title": "Real estate agents and salespersons",
+        "share": 3.5
+      },
+      {
+        "noc": "6410",
+        "title": "Retail salespersons and non-technical wholesale trade sales and account representatives",
+        "share": 3.5
+      },
+      {
+        "noc": "1002",
+        "title": "Managers in financial and business services",
+        "share": 3.2
+      }
+    ],
+    "women": [
+      {
+        "noc": "21202",
+        "title": "Urban and land use planners",
+        "share": 28.6
+      },
+      {
+        "noc": "1002",
+        "title": "Managers in financial and business services",
+        "share": 6.1
+      },
+      {
+        "noc": "1310",
+        "title": "Administrative, property and payroll officers",
+        "share": 4.5
+      },
+      {
+        "noc": "1430",
+        "title": "Library, correspondence and other clerks",
+        "share": 4.0
+      },
+      {
+        "noc": "4140",
+        "title": "Policy and program researchers, consultants and officers",
+        "share": 3.7
+      }
+    ]
+  },
+  "04.04": {
+    "men": [
+      {
+        "noc": "2221",
+        "title": "Technical occupations in architecture, drafting, surveying, geomatics and meteorology",
+        "share": 23.4
+      },
+      {
+        "noc": "7",
+        "title": "Trades, transport and equipment operators and related occupations",
+        "share": 19.4
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 16.4
+      },
+      {
+        "noc": "5",
+        "title": "Occupations in art, culture, recreation and sport",
+        "share": 14.7
+      }
+    ],
+    "women": [
+      {
+        "noc": "52121",
+        "title": "Interior designers and interior decorators",
+        "share": 17.3
+      },
+      {
+        "noc": "52120",
+        "title": "Graphic designers and illustrators",
+        "share": 9.0
+      },
+      {
+        "noc": "2221",
+        "title": "Technical occupations in architecture, drafting, surveying, geomatics and meteorology",
+        "share": 15.8
+      },
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 7.3
+      },
+      {
+        "noc": "64",
+        "title": "Sales and service representatives and other customer and personal services occupations",
+        "share": 7.1
+      }
+    ]
+  },
+  "04.06": {
+    "men": [
+      {
+        "noc": "21201",
+        "title": "Landscape architects",
+        "share": 41.3
+      },
+      {
+        "noc": "22",
+        "title": "Technical occupations related to natural and applied sciences",
+        "share": 22.2
+      }
+    ],
+    "women": [
+      {
+        "noc": "21201",
+        "title": "Landscape architects",
+        "share": 39.6
+      },
+      {
+        "noc": "22",
+        "title": "Technical occupations related to natural and applied sciences",
+        "share": 17.0
+      }
+    ]
+  },
+  "14.01": {
+    "men": [
+      {
+        "noc": "21301",
+        "title": "Mechanical engineers",
+        "share": 15.2
+      },
+      {
+        "noc": "21300",
+        "title": "Civil engineers",
+        "share": 13.4
+      },
+      {
+        "noc": "21310",
+        "title": "Electrical and electronics engineers",
+        "share": 7.3
+      },
+      {
+        "noc": "21231",
+        "title": "Software engineers and designers",
+        "share": 4.5
+      },
+      {
+        "noc": "20010",
+        "title": "Engineering managers",
+        "share": 3.5
+      }
+    ],
+    "women": [
+      {
+        "noc": "21300",
+        "title": "Civil engineers",
+        "share": 16.1
+      },
+      {
+        "noc": "21301",
+        "title": "Mechanical engineers",
+        "share": 8.0
+      },
+      {
+        "noc": "20010",
+        "title": "Engineering managers",
+        "share": 5.7
+      },
+      {
+        "noc": "21231",
+        "title": "Software engineers and designers",
+        "share": 4.2
+      },
+      {
+        "noc": "21310",
+        "title": "Electrical and electronics engineers",
+        "share": 4.0
+      }
+    ]
+  },
+  "14.02": {
+    "men": [
+      {
+        "noc": "21390",
+        "title": "Aerospace engineers",
+        "share": 22.8
+      },
+      {
+        "noc": "40042",
+        "title": "Commissioned officers of the Canadian Armed Forces",
+        "share": 7.5
+      },
+      {
+        "noc": "72600",
+        "title": "Air pilots, flight engineers and flying instructors",
+        "share": 7.0
+      },
+      {
+        "noc": "21231",
+        "title": "Software engineers and designers",
+        "share": 5.2
+      },
+      {
+        "noc": "21301",
+        "title": "Mechanical engineers",
+        "share": 5.0
+      }
+    ],
+    "women": [
+      {
+        "noc": "213",
+        "title": "Professional occupations in engineering",
+        "share": 36.7
+      }
+    ]
+  },
+  "14.03": {
+    "men": [
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 57.5
+      }
+    ],
+    "women": []
+  },
+  "14.05": {
+    "men": [
+      {
+        "noc": "21231",
+        "title": "Software engineers and designers",
+        "share": 11.7
+      },
+      {
+        "noc": "213",
+        "title": "Professional occupations in engineering",
+        "share": 30.2
+      },
+      {
+        "noc": "212",
+        "title": "Professional occupations in applied sciences (except engineering)",
+        "share": 13.2
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 12.5
+      }
+    ],
+    "women": [
+      {
+        "noc": "21399",
+        "title": "Other professional engineers",
+        "share": 14.5
+      },
+      {
+        "noc": "213",
+        "title": "Professional occupations in engineering",
+        "share": 17.9
+      },
+      {
+        "noc": "212",
+        "title": "Professional occupations in applied sciences (except engineering)",
+        "share": 15.4
+      }
+    ]
+  },
+  "14.07": {
+    "men": [
+      {
+        "noc": "21320",
+        "title": "Chemical engineers",
+        "share": 28.7
+      },
+      {
+        "noc": "20010",
+        "title": "Engineering managers",
+        "share": 5.4
+      },
+      {
+        "noc": "21321",
+        "title": "Industrial and manufacturing engineers",
+        "share": 2.9
+      },
+      {
+        "noc": "21300",
+        "title": "Civil engineers",
+        "share": 2.4
+      },
+      {
+        "noc": "90010",
+        "title": "Manufacturing managers",
+        "share": 2.3
+      }
+    ],
+    "women": [
+      {
+        "noc": "21320",
+        "title": "Chemical engineers",
+        "share": 29.6
+      },
+      {
+        "noc": "21300",
+        "title": "Civil engineers",
+        "share": 5.0
+      },
+      {
+        "noc": "20010",
+        "title": "Engineering managers",
+        "share": 3.6
+      },
+      {
+        "noc": "21222",
+        "title": "Information systems specialists",
+        "share": 2.9
+      },
+      {
+        "noc": "70010",
+        "title": "Construction managers",
+        "share": 2.8
+      }
+    ]
+  },
+  "14.08": {
+    "men": [
+      {
+        "noc": "21300",
+        "title": "Civil engineers",
+        "share": 58.0
+      },
+      {
+        "noc": "70010",
+        "title": "Construction managers",
+        "share": 10.5
+      },
+      {
+        "noc": "00015",
+        "title": "Senior managers - construction, transportation, production and utilities",
+        "share": 2.2
+      },
+      {
+        "noc": "72021",
+        "title": "Contractors and supervisors, heavy equipment operator crews",
+        "share": 2.0
+      },
+      {
+        "noc": "22300",
+        "title": "Civil engineering technologists and technicians",
+        "share": 1.8
+      }
+    ],
+    "women": [
+      {
+        "noc": "21300",
+        "title": "Civil engineers",
+        "share": 58.9
+      },
+      {
+        "noc": "70010",
+        "title": "Construction managers",
+        "share": 7.9
+      },
+      {
+        "noc": "22300",
+        "title": "Civil engineering technologists and technicians",
+        "share": 2.2
+      },
+      {
+        "noc": "22303",
+        "title": "Construction estimators",
+        "share": 2.0
+      },
+      {
+        "noc": "213",
+        "title": "Professional occupations in engineering",
+        "share": 3.2
+      }
+    ]
+  },
+  "14.09": {
+    "men": [
+      {
+        "noc": "21232",
+        "title": "Software developers and programmers",
+        "share": 30.4
+      },
+      {
+        "noc": "21231",
+        "title": "Software engineers and designers",
+        "share": 27.8
+      },
+      {
+        "noc": "21234",
+        "title": "Web developers and programmers",
+        "share": 6.9
+      },
+      {
+        "noc": "21230",
+        "title": "Computer systems developers and programmers",
+        "share": 6.6
+      },
+      {
+        "noc": "21311",
+        "title": "Computer engineers (except software engineers and designers)",
+        "share": 4.7
+      }
+    ],
+    "women": [
+      {
+        "noc": "21232",
+        "title": "Software developers and programmers",
+        "share": 27.2
+      },
+      {
+        "noc": "21231",
+        "title": "Software engineers and designers",
+        "share": 20.2
+      },
+      {
+        "noc": "21234",
+        "title": "Web developers and programmers",
+        "share": 9.0
+      },
+      {
+        "noc": "21222",
+        "title": "Information systems specialists",
+        "share": 8.5
+      },
+      {
+        "noc": "21230",
+        "title": "Computer systems developers and programmers",
+        "share": 4.4
+      }
+    ]
+  },
+  "14.10": {
+    "men": [
+      {
+        "noc": "21310",
+        "title": "Electrical and electronics engineers",
+        "share": 41.9
+      },
+      {
+        "noc": "21231",
+        "title": "Software engineers and designers",
+        "share": 6.8
+      },
+      {
+        "noc": "21232",
+        "title": "Software developers and programmers",
+        "share": 5.7
+      },
+      {
+        "noc": "21311",
+        "title": "Computer engineers (except software engineers and designers)",
+        "share": 2.9
+      },
+      {
+        "noc": "21222",
+        "title": "Information systems specialists",
+        "share": 2.4
+      }
+    ],
+    "women": [
+      {
+        "noc": "21310",
+        "title": "Electrical and electronics engineers",
+        "share": 37.4
+      },
+      {
+        "noc": "21232",
+        "title": "Software developers and programmers",
+        "share": 7.2
+      },
+      {
+        "noc": "21222",
+        "title": "Information systems specialists",
+        "share": 4.6
+      },
+      {
+        "noc": "21231",
+        "title": "Software engineers and designers",
+        "share": 4.5
+      },
+      {
+        "noc": "21311",
+        "title": "Computer engineers (except software engineers and designers)",
+        "share": 4.2
+      }
+    ]
+  },
+  "14.12": {
+    "men": [
+      {
+        "noc": "21310",
+        "title": "Electrical and electronics engineers",
+        "share": 12.1
+      },
+      {
+        "noc": "21232",
+        "title": "Software developers and programmers",
+        "share": 10.6
+      },
+      {
+        "noc": "21301",
+        "title": "Mechanical engineers",
+        "share": 8.2
+      },
+      {
+        "noc": "21231",
+        "title": "Software engineers and designers",
+        "share": 8.1
+      },
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 7.5
+      }
+    ],
+    "women": []
+  },
+  "14.13": {
+    "men": [
+      {
+        "noc": "212",
+        "title": "Professional occupations in applied sciences (except engineering)",
+        "share": 25.9
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 30.6
+      }
+    ],
+    "women": [
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 64.5
+      }
+    ]
+  },
+  "14.14": {
+    "men": [
+      {
+        "noc": "21300",
+        "title": "Civil engineers",
+        "share": 47.7
+      },
+      {
+        "noc": "41400",
+        "title": "Natural and applied science policy researchers, consultants and program officers",
+        "share": 7.8
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 13.6
+      }
+    ],
+    "women": [
+      {
+        "noc": "21300",
+        "title": "Civil engineers",
+        "share": 53.7
+      },
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 12.4
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 11.5
+      }
+    ]
+  },
+  "14.18": {
+    "men": [
+      {
+        "noc": "21322",
+        "title": "Metallurgical and materials engineers",
+        "share": 22.3
+      },
+      {
+        "noc": "213",
+        "title": "Professional occupations in engineering",
+        "share": 16.2
+      },
+      {
+        "noc": "212",
+        "title": "Professional occupations in applied sciences (except engineering)",
+        "share": 10.9
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 12.5
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 10.3
+      }
+    ],
+    "women": [
+      {
+        "noc": "2132",
+        "title": "Manufacturing and processing engineers",
+        "share": 26.4
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 28.8
+      }
+    ]
+  },
+  "14.19": {
+    "men": [
+      {
+        "noc": "21301",
+        "title": "Mechanical engineers",
+        "share": 46.4
+      },
+      {
+        "noc": "21321",
+        "title": "Industrial and manufacturing engineers",
+        "share": 4.1
+      },
+      {
+        "noc": "20010",
+        "title": "Engineering managers",
+        "share": 2.6
+      },
+      {
+        "noc": "90010",
+        "title": "Manufacturing managers",
+        "share": 2.0
+      },
+      {
+        "noc": "22301",
+        "title": "Mechanical engineering technologists and technicians",
+        "share": 1.9
+      }
+    ],
+    "women": [
+      {
+        "noc": "21301",
+        "title": "Mechanical engineers",
+        "share": 44.6
+      },
+      {
+        "noc": "21321",
+        "title": "Industrial and manufacturing engineers",
+        "share": 4.4
+      },
+      {
+        "noc": "21231",
+        "title": "Software engineers and designers",
+        "share": 2.6
+      },
+      {
+        "noc": "22301",
+        "title": "Mechanical engineering technologists and technicians",
+        "share": 2.6
+      },
+      {
+        "noc": "2001",
+        "title": "Managers in engineering, architecture, science and information systems",
+        "share": 2.9
+      }
+    ]
+  },
+  "14.21": {
+    "men": [
+      {
+        "noc": "21330",
+        "title": "Mining engineers",
+        "share": 37.2
+      },
+      {
+        "noc": "2130",
+        "title": "Civil and mechanical engineers",
+        "share": 6.5
+      },
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 10.3
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 12.9
+      },
+      {
+        "noc": "8",
+        "title": "Natural resources, agriculture and related production occupations",
+        "share": 8.4
+      }
+    ],
+    "women": [
+      {
+        "noc": "21330",
+        "title": "Mining engineers",
+        "share": 48.4
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 36.0
+      }
+    ]
+  },
+  "14.23": {
+    "men": [
+      {
+        "noc": "21301",
+        "title": "Mechanical engineers",
+        "share": 36.2
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 19.5
+      }
+    ],
+    "women": []
+  },
+  "14.25": {
+    "men": [
+      {
+        "noc": "21332",
+        "title": "Petroleum engineers",
+        "share": 20.6
+      },
+      {
+        "noc": "213",
+        "title": "Professional occupations in engineering",
+        "share": 15.0
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 15.8
+      }
+    ],
+    "women": [
+      {
+        "noc": "213",
+        "title": "Professional occupations in engineering",
+        "share": 51.6
+      }
+    ]
+  },
+  "14.27": {
+    "men": [
+      {
+        "noc": "21231",
+        "title": "Software engineers and designers",
+        "share": 26.2
+      },
+      {
+        "noc": "213",
+        "title": "Professional occupations in engineering",
+        "share": 21.2
+      },
+      {
+        "noc": "212",
+        "title": "Professional occupations in applied sciences (except engineering)",
+        "share": 14.3
+      }
+    ],
+    "women": [
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 53.7
+      }
+    ]
+  },
+  "14.33": {
+    "men": [
+      {
+        "noc": "21300",
+        "title": "Civil engineers",
+        "share": 29.8
+      },
+      {
+        "noc": "00015",
+        "title": "Senior managers - construction, transportation, production and utilities",
+        "share": 15.0
+      },
+      {
+        "noc": "70010",
+        "title": "Construction managers",
+        "share": 13.6
+      },
+      {
+        "noc": "21301",
+        "title": "Mechanical engineers",
+        "share": 6.3
+      },
+      {
+        "noc": "22303",
+        "title": "Construction estimators",
+        "share": 5.3
+      }
+    ],
+    "women": [
+      {
+        "noc": "21300",
+        "title": "Civil engineers",
+        "share": 32.7
+      },
+      {
+        "noc": "7001",
+        "title": "Managers in construction and facility operation and maintenance",
+        "share": 15.5
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 16.1
+      }
+    ]
+  },
+  "14.34": {
+    "men": [
+      {
+        "noc": "21111",
+        "title": "Forestry professionals",
+        "share": 49.0
+      }
+    ],
+    "women": []
+  },
+  "14.35": {
+    "men": [
+      {
+        "noc": "21321",
+        "title": "Industrial and manufacturing engineers",
+        "share": 20.1
+      },
+      {
+        "noc": "21222",
+        "title": "Information systems specialists",
+        "share": 6.8
+      },
+      {
+        "noc": "11201",
+        "title": "Professional occupations in business management consulting",
+        "share": 6.8
+      },
+      {
+        "noc": "21221",
+        "title": "Business systems specialists",
+        "share": 4.4
+      },
+      {
+        "noc": "2001",
+        "title": "Managers in engineering, architecture, science and information systems",
+        "share": 5.3
+      }
+    ],
+    "women": [
+      {
+        "noc": "21321",
+        "title": "Industrial and manufacturing engineers",
+        "share": 17.9
+      },
+      {
+        "noc": "11201",
+        "title": "Professional occupations in business management consulting",
+        "share": 10.0
+      },
+      {
+        "noc": "21222",
+        "title": "Information systems specialists",
+        "share": 6.1
+      },
+      {
+        "noc": "212",
+        "title": "Professional occupations in applied sciences (except engineering)",
+        "share": 8.1
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 15.2
+      }
+    ]
+  },
+  "14.36": {
+    "men": [
+      {
+        "noc": "21321",
+        "title": "Industrial and manufacturing engineers",
+        "share": 19.8
+      },
+      {
+        "noc": "2123",
+        "title": "Computer, software and Web designers and developers",
+        "share": 17.6
+      },
+      {
+        "noc": "213",
+        "title": "Professional occupations in engineering",
+        "share": 17.9
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 20.1
+      }
+    ],
+    "women": [
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 64.5
+      }
+    ]
+  },
+  "14.38": {
+    "men": [
+      {
+        "noc": "21203",
+        "title": "Land surveyors",
+        "share": 26.9
+      },
+      {
+        "noc": "2130",
+        "title": "Civil and mechanical engineers",
+        "share": 21.0
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 28.1
+      }
+    ],
+    "women": [
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 49.0
+      }
+    ]
+  },
+  "14.39": {
+    "men": [
+      {
+        "noc": "21331",
+        "title": "Geological engineers",
+        "share": 35.4
+      },
+      {
+        "noc": "213",
+        "title": "Professional occupations in engineering",
+        "share": 20.5
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 15.7
+      }
+    ],
+    "women": [
+      {
+        "noc": "21331",
+        "title": "Geological engineers",
+        "share": 42.9
+      }
+    ]
+  },
+  "14.41": {
+    "men": [
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 76.9
+      }
+    ],
+    "women": []
+  },
+  "14.42": {
+    "men": [
+      {
+        "noc": "21301",
+        "title": "Mechanical engineers",
+        "share": 25.6
+      },
+      {
+        "noc": "21231",
+        "title": "Software engineers and designers",
+        "share": 17.0
+      },
+      {
+        "noc": "21232",
+        "title": "Software developers and programmers",
+        "share": 7.8
+      },
+      {
+        "noc": "21310",
+        "title": "Electrical and electronics engineers",
+        "share": 7.3
+      },
+      {
+        "noc": "212",
+        "title": "Professional occupations in applied sciences (except engineering)",
+        "share": 7.8
+      }
+    ],
+    "women": [
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 63.9
+      }
+    ]
+  },
+  "14.47": {
+    "men": [
+      {
+        "noc": "21231",
+        "title": "Software engineers and designers",
+        "share": 33.7
+      },
+      {
+        "noc": "21310",
+        "title": "Electrical and electronics engineers",
+        "share": 14.6
+      },
+      {
+        "noc": "21232",
+        "title": "Software developers and programmers",
+        "share": 13.0
+      },
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 15.8
+      }
+    ],
+    "women": [
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 71.3
+      }
+    ]
+  },
+  "14.48": {
+    "men": [
+      {
+        "noc": "9",
+        "title": "Occupations in manufacturing and utilities",
+        "share": 25.4
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 23.6
+      },
+      {
+        "noc": "7",
+        "title": "Trades, transport and equipment operators and related occupations",
+        "share": 22.7
+      }
+    ],
+    "women": []
+  },
+  "14.99": {
+    "men": [
+      {
+        "noc": "21301",
+        "title": "Mechanical engineers",
+        "share": 18.1
+      },
+      {
+        "noc": "213",
+        "title": "Professional occupations in engineering",
+        "share": 11.9
+      },
+      {
+        "noc": "212",
+        "title": "Professional occupations in applied sciences (except engineering)",
+        "share": 8.6
+      },
+      {
+        "noc": "22",
+        "title": "Technical occupations related to natural and applied sciences",
+        "share": 11.5
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 12.7
+      }
+    ],
+    "women": []
+  },
+  "15.00": {
+    "men": [
+      {
+        "noc": "213",
+        "title": "Professional occupations in engineering",
+        "share": 26.3
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 30.4
+      },
+      {
+        "noc": "7",
+        "title": "Trades, transport and equipment operators and related occupations",
+        "share": 23.2
+      }
+    ],
+    "women": [
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 67.8
+      }
+    ]
+  },
+  "15.03": {
+    "men": [
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 20.3
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 26.0
+      }
+    ],
+    "women": []
+  },
+  "15.06": {
+    "men": [
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 43.3
+      }
+    ],
+    "women": []
+  },
+  "15.07": {
+    "men": [
+      {
+        "noc": "22232",
+        "title": "Occupational health and safety specialists",
+        "share": 28.2
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 32.0
+      }
+    ],
+    "women": [
+      {
+        "noc": "22232",
+        "title": "Occupational health and safety specialists",
+        "share": 41.9
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 20.4
+      }
+    ]
+  },
+  "15.12": {
+    "men": [
+      {
+        "noc": "2123",
+        "title": "Computer, software and Web designers and developers",
+        "share": 41.0
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 34.1
+      }
+    ],
+    "women": []
+  },
+  "15.15": {
+    "men": [
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 44.8
+      }
+    ],
+    "women": []
+  },
+  "15.16": {
+    "men": [
+      {
+        "noc": "212",
+        "title": "Professional occupations in applied sciences (except engineering)",
+        "share": 25.8
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 30.8
+      }
+    ],
+    "women": []
+  },
+  "01.00": {
+    "men": [
+      {
+        "noc": "80020",
+        "title": "Managers in agriculture",
+        "share": 30.4
+      },
+      {
+        "noc": "21112",
+        "title": "Agricultural representatives, consultants and specialists",
+        "share": 20.3
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 17.9
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 9.0
+      }
+    ],
+    "women": [
+      {
+        "noc": "21112",
+        "title": "Agricultural representatives, consultants and specialists",
+        "share": 24.0
+      },
+      {
+        "noc": "80020",
+        "title": "Managers in agriculture",
+        "share": 9.7
+      },
+      {
+        "noc": "6410",
+        "title": "Retail salespersons and non-technical wholesale trade sales and account representatives",
+        "share": 6.4
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 7.0
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 17.3
+      }
+    ]
+  },
+  "01.01": {
+    "men": [
+      {
+        "noc": "80020",
+        "title": "Managers in agriculture",
+        "share": 26.5
+      },
+      {
+        "noc": "21112",
+        "title": "Agricultural representatives, consultants and specialists",
+        "share": 7.5
+      },
+      {
+        "noc": "600",
+        "title": "Middle management occupations in retail and wholesale trade and customer services",
+        "share": 8.8
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 20.1
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 12.8
+      }
+    ],
+    "women": [
+      {
+        "noc": "21112",
+        "title": "Agricultural representatives, consultants and specialists",
+        "share": 14.1
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 32.9
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 29.1
+      }
+    ]
+  },
+  "01.10": {
+    "men": [
+      {
+        "noc": "211",
+        "title": "Professional occupations in natural sciences",
+        "share": 18.6
+      },
+      {
+        "noc": "9",
+        "title": "Occupations in manufacturing and utilities",
+        "share": 31.3
+      }
+    ],
+    "women": [
+      {
+        "noc": "21110",
+        "title": "Biologists and related scientists",
+        "share": 15.9
+      },
+      {
+        "noc": "211",
+        "title": "Professional occupations in natural sciences",
+        "share": 10.4
+      },
+      {
+        "noc": "22",
+        "title": "Technical occupations related to natural and applied sciences",
+        "share": 9.0
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 17.0
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 15.2
+      }
+    ]
+  },
+  "01.11": {
+    "men": [
+      {
+        "noc": "21112",
+        "title": "Agricultural representatives, consultants and specialists",
+        "share": 39.5
+      },
+      {
+        "noc": "80020",
+        "title": "Managers in agriculture",
+        "share": 23.2
+      },
+      {
+        "noc": "22",
+        "title": "Technical occupations related to natural and applied sciences",
+        "share": 10.5
+      }
+    ],
+    "women": [
+      {
+        "noc": "21112",
+        "title": "Agricultural representatives, consultants and specialists",
+        "share": 51.0
+      },
+      {
+        "noc": "80020",
+        "title": "Managers in agriculture",
+        "share": 9.0
+      },
+      {
+        "noc": "2211",
+        "title": "Technical occupations in life sciences",
+        "share": 7.7
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 6.6
+      }
+    ]
+  },
+  "03.01": {
+    "men": [
+      {
+        "noc": "41400",
+        "title": "Natural and applied science policy researchers, consultants and program officers",
+        "share": 9.5
+      },
+      {
+        "noc": "21110",
+        "title": "Biologists and related scientists",
+        "share": 6.2
+      },
+      {
+        "noc": "21120",
+        "title": "Public and environmental health and safety professionals",
+        "share": 2.9
+      },
+      {
+        "noc": "22300",
+        "title": "Civil engineering technologists and technicians",
+        "share": 2.6
+      },
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 2.3
+      }
+    ],
+    "women": [
+      {
+        "noc": "41400",
+        "title": "Natural and applied science policy researchers, consultants and program officers",
+        "share": 10.7
+      },
+      {
+        "noc": "21110",
+        "title": "Biologists and related scientists",
+        "share": 4.8
+      },
+      {
+        "noc": "41201",
+        "title": "Post-secondary teaching and research assistants",
+        "share": 3.6
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 2.6
+      },
+      {
+        "noc": "13100",
+        "title": "Administrative officers",
+        "share": 2.6
+      }
+    ]
+  },
+  "03.02": {
+    "men": [
+      {
+        "noc": "4140",
+        "title": "Policy and program researchers, consultants and officers",
+        "share": 11.9
+      },
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 15.4
+      },
+      {
+        "noc": "22",
+        "title": "Technical occupations related to natural and applied sciences",
+        "share": 8.5
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 15.5
+      },
+      {
+        "noc": "7",
+        "title": "Trades, transport and equipment operators and related occupations",
+        "share": 14.2
+      }
+    ],
+    "women": [
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 14.2
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 12.7
+      },
+      {
+        "noc": "13",
+        "title": "Administrative occupations and transportation logistics occupations",
+        "share": 10.6
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 20.7
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 12.9
+      }
+    ]
+  },
+  "03.05": {
+    "men": [
+      {
+        "noc": "21111",
+        "title": "Forestry professionals",
+        "share": 29.6
+      },
+      {
+        "noc": "22112",
+        "title": "Forestry technologists and technicians",
+        "share": 10.2
+      },
+      {
+        "noc": "8",
+        "title": "Natural resources, agriculture and related production occupations",
+        "share": 12.9
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 10.1
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 8.5
+      }
+    ],
+    "women": [
+      {
+        "noc": "21111",
+        "title": "Forestry professionals",
+        "share": 26.1
+      },
+      {
+        "noc": "412",
+        "title": "Professional occupations in education services",
+        "share": 11.5
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 17.9
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 11.7
+      }
+    ]
+  },
+  "31.01": {
+    "men": [
+      {
+        "noc": "41406",
+        "title": "Recreation, sports and fitness policy researchers, consultants and program officers",
+        "share": 13.9
+      },
+      {
+        "noc": "54100",
+        "title": "Program leaders and instructors in recreation, sport and fitness",
+        "share": 11.2
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 7.4
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 17.6
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 17.4
+      }
+    ],
+    "women": [
+      {
+        "noc": "41406",
+        "title": "Recreation, sports and fitness policy researchers, consultants and program officers",
+        "share": 9.7
+      },
+      {
+        "noc": "54100",
+        "title": "Program leaders and instructors in recreation, sport and fitness",
+        "share": 9.4
+      },
+      {
+        "noc": "12103",
+        "title": "Conference and event planners",
+        "share": 4.7
+      },
+      {
+        "noc": "11202",
+        "title": "Professional occupations in advertising, marketing and public relations",
+        "share": 4.6
+      },
+      {
+        "noc": "13110",
+        "title": "Administrative assistants",
+        "share": 3.4
+      }
+    ]
+  },
+  "31.05": {
+    "men": [
+      {
+        "noc": "31204",
+        "title": "Kinesiologists and other professional occupations in therapy and assessment",
+        "share": 8.2
+      },
+      {
+        "noc": "54100",
+        "title": "Program leaders and instructors in recreation, sport and fitness",
+        "share": 7.2
+      },
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 4.5
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 3.9
+      },
+      {
+        "noc": "41220",
+        "title": "Secondary school teachers",
+        "share": 3.6
+      }
+    ],
+    "women": [
+      {
+        "noc": "31204",
+        "title": "Kinesiologists and other professional occupations in therapy and assessment",
+        "share": 11.3
+      },
+      {
+        "noc": "54100",
+        "title": "Program leaders and instructors in recreation, sport and fitness",
+        "share": 4.9
+      },
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 4.2
+      },
+      {
+        "noc": "31301",
+        "title": "Registered nurses and registered psychiatric nurses",
+        "share": 3.5
+      },
+      {
+        "noc": "32201",
+        "title": "Massage therapists",
+        "share": 3.1
+      }
+    ]
+  },
+  "51.00": {
+    "men": [
+      {
+        "noc": "31301",
+        "title": "Registered nurses and registered psychiatric nurses",
+        "share": 3.4
+      },
+      {
+        "noc": "32102",
+        "title": "Paramedical occupations",
+        "share": 3.1
+      },
+      {
+        "noc": "64100",
+        "title": "Retail salespersons and visual merchandisers",
+        "share": 3.0
+      },
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 2.5
+      },
+      {
+        "noc": "33102",
+        "title": "Nurse aides, orderlies and patient service associates",
+        "share": 2.3
+      }
+    ],
+    "women": [
+      {
+        "noc": "31301",
+        "title": "Registered nurses and registered psychiatric nurses",
+        "share": 9.4
+      },
+      {
+        "noc": "33102",
+        "title": "Nurse aides, orderlies and patient service associates",
+        "share": 3.3
+      },
+      {
+        "noc": "41404",
+        "title": "Health policy researchers, consultants and program officers",
+        "share": 3.1
+      },
+      {
+        "noc": "32103",
+        "title": "Respiratory therapists, clinical perfusionists and cardiopulmonary technologists",
+        "share": 3.1
+      },
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 2.8
+      }
+    ]
+  },
+  "51.07": {
+    "men": [
+      {
+        "noc": "212",
+        "title": "Professional occupations in applied sciences (except engineering)",
+        "share": 25.9
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 32.7
+      }
+    ],
+    "women": [
+      {
+        "noc": "2122",
+        "title": "Computer and information systems professionals",
+        "share": 16.4
+      },
+      {
+        "noc": "1120",
+        "title": "Human resources and business service professionals",
+        "share": 11.3
+      },
+      {
+        "noc": "4140",
+        "title": "Policy and program researchers, consultants and officers",
+        "share": 10.1
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 21.4
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 15.0
+      }
+    ]
+  },
+  "51.09": {
+    "men": [
+      {
+        "noc": "32121",
+        "title": "Medical radiation technologists",
+        "share": 40.4
+      },
+      {
+        "noc": "32102",
+        "title": "Paramedical occupations",
+        "share": 13.7
+      },
+      {
+        "noc": "32103",
+        "title": "Respiratory therapists, clinical perfusionists and cardiopulmonary technologists",
+        "share": 9.5
+      },
+      {
+        "noc": "31204",
+        "title": "Kinesiologists and other professional occupations in therapy and assessment",
+        "share": 7.6
+      },
+      {
+        "noc": "321",
+        "title": "Technical occupations in health (except practitioners of natural healing)",
+        "share": 6.8
+      }
+    ],
+    "women": [
+      {
+        "noc": "32121",
+        "title": "Medical radiation technologists",
+        "share": 40.8
+      },
+      {
+        "noc": "32122",
+        "title": "Medical sonographers",
+        "share": 15.7
+      },
+      {
+        "noc": "32103",
+        "title": "Respiratory therapists, clinical perfusionists and cardiopulmonary technologists",
+        "share": 11.5
+      },
+      {
+        "noc": "31204",
+        "title": "Kinesiologists and other professional occupations in therapy and assessment",
+        "share": 8.4
+      },
+      {
+        "noc": "31303",
+        "title": "Physician assistants, midwives and allied health professionals",
+        "share": 4.0
+      }
+    ]
+  },
+  "51.10": {
+    "men": [
+      {
+        "noc": "32120",
+        "title": "Medical laboratory technologists",
+        "share": 50.9
+      }
+    ],
+    "women": [
+      {
+        "noc": "32120",
+        "title": "Medical laboratory technologists",
+        "share": 65.4
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 8.2
+      },
+      {
+        "noc": "3",
+        "title": "Health occupations",
+        "share": 17.3
+      }
+    ]
+  },
+  "51.11": {
+    "men": [
+      {
+        "noc": "212",
+        "title": "Professional occupations in applied sciences (except engineering)",
+        "share": 11.3
+      },
+      {
+        "noc": "31",
+        "title": "Professional occupations in health",
+        "share": 15.8
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 14.2
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 22.8
+      }
+    ],
+    "women": [
+      {
+        "noc": "3130",
+        "title": "Nursing and allied health professionals",
+        "share": 11.8
+      },
+      {
+        "noc": "3212",
+        "title": "Medical technologists and technicians",
+        "share": 10.3
+      },
+      {
+        "noc": "321",
+        "title": "Technical occupations in health (except practitioners of natural healing)",
+        "share": 10.4
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 10.9
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 15.2
+      }
+    ]
+  },
+  "51.15": {
+    "men": [
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 46.5
+      }
+    ],
+    "women": [
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 24.5
+      },
+      {
+        "noc": "41301",
+        "title": "Therapists in counselling and related specialized therapies",
+        "share": 14.4
+      },
+      {
+        "noc": "41300",
+        "title": "Social workers",
+        "share": 5.3
+      },
+      {
+        "noc": "4220",
+        "title": "Paraprofessional occupations in legal, social, community and education services",
+        "share": 5.8
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 8.5
+      }
+    ]
+  },
+  "51.20": {
+    "men": [
+      {
+        "noc": "31120",
+        "title": "Pharmacists",
+        "share": 81.1
+      },
+      {
+        "noc": "60020",
+        "title": "Retail and wholesale trade managers",
+        "share": 4.7
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 3.5
+      },
+      {
+        "noc": "3",
+        "title": "Health occupations",
+        "share": 2.9
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 2.6
+      }
+    ],
+    "women": [
+      {
+        "noc": "31120",
+        "title": "Pharmacists",
+        "share": 85.8
+      },
+      {
+        "noc": "60020",
+        "title": "Retail and wholesale trade managers",
+        "share": 2.5
+      },
+      {
+        "noc": "33103",
+        "title": "Pharmacy technical assistants and pharmacy assistants",
+        "share": 1.3
+      },
+      {
+        "noc": "3212",
+        "title": "Medical technologists and technicians",
+        "share": 1.7
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 1.7
+      }
+    ]
+  },
+  "51.22": {
+    "men": [
+      {
+        "noc": "21120",
+        "title": "Public and environmental health and safety professionals",
+        "share": 21.3
+      },
+      {
+        "noc": "22",
+        "title": "Technical occupations related to natural and applied sciences",
+        "share": 10.4
+      },
+      {
+        "noc": "64",
+        "title": "Sales and service representatives and other customer and personal services occupations",
+        "share": 9.5
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 11.1
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 10.8
+      }
+    ],
+    "women": [
+      {
+        "noc": "21120",
+        "title": "Public and environmental health and safety professionals",
+        "share": 17.6
+      },
+      {
+        "noc": "31301",
+        "title": "Registered nurses and registered psychiatric nurses",
+        "share": 5.2
+      },
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 4.5
+      },
+      {
+        "noc": "41404",
+        "title": "Health policy researchers, consultants and program officers",
+        "share": 4.4
+      },
+      {
+        "noc": "1311",
+        "title": "Office administrative assistants - general, legal and medical",
+        "share": 4.2
+      }
+    ]
+  },
+  "51.23": {
+    "men": [
+      {
+        "noc": "31202",
+        "title": "Physiotherapists",
+        "share": 19.3
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 16.0
+      },
+      {
+        "noc": "3",
+        "title": "Health occupations",
+        "share": 13.3
+      }
+    ],
+    "women": [
+      {
+        "noc": "31204",
+        "title": "Kinesiologists and other professional occupations in therapy and assessment",
+        "share": 19.1
+      },
+      {
+        "noc": "31202",
+        "title": "Physiotherapists",
+        "share": 9.7
+      },
+      {
+        "noc": "31203",
+        "title": "Occupational therapists",
+        "share": 8.5
+      },
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 4.6
+      },
+      {
+        "noc": "32109",
+        "title": "Other technical occupations in therapy and assessment",
+        "share": 4.4
+      }
+    ]
+  },
+  "51.38": {
+    "men": [
+      {
+        "noc": "31301",
+        "title": "Registered nurses and registered psychiatric nurses",
+        "share": 85.1
+      },
+      {
+        "noc": "31300",
+        "title": "Nursing coordinators and supervisors",
+        "share": 2.3
+      },
+      {
+        "noc": "33102",
+        "title": "Nurse aides, orderlies and patient service associates",
+        "share": 1.4
+      },
+      {
+        "noc": "30010",
+        "title": "Managers in health care",
+        "share": 1.2
+      },
+      {
+        "noc": "32101",
+        "title": "Licensed practical nurses",
+        "share": 1.0
+      }
+    ],
+    "women": [
+      {
+        "noc": "31301",
+        "title": "Registered nurses and registered psychiatric nurses",
+        "share": 90.1
+      },
+      {
+        "noc": "31300",
+        "title": "Nursing coordinators and supervisors",
+        "share": 1.7
+      },
+      {
+        "noc": "33102",
+        "title": "Nurse aides, orderlies and patient service associates",
+        "share": 1.2
+      },
+      {
+        "noc": "32101",
+        "title": "Licensed practical nurses",
+        "share": 0.8
+      },
+      {
+        "noc": "30010",
+        "title": "Managers in health care",
+        "share": 0.7
+      }
+    ]
+  },
+  "28.08": {
+    "men": [
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 100.0
+      }
+    ],
+    "women": []
+  },
+  "43.01": {
+    "men": [
+      {
+        "noc": "42100",
+        "title": "Police officers (except commissioned)",
+        "share": 20.1
+      },
+      {
+        "noc": "64410",
+        "title": "Security guards and related security service occupations",
+        "share": 8.1
+      },
+      {
+        "noc": "43201",
+        "title": "Correctional service officers",
+        "share": 5.4
+      },
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 4.9
+      },
+      {
+        "noc": "60020",
+        "title": "Retail and wholesale trade managers",
+        "share": 2.8
+      }
+    ],
+    "women": [
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 8.8
+      },
+      {
+        "noc": "42100",
+        "title": "Police officers (except commissioned)",
+        "share": 7.0
+      },
+      {
+        "noc": "64410",
+        "title": "Security guards and related security service occupations",
+        "share": 5.4
+      },
+      {
+        "noc": "43201",
+        "title": "Correctional service officers",
+        "share": 4.6
+      },
+      {
+        "noc": "13111",
+        "title": "Legal administrative assistants",
+        "share": 3.6
+      }
+    ]
+  },
+  "43.03": {
+    "men": [
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 41.6
+      }
+    ],
+    "women": [
+      {
+        "noc": "42",
+        "title": "Front-line public protection services and paraprofessional occupations in legal, social, community, education services",
+        "share": 18.9
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 30.4
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 23.5
+      }
+    ]
+  },
+  "43.04": {
+    "men": [
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 29.3
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 19.8
+      }
+    ],
+    "women": [
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 10.6
+      },
+      {
+        "noc": "14",
+        "title": "Administrative and financial support and supply chain logistics occupations",
+        "share": 9.7
+      },
+      {
+        "noc": "64",
+        "title": "Sales and service representatives and other customer and personal services occupations",
+        "share": 9.4
+      },
+      {
+        "noc": "21",
+        "title": "Professional occupations in natural and applied sciences",
+        "share": 9.0
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 17.8
+      }
+    ]
+  },
+  "49.01": {
+    "men": [
+      {
+        "noc": "72600",
+        "title": "Air pilots, flight engineers and flying instructors",
+        "share": 63.7
+      }
+    ],
+    "women": []
+  },
+  "30.99": {
+    "men": [
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 41.5
+      }
+    ],
+    "women": [
+      {
+        "noc": "131",
+        "title": "Administrative occupations",
+        "share": 12.7
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 10.6
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 21.5
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 21.4
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 15.3
+      }
+    ]
+  },
+  "13.02": {
+    "men": [],
+    "women": [
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 48.6
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 38.3
+      }
+    ]
+  },
+  "50.03": {
+    "men": [],
+    "women": [
+      {
+        "noc": "53120",
+        "title": "Dancers",
+        "share": 31.4
+      },
+      {
+        "noc": "5",
+        "title": "Occupations in art, culture, recreation and sport",
+        "share": 18.7
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 17.4
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 11.7
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 11.3
+      }
+    ]
+  },
+  "16.09": {
+    "men": [],
+    "women": [
+      {
+        "noc": "412",
+        "title": "Professional occupations in education services",
+        "share": 16.0
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 33.4
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 21.2
+      }
+    ]
+  },
+  "16.17": {
+    "men": [],
+    "women": [
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 69.2
+      }
+    ]
+  },
+  "39.04": {
+    "men": [],
+    "women": [
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 56.3
+      }
+    ]
+  },
+  "55.13": {
+    "men": [],
+    "women": [
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 48.1
+      }
+    ]
+  },
+  "19.01": {
+    "men": [],
+    "women": [
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 14.4
+      },
+      {
+        "noc": "41300",
+        "title": "Social workers",
+        "share": 7.3
+      },
+      {
+        "noc": "1120",
+        "title": "Human resources and business service professionals",
+        "share": 7.8
+      },
+      {
+        "noc": "131",
+        "title": "Administrative occupations",
+        "share": 7.9
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 11.4
+      }
+    ]
+  },
+  "19.09": {
+    "men": [],
+    "women": [
+      {
+        "noc": "64",
+        "title": "Sales and service representatives and other customer and personal services occupations",
+        "share": 19.2
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 27.4
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 22.9
+      }
+    ]
+  },
+  "19.10": {
+    "men": [],
+    "women": [
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 59.8
+      }
+    ]
+  },
+  "22.03": {
+    "men": [],
+    "women": [
+      {
+        "noc": "42200",
+        "title": "Paralegals and related occupations",
+        "share": 24.7
+      },
+      {
+        "noc": "13111",
+        "title": "Legal administrative assistants",
+        "share": 18.1
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 24.0
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 14.9
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 12.9
+      }
+    ]
+  },
+  "30.05": {
+    "men": [],
+    "women": [
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 15.5
+      },
+      {
+        "noc": "11",
+        "title": "Professional occupations in finance and business",
+        "share": 14.7
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 23.0
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 21.2
+      }
+    ]
+  },
+  "30.11": {
+    "men": [],
+    "women": [
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 32.1
+      },
+      {
+        "noc": "3",
+        "title": "Health occupations",
+        "share": 31.6
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 20.3
+      }
+    ]
+  },
+  "30.17": {
+    "men": [],
+    "women": [
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 20.2
+      },
+      {
+        "noc": "4130",
+        "title": "Social and community service professionals",
+        "share": 12.2
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 29.5
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 13.4
+      }
+    ]
+  },
+  "30.26": {
+    "men": [],
+    "women": [
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 36.6
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 29.1
+      }
+    ]
+  },
+  "30.33": {
+    "men": [],
+    "women": [
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 37.5
+      }
+    ]
+  },
+  "45.13": {
+    "men": [],
+    "women": [
+      {
+        "noc": "131",
+        "title": "Administrative occupations",
+        "share": 17.6
+      },
+      {
+        "noc": "41",
+        "title": "Professional occupations in law, education, social, community and government services",
+        "share": 20.2
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 35.4
+      }
+    ]
+  },
+  "45.99": {
+    "men": [],
+    "women": [
+      {
+        "noc": "42201",
+        "title": "Social and community service workers",
+        "share": 9.9
+      },
+      {
+        "noc": "41221",
+        "title": "Elementary school and kindergarten teachers",
+        "share": 5.1
+      },
+      {
+        "noc": "1311",
+        "title": "Office administrative assistants - general, legal and medical",
+        "share": 6.7
+      },
+      {
+        "noc": "1120",
+        "title": "Human resources and business service professionals",
+        "share": 6.6
+      },
+      {
+        "noc": "413",
+        "title": "Professional occupations in social and community services",
+        "share": 6.0
+      }
+    ]
+  },
+  "26.03": {
+    "men": [],
+    "women": [
+      {
+        "noc": "4220",
+        "title": "Paraprofessional occupations in legal, social, community and education services",
+        "share": 17.0
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 42.1
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 16.0
+      }
+    ]
+  },
+  "30.19": {
+    "men": [],
+    "women": [
+      {
+        "noc": "31121",
+        "title": "Dietitians and nutritionists",
+        "share": 25.9
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 19.6
+      },
+      {
+        "noc": "3",
+        "title": "Health occupations",
+        "share": 13.5
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 12.8
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 10.7
+      }
+    ]
+  },
+  "01.03": {
+    "men": [],
+    "women": [
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 33.1
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 25.7
+      }
+    ]
+  },
+  "01.09": {
+    "men": [],
+    "women": [
+      {
+        "noc": "32104",
+        "title": "Animal health technologists and veterinary technicians",
+        "share": 23.5
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 21.6
+      },
+      {
+        "noc": "2",
+        "title": "Natural and applied sciences and related occupations",
+        "share": 14.5
+      },
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 14.1
+      },
+      {
+        "noc": "8",
+        "title": "Natural resources, agriculture and related production occupations",
+        "share": 13.0
+      }
+    ]
+  },
+  "31.06": {
+    "men": [],
+    "women": [
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 52.6
+      }
+    ]
+  },
+  "51.02": {
+    "men": [],
+    "women": [
+      {
+        "noc": "32109",
+        "title": "Other technical occupations in therapy and assessment",
+        "share": 33.2
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 23.6
+      }
+    ]
+  },
+  "51.06": {
+    "men": [],
+    "women": [
+      {
+        "noc": "32111",
+        "title": "Dental hygienists and dental therapists",
+        "share": 78.6
+      }
+    ]
+  },
+  "51.27": {
+    "men": [],
+    "women": [
+      {
+        "noc": "1",
+        "title": "Business, finance and administration occupations",
+        "share": 45.3
+      }
+    ]
+  },
+  "51.31": {
+    "men": [],
+    "women": [
+      {
+        "noc": "31121",
+        "title": "Dietitians and nutritionists",
+        "share": 70.6
+      },
+      {
+        "noc": "652",
+        "title": "Support occupations in food, accommodation and tourism",
+        "share": 5.8
+      },
+      {
+        "noc": "6",
+        "title": "Sales and service occupations",
+        "share": 7.1
+      },
+      {
+        "noc": "4",
+        "title": "Occupations in education, law and social, community and government services",
+        "share": 5.7
+      }
+    ]
+  },
+  "51.32": {
+    "men": [],
+    "women": [
+      {
+        "noc": "4122",
+        "title": "Secondary, elementary and kindergarten school teachers",
+        "share": 37.2
+      }
+    ]
+  },
+  "51.34": {
+    "men": [],
+    "women": [
+      {
+        "noc": "31303",
+        "title": "Physician assistants, midwives and allied health professionals",
+        "share": 25.2
+      },
+      {
+        "noc": "3120",
+        "title": "Therapy and assessment professionals",
+        "share": 18.7
+      },
+      {
+        "noc": "3",
+        "title": "Health occupations",
+        "share": 18.7
+      }
+    ]
+  },
+  "51.35": {
+    "men": [],
+    "women": [
+      {
+        "noc": "3",
+        "title": "Health occupations",
+        "share": 78.6
+      }
     ]
   }
 }
