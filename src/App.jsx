@@ -9,8 +9,7 @@ export default function App() {
   const [data, setData] = useState({
     majors: null,
     occupations: null,
-    crosswalk: null,
-    provinces: null
+    crosswalk: null
   });
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -35,14 +34,10 @@ export default function App() {
       fetch('/data/crosswalk.json').then(r => {
         if (!r.ok) throw new Error(`HTTP ${r.status} crosswalk`);
         return r.json();
-      }),
-      fetch('/data/provinces.json').then(r => {
-        if (!r.ok) throw new Error(`HTTP ${r.status} provinces`);
-        return r.json();
       })
     ])
-      .then(([majors, occupations, crosswalk, provinces]) => {
-        setData({ majors, occupations, crosswalk, provinces });
+      .then(([majors, occupations, crosswalk]) => {
+        setData({ majors, occupations, crosswalk });
         setLoading(false);
       })
       .catch(err => {
@@ -265,7 +260,6 @@ export default function App() {
                   <OccupationDetail
                     selectedNoc={selectedNoc}
                     occupations={data.occupations}
-                    provinceData={data.provinces}
                     onViewMethodology={() => setActiveTab('methodology')}
                   />
                 </section>

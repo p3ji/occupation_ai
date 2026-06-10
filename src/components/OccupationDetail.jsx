@@ -1,8 +1,7 @@
 import React, { useMemo } from 'react';
-import CanadaMap from './CanadaMap';
 import { Cpu, TrendingUp, Users, DollarSign, BookOpen } from 'lucide-react';
 
-export default function OccupationDetail({ selectedNoc, occupations, provinceData, onViewMethodology }) {
+export default function OccupationDetail({ selectedNoc, occupations, onViewMethodology }) {
   
   // Find current active occupation details
   const activeOcc = useMemo(() => {
@@ -170,12 +169,6 @@ export default function OccupationDetail({ selectedNoc, occupations, provinceDat
         </div>
       </div>
 
-      {/* Provincial Map Embedding */}
-      <CanadaMap
-        selectedNoc={activeOcc.noc}
-        provinceData={provinceData}
-        occupations={occupations}
-      />
     </div>
   );
 }
