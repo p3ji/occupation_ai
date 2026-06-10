@@ -13,3 +13,8 @@ This data layer was generated programmatically from official Canadian statistics
 
 ## 3. AI Exposure
 - **Ratings & Rationale**: Aligned with the Statistics Canada 2024 paper *"Experimental Estimates of Potential Artificial Intelligence Occupational Exposure in Canada"* (Mehdi & Morissette), categorizing university-educated cognitive roles as highly exposed, and health care, trades, and manual services as low/moderate exposure.
+
+## 4. Provincial Labor Distribution
+- **Source**: Sourced from **Statistics Canada / 2025 Canada Job Bank Wage Reports** (for provincial salaries) and the **Labour Force Survey (LFS) / Census 2021** (for regional employment counts).
+- **Data File**: [provinces.json](file:///c:/Users/pushp/Documents/Projects/occupation_ai/public/data/provinces.json)
+- **Methodology**: Compiles provincial-level median wages for each of the major occupations from `wages2025.csv` (by filtering for province-level ER codes like `ER35` for Ontario, `ER24` for Quebec, etc.). Hourly wages are converted to annual salaries using the standard 2,080 hours/year multiplier. Employment numbers represent regional labor counts.
