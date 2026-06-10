@@ -22,6 +22,8 @@ export default function App() {
 
   // Tracks whether the latest NOC change was an explicit user selection (should scroll on mobile)
   const scrollPending = useRef(false);
+  // Tracks whether the latest CIP change was an explicit user major selection (should scroll on mobile)
+  const majorScrollPending = useRef(false);
 
   // Fetch Canadian databases on mount
   useEffect(() => {
@@ -67,6 +69,7 @@ export default function App() {
   }, [genderView, selectedCip, data.crosswalk]);
 
   const handleSelectMajor = (cip) => {
+    majorScrollPending.current = true;
     setSelectedCip(cip);
     const mapping = data.crosswalk?.[cip];
     if (mapping) {
@@ -79,6 +82,17 @@ export default function App() {
       }
     }
   };
+
+  // Scroll to Active Program Search banner AFTER React commits the new CIP state
+  useEffect(() => {
+    if (majorScrollPending.current) {
+      majorScrollPending.current = false;
+      const bannerEl = document.getElementById('active-program-banner');
+      if (bannerEl) {
+        bannerEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }
+  }, [selectedCip]);
 
   const handleSelectNoc = (noc) => {
     scrollPending.current = true;
@@ -217,7 +231,7 @@ export default function App() {
 
             {/* Selected Major Banner */}
             {activeMajorDetails && (
-              <div className="p-4 bg-surface/40 border border-border/80 rounded-xl flex flex-wrap items-center justify-between gap-4">
+              <div id="active-program-banner" className="p-4 bg-surface/40 border border-border/80 rounded-xl flex flex-wrap items-center justify-between gap-4 scroll-mt-20">
                 <div>
                   <span className="text-[9px] uppercase tracking-wider font-semibold text-zinc-500">
                     Active Program Search
