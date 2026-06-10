@@ -1,8 +1,7 @@
-import React, { useMemo, useRef, useEffect } from 'react';
+import React, { useMemo } from 'react';
 import { Cpu, TrendingUp, Users, DollarSign, BookOpen } from 'lucide-react';
 
 export default function OccupationDetail({ selectedNoc, occupations, onViewMethodology }) {
-  const containerRef = useRef(null);
 
   // Find current active occupation details
   const activeOcc = useMemo(() => {
@@ -47,7 +46,7 @@ export default function OccupationDetail({ selectedNoc, occupations, onViewMetho
   }
 
   return (
-    <div ref={containerRef} className="space-y-6 scroll-mt-20">
+    <div className="space-y-6">
       {/* Mobile back button (visible on mobile viewports only) */}
       <div className="block md:hidden">
         <button

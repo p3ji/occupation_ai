@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import MajorSelector from './components/MajorSelector';
 import OccupationTable from './components/OccupationTable';
 import OccupationDetail from './components/OccupationDetail';
@@ -19,6 +19,9 @@ export default function App() {
   const [selectedNoc, setSelectedNoc] = useState('21232');    // Default to Software Developers
   const [activeTab, setActiveTab] = useState('explorer');     // 'explorer' | 'calculator'
   const [genderView, setGenderView] = useState('men');        // Default to men ('men' | 'women')
+
+  // Tracks whether the latest NOC change was an explicit user selection (should scroll on mobile)
+  const scrollPending = useRef(false);
 
   // Fetch Canadian databases on mount
   useEffect(() => {
@@ -77,15 +80,23 @@ export default function App() {
     }
   };
 
-  const handleSelectNoc = (noc, shouldScroll = false) => {
+  const handleSelectNoc = (noc) => {
+    scrollPending.current = true;
     setSelectedNoc(noc);
-    if (shouldScroll && window.innerWidth < 1024) {
+  };
+
+  // Scroll AFTER React commits the new NOC state — only for explicit table row clicks
+  useEffect(() => {
+    if (scrollPending.current && window.innerWidth < 1024) {
+      scrollPending.current = false;
       const detailEl = document.getElementById('occupation-detail-section');
       if (detailEl) {
         detailEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
       }
+    } else {
+      scrollPending.current = false;
     }
-  };
+  }, [selectedNoc]);
 
 
   if (loading) {
