@@ -11,33 +11,7 @@ export default function OccupationTable({ selectedCip, crosswalk, occupations, s
     if (!mapping) return [];
 
     // Resolve list of NOCs and their shares based on genderView
-    let list = [];
-    if (genderView === 'men') {
-      list = mapping.men || [];
-    } else if (genderView === 'women') {
-      list = mapping.women || [];
-    } else {
-      // 'all' combined view: Union of men and women top 5, averaging shares if overlap
-      const combined = {};
-      (mapping.men || []).forEach(item => {
-        combined[item.noc] = { noc: item.noc, shares: [item.share] };
-      });
-      (mapping.women || []).forEach(item => {
-        if (!combined[item.noc]) {
-          combined[item.noc] = { noc: item.noc, shares: [item.share] };
-        } else {
-          combined[item.noc].shares.push(item.share);
-        }
-      });
-      
-      list = Object.values(combined).map(item => {
-        const avgShare = item.shares.reduce((a, b) => a + b, 0) / item.shares.length;
-        return {
-          noc: item.noc,
-          share: Math.round(avgShare * 100) / 100
-        };
-      });
-    }
+    const list = genderView === 'women' ? (mapping.women || []) : (mapping.men || []);
 
     // Map to full occupation data from occupations.json
     return list

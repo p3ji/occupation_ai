@@ -19,7 +19,7 @@ export default function App() {
   const [selectedCip, setSelectedCip] = useState('11.07'); // Default to Computer Science
   const [selectedNoc, setSelectedNoc] = useState('21232');    // Default to Software Developers
   const [activeTab, setActiveTab] = useState('explorer');     // 'explorer' | 'calculator'
-  const [genderView, setGenderView] = useState('all');        // 'all' | 'men' | 'women'
+  const [genderView, setGenderView] = useState('men');        // Default to men ('men' | 'women')
 
   // Fetch Canadian databases on mount
   useEffect(() => {
@@ -221,16 +221,6 @@ export default function App() {
                 {/* Gender View Selector */}
                 <div className="flex items-center gap-4 flex-wrap">
                   <div className="flex items-center gap-1.5 p-1 rounded-lg bg-zinc-950 border border-zinc-800 text-xs">
-                    <button
-                      onClick={() => setGenderView('all')}
-                      className={`px-3 py-1 rounded-md font-medium transition-all cursor-pointer ${
-                        genderView === 'all' 
-                          ? 'bg-primary text-white shadow-sm' 
-                          : 'text-zinc-400 hover:text-white'
-                      }`}
-                    >
-                      Overall View
-                    </button>
                     <button
                       onClick={() => setGenderView('men')}
                       className={`px-3 py-1 rounded-md font-medium transition-all cursor-pointer ${
