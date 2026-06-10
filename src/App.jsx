@@ -335,7 +335,7 @@ export default function App() {
             </span>
           </div>
           <p className="max-w-md mx-auto text-[10px] text-zinc-600 leading-relaxed">
-            Disclaimer: Salaries, openings, and employment numbers represent synthesized averages compiled from StatCan Census data and COPS. AI Exposure rankings are based on theoretical task susceptibility indexes (inspired by Karpathy AI exposure rankings).
+            Disclaimer: Salaries, openings, and employment numbers represent synthesized averages compiled from StatCan Census data and COPS. AI Exposure rankings are based on a custom model adapted from the concepts and task suitability frameworks introduced in the Statistics Canada 2024 paper (Mehdi & Morissette).
           </p>
           <div className="pt-2 text-[10px] text-zinc-700">
             &copy; {new Date().getFullYear()} Experimental Canadian AI Jobs Dashboard. Built for student career discovery.

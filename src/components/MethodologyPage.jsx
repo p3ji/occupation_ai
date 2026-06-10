@@ -81,14 +81,14 @@ export default function MethodologyPage() {
         <div className="bg-surface/25 p-5 rounded-xl border border-border space-y-3">
           <h3 className="text-sm font-semibold text-white flex items-center gap-2">
             <FileText size={16} className="text-accent" />
-            4. AI Disruption & Exposure
+            4. AI Disruption & Exposure (Custom Model)
           </h3>
           <div className="space-y-2 text-xs">
             <p>
-              <strong>Primary Source:</strong> Statistics Canada 2024 analytical paper: <span className="text-zinc-400 italic">"Experimental Estimates of Potential Artificial Intelligence Occupational Exposure in Canada"</span> (Mehdi and Morissette).
+              <strong>Conceptual Framework:</strong> Statistics Canada 2024 analytical paper: <span className="text-zinc-400 italic">"Experimental Estimates of Potential Artificial Intelligence Occupational Exposure in Canada"</span> (Mehdi and Morissette).
             </p>
             <p>
-              <strong>Methodology:</strong> Mapped based on task susceptibility profiles. University-educated cognitive roles (high logic, information parsing) map to higher AI exposure, whereas clinical health, trades, and manual/interpersonal services map to lower exposure.
+              <strong>Methodology:</strong> Rather than using the paper's exact classification statistics, we created a custom classification based on the task suitability concepts and cognitive-versus-manual framework introduced in that study. Cognitive and highly educated roles (TEER 0 & 1) with high routine informational processing map to higher exposure levels, whereas clinical health, trades, and manual services map to lower exposure.
             </p>
           </div>
         </div>
@@ -112,6 +112,9 @@ export default function MethodologyPage() {
           </li>
           <li>
             <strong className="text-zinc-300">Wages Multiplier:</strong> Annual salaries assume full-time, full-year employment (40 hours/week). They do not incorporate bonuses, stock options, overtime pay, or pension adjustments.
+          </li>
+          <li>
+            <strong className="text-zinc-300">Custom AI Disruption Model:</strong> The AI disruption labels and scores do not represent the exact empirical classification statistics published by Statistics Canada. Instead, they are generated using a custom index synthesized directly from the task susceptibility concepts and TEER frameworks introduced in that paper.
           </li>
           <li>
             <strong className="text-zinc-300">AI Exposure vs. Unemployment:</strong> A high AI exposure score represents task-level augmentation potential and does not necessarily equate to future job loss. Many roles will see productivity gains rather than replacement.
