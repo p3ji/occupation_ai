@@ -119,6 +119,9 @@ export default function MethodologyPage() {
           <li>
             <strong className="text-zinc-300">AI Exposure vs. Unemployment:</strong> A high AI exposure score represents task-level augmentation potential and does not necessarily equate to future job loss. Many roles will see productivity gains rather than replacement.
           </li>
+          <li>
+            <strong className="text-zinc-300">Gender Aggregation Scope:</strong> Gender views (Male vs. Female graduates) only filter the program-to-occupation census mappings (Census Share). Salaries, openings, growth rates, competition, and AI risk represent general, national-level occupational statistics and are not segregated by gender.
+          </li>
         </ul>
       </div>
 
@@ -143,9 +146,6 @@ export default function MethodologyPage() {
           <div className="text-zinc-500"># - public/data/crosswalk.json</div>
           <div className="text-zinc-500"># - public/data/occupations.json</div>
           <div>python scratch/generate_concordance_data.py</div>
-          <div className="text-zinc-500"># 5. Run the provincial salary update script</div>
-          <div className="text-zinc-500"># This merges provincial wages and outputs: public/data/provinces.json</div>
-          <div>python scratch/update_provincial_salaries.py</div>
         </div>
       </div>
     </div>

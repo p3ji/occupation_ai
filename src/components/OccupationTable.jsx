@@ -64,7 +64,7 @@ export default function OccupationTable({ selectedCip, crosswalk, occupations, s
             Prevalent Careers for Bachelor's Graduates ({allJobs.length})
           </h4>
           <p className="text-[10px] text-zinc-500 mt-0.5 font-medium">
-            Employment distributions represent outcomes for young bachelor's degree holders (aged 25 to 34).
+            Employment distributions represent outcomes for young bachelor's degree holders (aged 25 to 34). Gender selection affects Census Share only; salaries, openings, competition, and AI risk are general occupational metrics.
           </p>
         </div>
         <span className="text-[10px] text-zinc-500 italic hidden lg:block">

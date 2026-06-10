@@ -207,33 +207,38 @@ export default function App() {
                 </div>
 
                 {/* Gender View Selector */}
-                <div className="flex items-center gap-4 flex-wrap">
-                  <div className="flex items-center gap-1.5 p-1 rounded-lg bg-zinc-950 border border-zinc-800 text-xs">
-                    <button
-                      onClick={() => setGenderView('men')}
-                      className={`px-3 py-1 rounded-md font-medium transition-all cursor-pointer ${
-                        genderView === 'men' 
-                          ? 'bg-primary text-white shadow-sm' 
-                          : 'text-zinc-400 hover:text-white'
-                      }`}
-                    >
-                      Male Graduates
-                    </button>
-                    <button
-                      onClick={() => setGenderView('women')}
-                      className={`px-3 py-1 rounded-md font-medium transition-all cursor-pointer ${
-                        genderView === 'women' 
-                          ? 'bg-primary text-white shadow-sm' 
-                          : 'text-zinc-400 hover:text-white'
-                      }`}
-                    >
-                      Female Graduates
-                    </button>
-                  </div>
+                <div className="flex flex-col items-start md:items-end gap-1.5">
+                  <div className="flex items-center gap-4 flex-wrap">
+                    <div className="flex items-center gap-1.5 p-1 rounded-lg bg-zinc-950 border border-zinc-800 text-xs">
+                      <button
+                        onClick={() => setGenderView('men')}
+                        className={`px-3 py-1 rounded-md font-medium transition-all cursor-pointer ${
+                          genderView === 'men' 
+                            ? 'bg-primary text-white shadow-sm' 
+                            : 'text-zinc-400 hover:text-white'
+                        }`}
+                      >
+                        Male Graduates
+                      </button>
+                      <button
+                        onClick={() => setGenderView('women')}
+                        className={`px-3 py-1 rounded-md font-medium transition-all cursor-pointer ${
+                          genderView === 'women' 
+                            ? 'bg-primary text-white shadow-sm' 
+                            : 'text-zinc-400 hover:text-white'
+                        }`}
+                      >
+                        Female Graduates
+                      </button>
+                    </div>
 
-                  <div className="px-3 py-1.5 rounded bg-zinc-900 border border-zinc-800 text-[10px] text-zinc-400 font-medium shrink-0">
-                    Category: <span className="text-white font-bold">{activeMajorDetails.category}</span>
+                    <div className="px-3 py-1.5 rounded bg-zinc-900 border border-zinc-800 text-[10px] text-zinc-400 font-medium shrink-0">
+                      Category: <span className="text-white font-bold">{activeMajorDetails.category}</span>
+                    </div>
                   </div>
+                  <span className="text-[9px] text-zinc-500 font-medium">
+                    * Gender selection filters the Census Share. Salaries, openings, competition, and AI risk are general occupational averages.
+                  </span>
                 </div>
               </div>
             )}
