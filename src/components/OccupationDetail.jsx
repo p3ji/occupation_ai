@@ -10,16 +10,6 @@ export default function OccupationDetail({ selectedNoc, occupations, onViewMetho
     return occupations.find(o => o.noc === selectedNoc);
   }, [selectedNoc, occupations]);
 
-  // Smooth auto-scroll on mobile when occupation changes
-  useEffect(() => {
-    if (activeOcc && window.innerWidth < 1024) {
-      const timer = setTimeout(() => {
-        containerRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      }, 100);
-      return () => clearTimeout(timer);
-    }
-  }, [selectedNoc, activeOcc]);
-
   const handleBackToTable = () => {
     const tableEl = document.getElementById('careers-table-section');
     if (tableEl) {

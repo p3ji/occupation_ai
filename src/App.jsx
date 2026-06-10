@@ -77,6 +77,16 @@ export default function App() {
     }
   };
 
+  const handleSelectNoc = (noc, shouldScroll = false) => {
+    setSelectedNoc(noc);
+    if (shouldScroll && window.innerWidth < 1024) {
+      const detailEl = document.getElementById('occupation-detail-section');
+      if (detailEl) {
+        detailEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }
+  };
+
 
   if (loading) {
     return (
@@ -253,14 +263,14 @@ export default function App() {
                     crosswalk={data.crosswalk}
                     occupations={data.occupations}
                     selectedNoc={selectedNoc}
-                    onSelectNoc={setSelectedNoc}
+                    onSelectNoc={(noc) => handleSelectNoc(noc, true)}
                     genderView={genderView}
                   />
                 </section>
               </div>
 
               {/* Career Details Panel - Right Column */}
-              <div className="lg:col-span-5 space-y-4">
+              <div id="occupation-detail-section" className="lg:col-span-5 space-y-4">
                 <section className="bg-surface/30 p-5 rounded-xl border border-border">
                   <OccupationDetail
                     selectedNoc={selectedNoc}
