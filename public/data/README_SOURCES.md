@@ -4,7 +4,7 @@ This data layer was generated programmatically from official Canadian statistics
 
 ## 1. Field of Study and Careers Concordance
 - **Source**: Statistics Canada Study: *"Most prevalent occupations held among bachelor's degree graduates by detailed field of study, 2021, 25- to 34-year-olds"* (Appendix Tables A.1 & A.2).
-- **Data File**: [noc_cip.ods](file:///c:/Users/pushp/Documents/Projects/occupation_ai/public/data/noc_cip.ods)
+- **Data Files**: [noc_cip_men_bach.ods](file:///c:/Users/pushp/Documents/Projects/occupation_ai/public/data/noc_cip_men_bach.ods) (men) and [noc_cip_women_bach.ods](file:///c:/Users/pushp/Documents/Projects/occupation_ai/public/data/noc_cip_women_bach.ods) (women)
 - **Methodology**: Uses the 2021 Census of Population long-form dataset to match 4-digit CIP fields of study with the 5 most prevalent 5-digit NOC occupations by gender. Suppressed cells (for confidentiality) are ignored.
 
 ## 2. Salary & Labour Outlooks

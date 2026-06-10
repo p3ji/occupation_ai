@@ -31,7 +31,7 @@ export default function MethodologyPage() {
               <strong>Primary Source:</strong> Statistics Canada Census Study: <span className="text-zinc-400 italic">"Most prevalent occupations held among bachelor's degree graduates by detailed field of study, 2021, 25- to 34-year-olds"</span> (Appendix Tables A.1 and A.2).
             </p>
             <p>
-              <strong>Data File:</strong> <code className="bg-zinc-950 px-1 py-0.5 rounded text-accent font-mono text-[10px]">public/data/noc_cip.ods</code>
+              <strong>Data Files:</strong> <code className="bg-zinc-950 px-1 py-0.5 rounded text-accent font-mono text-[10px]">public/data/noc_cip_men_bach.ods</code> (Men) and <code className="bg-zinc-950 px-1 py-0.5 rounded text-accent font-mono text-[10px]">public/data/noc_cip_women_bach.ods</code> (Women)
             </p>
             <p>
               <strong>Methodology:</strong> Mapped using the 2021 Census of Population long-form dataset. It matches 4-digit Classification of Instructional Programs (CIP) codes with the top 5 most prevalent 5-digit National Occupational Classification (NOC) codes, separated by gender.
@@ -135,7 +135,7 @@ export default function MethodologyPage() {
           <div className="text-zinc-500"># 1. Clone the repository and install dependencies</div>
           <div>git clone https://github.com/p3ji/occupation_ai.git</div>
           <div>cd occupation_ai</div>
-          <div className="text-zinc-500"># 2. Place the ODS Concordance sheet in public/data/noc_cip.ods</div>
+          <div className="text-zinc-500"># 2. Place the ODS Concordance sheets in public/data/noc_cip_men_bach.ods and public/data/noc_cip_women_bach.ods</div>
           <div className="text-zinc-500"># 3. Place the 2025 Job Bank wages dataset in scratch/wages2025.csv</div>
           <div className="text-zinc-500"># 4. Run the data generation script</div>
           <div className="text-zinc-500"># This script parses the ODS cells, merges the 2025 wages, and outputs:</div>
