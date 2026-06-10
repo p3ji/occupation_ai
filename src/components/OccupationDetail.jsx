@@ -2,7 +2,7 @@ import React, { useMemo } from 'react';
 import CanadaMap from './CanadaMap';
 import { Cpu, TrendingUp, Users, DollarSign, BookOpen } from 'lucide-react';
 
-export default function OccupationDetail({ selectedNoc, occupations, provinceData }) {
+export default function OccupationDetail({ selectedNoc, occupations, provinceData, onViewMethodology }) {
   
   // Find current active occupation details
   const activeOcc = useMemo(() => {
@@ -47,9 +47,16 @@ export default function OccupationDetail({ selectedNoc, occupations, provinceDat
           <span className="px-2 py-0.5 rounded font-mono text-[10px] bg-zinc-800 text-zinc-300 border border-zinc-700/40">
             NOC {activeOcc.noc}
           </span>
-          <span className="text-[10px] text-zinc-500">
+          <span className="text-[10px] text-zinc-500 font-medium">
             National Occupational Classification
           </span>
+          <span className="text-zinc-700">•</span>
+          <button 
+            onClick={onViewMethodology}
+            className="text-[10px] text-primary-bright hover:underline cursor-pointer bg-transparent border-none p-0 inline-flex items-center"
+          >
+            Sourcing & Methodology
+          </button>
         </div>
         <h3 className="text-xl font-bold text-white mt-1 leading-snug">
           {activeOcc.title}

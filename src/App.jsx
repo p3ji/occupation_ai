@@ -3,7 +3,8 @@ import MajorSelector from './components/MajorSelector';
 import OccupationTable from './components/OccupationTable';
 import OccupationDetail from './components/OccupationDetail';
 import SalaryCalculator from './components/SalaryCalculator';
-import { Compass, Calculator, GraduationCap, Github, Briefcase, Award } from 'lucide-react';
+import MethodologyPage from './components/MethodologyPage';
+import { Compass, Calculator, GraduationCap, Github, Briefcase, Award, BookOpen } from 'lucide-react';
 
 export default function App() {
   const [data, setData] = useState({
@@ -130,7 +131,7 @@ export default function App() {
             <div>
               <div className="flex items-center gap-1.5">
                 <h1 className="text-base font-bold tracking-tight text-white sm:text-lg">
-                  Canadian Field Report
+                  Experimental Canadian AI Jobs Dashboard
                 </h1>
                 <span className="px-1.5 py-0.5 rounded bg-accent/15 text-accent text-[9px] font-semibold border border-accent/20">
                   NOC/CIP 2021
@@ -181,12 +182,23 @@ export default function App() {
             <Calculator size={14} />
             Salary Reverse Calculator
           </button>
+          <button
+            onClick={() => setActiveTab('methodology')}
+            className={`py-3 text-xs font-semibold flex items-center gap-2 border-b-2 transition-all cursor-pointer ${
+              activeTab === 'methodology'
+                ? 'border-primary text-primary-bright'
+                : 'border-transparent text-zinc-400 hover:text-zinc-200'
+            }`}
+          >
+            <BookOpen size={14} />
+            Data & Methodology
+          </button>
         </div>
       </div>
 
       {/* Main Container */}
       <main className="flex-1 max-w-7xl w-full mx-auto px-4 py-6">
-        {activeTab === 'explorer' ? (
+        {activeTab === 'explorer' && (
           <div className="space-y-6">
             {/* College Majors Row */}
             <section className="bg-surface/30 p-5 rounded-xl border border-border">
@@ -273,12 +285,15 @@ export default function App() {
                     selectedNoc={selectedNoc}
                     occupations={data.occupations}
                     provinceData={data.provinces}
+                    onViewMethodology={() => setActiveTab('methodology')}
                   />
                 </section>
               </div>
             </div>
           </div>
-        ) : (
+        )}
+
+        {activeTab === 'calculator' && (
           <div className="max-w-4xl mx-auto">
             <section className="bg-surface/30 p-6 rounded-xl border border-border">
               <div className="mb-4">
@@ -298,6 +313,10 @@ export default function App() {
               />
             </section>
           </div>
+        )}
+
+        {activeTab === 'methodology' && (
+          <MethodologyPage />
         )}
       </main>
 
@@ -319,7 +338,7 @@ export default function App() {
             Disclaimer: Salaries, openings, and employment numbers represent synthesized averages compiled from StatCan Census data and COPS. AI Exposure rankings are based on theoretical task susceptibility indexes (inspired by Karpathy AI exposure rankings).
           </p>
           <div className="pt-2 text-[10px] text-zinc-700">
-            &copy; {new Date().getFullYear()} Canadian Field Report. Built for student career discovery.
+            &copy; {new Date().getFullYear()} Experimental Canadian AI Jobs Dashboard. Built for student career discovery.
           </div>
         </div>
       </footer>
