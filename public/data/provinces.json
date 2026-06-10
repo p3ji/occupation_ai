@@ -1,0 +1,1211 @@
+{
+  "ON": {
+    "name": "Ontario",
+    "occupations": {
+      "21232": {
+        "employment": 61620,
+        "medianSalary": 102900
+      },
+      "21234": {
+        "employment": 18720,
+        "medianSalary": 81900
+      },
+      "21211": {
+        "employment": 12480,
+        "medianSalary": 110250
+      },
+      "20012": {
+        "employment": 28860,
+        "medianSalary": 144900
+      },
+      "11100": {
+        "employment": 51480,
+        "medianSalary": 86100
+      },
+      "11101": {
+        "employment": 17940,
+        "medianSalary": 93450
+      },
+      "10010": {
+        "employment": 24180,
+        "medianSalary": 134400
+      },
+      "11202": {
+        "employment": 34320,
+        "medianSalary": 75600
+      },
+      "12101": {
+        "employment": 26520,
+        "medianSalary": 79800
+      },
+      "31301": {
+        "employment": 120900,
+        "medianSalary": 96600
+      },
+      "31102": {
+        "employment": 18720,
+        "medianSalary": 255000
+      },
+      "21310": {
+        "employment": 16380,
+        "medianSalary": 98700
+      },
+      "21301": {
+        "employment": 20280,
+        "medianSalary": 92400
+      },
+      "21300": {
+        "employment": 22620,
+        "medianSalary": 94500
+      },
+      "31200": {
+        "employment": 9360,
+        "medianSalary": 100800
+      },
+      "41300": {
+        "employment": 24960,
+        "medianSalary": 78750
+      },
+      "52120": {
+        "employment": 14820,
+        "medianSalary": 65100
+      },
+      "41220": {
+        "employment": 44850,
+        "medianSalary": 92400
+      },
+      "41221": {
+        "employment": 72150,
+        "medianSalary": 88200
+      },
+      "41101": {
+        "employment": 17940,
+        "medianSalary": 131250
+      },
+      "41400": {
+        "employment": 10920,
+        "medianSalary": 90300
+      },
+      "21110": {
+        "employment": 7020,
+        "medianSalary": 86100
+      }
+    }
+  },
+  "QC": {
+    "name": "Quebec",
+    "occupations": {
+      "21232": {
+        "employment": 36340,
+        "medianSalary": 92120
+      },
+      "21234": {
+        "employment": 11040,
+        "medianSalary": 73320
+      },
+      "21211": {
+        "employment": 7360,
+        "medianSalary": 98700
+      },
+      "20012": {
+        "employment": 17020,
+        "medianSalary": 129719
+      },
+      "11100": {
+        "employment": 30360,
+        "medianSalary": 77080
+      },
+      "11101": {
+        "employment": 10580,
+        "medianSalary": 83660
+      },
+      "10010": {
+        "employment": 14260,
+        "medianSalary": 120320
+      },
+      "11202": {
+        "employment": 20240,
+        "medianSalary": 67680
+      },
+      "12101": {
+        "employment": 15640,
+        "medianSalary": 71440
+      },
+      "31301": {
+        "employment": 71300,
+        "medianSalary": 86480
+      },
+      "31102": {
+        "employment": 11040,
+        "medianSalary": 244000
+      },
+      "21310": {
+        "employment": 9660,
+        "medianSalary": 88360
+      },
+      "21301": {
+        "employment": 11960,
+        "medianSalary": 82720
+      },
+      "21300": {
+        "employment": 13340,
+        "medianSalary": 84600
+      },
+      "31200": {
+        "employment": 5520,
+        "medianSalary": 90240
+      },
+      "41300": {
+        "employment": 14720,
+        "medianSalary": 70500
+      },
+      "52120": {
+        "employment": 8740,
+        "medianSalary": 58280
+      },
+      "41220": {
+        "employment": 26450,
+        "medianSalary": 82720
+      },
+      "41221": {
+        "employment": 42550,
+        "medianSalary": 78960
+      },
+      "41101": {
+        "employment": 10580,
+        "medianSalary": 117500
+      },
+      "41400": {
+        "employment": 6440,
+        "medianSalary": 80840
+      },
+      "21110": {
+        "employment": 4140,
+        "medianSalary": 77080
+      }
+    }
+  },
+  "BC": {
+    "name": "British Columbia",
+    "occupations": {
+      "21232": {
+        "employment": 22120,
+        "medianSalary": 99960
+      },
+      "21234": {
+        "employment": 6720,
+        "medianSalary": 79560
+      },
+      "21211": {
+        "employment": 4480,
+        "medianSalary": 107100
+      },
+      "20012": {
+        "employment": 10360,
+        "medianSalary": 140760
+      },
+      "11100": {
+        "employment": 18480,
+        "medianSalary": 83640
+      },
+      "11101": {
+        "employment": 6440,
+        "medianSalary": 90780
+      },
+      "10010": {
+        "employment": 8680,
+        "medianSalary": 130560
+      },
+      "11202": {
+        "employment": 12320,
+        "medianSalary": 73440
+      },
+      "12101": {
+        "employment": 9520,
+        "medianSalary": 77520
+      },
+      "31301": {
+        "employment": 43400,
+        "medianSalary": 93840
+      },
+      "31102": {
+        "employment": 6720,
+        "medianSalary": 252000
+      },
+      "21310": {
+        "employment": 5880,
+        "medianSalary": 95880
+      },
+      "21301": {
+        "employment": 7280,
+        "medianSalary": 89760
+      },
+      "21300": {
+        "employment": 8120,
+        "medianSalary": 91800
+      },
+      "31200": {
+        "employment": 3360,
+        "medianSalary": 97920
+      },
+      "41300": {
+        "employment": 8960,
+        "medianSalary": 76500
+      },
+      "52120": {
+        "employment": 5320,
+        "medianSalary": 63240
+      },
+      "41220": {
+        "employment": 16100,
+        "medianSalary": 89760
+      },
+      "41221": {
+        "employment": 25900,
+        "medianSalary": 85680
+      },
+      "41101": {
+        "employment": 6440,
+        "medianSalary": 127500
+      },
+      "41400": {
+        "employment": 3920,
+        "medianSalary": 87720
+      },
+      "21110": {
+        "employment": 2520,
+        "medianSalary": 83640
+      }
+    }
+  },
+  "AB": {
+    "name": "Alberta",
+    "occupations": {
+      "21232": {
+        "employment": 18960,
+        "medianSalary": 105840
+      },
+      "21234": {
+        "employment": 5760,
+        "medianSalary": 84240
+      },
+      "21211": {
+        "employment": 3840,
+        "medianSalary": 113400
+      },
+      "20012": {
+        "employment": 8880,
+        "medianSalary": 149040
+      },
+      "11100": {
+        "employment": 15840,
+        "medianSalary": 88560
+      },
+      "11101": {
+        "employment": 5520,
+        "medianSalary": 96120
+      },
+      "10010": {
+        "employment": 7440,
+        "medianSalary": 138240
+      },
+      "11202": {
+        "employment": 10560,
+        "medianSalary": 77760
+      },
+      "12101": {
+        "employment": 8160,
+        "medianSalary": 82080
+      },
+      "31301": {
+        "employment": 37200,
+        "medianSalary": 99360
+      },
+      "31102": {
+        "employment": 5760,
+        "medianSalary": 258000
+      },
+      "21310": {
+        "employment": 5040,
+        "medianSalary": 101520
+      },
+      "21301": {
+        "employment": 6240,
+        "medianSalary": 95040
+      },
+      "21300": {
+        "employment": 6960,
+        "medianSalary": 97200
+      },
+      "31200": {
+        "employment": 2880,
+        "medianSalary": 103680
+      },
+      "41300": {
+        "employment": 7680,
+        "medianSalary": 81000
+      },
+      "52120": {
+        "employment": 4560,
+        "medianSalary": 66960
+      },
+      "41220": {
+        "employment": 13800,
+        "medianSalary": 95040
+      },
+      "41221": {
+        "employment": 22200,
+        "medianSalary": 90720
+      },
+      "41101": {
+        "employment": 5520,
+        "medianSalary": 135000
+      },
+      "41400": {
+        "employment": 3360,
+        "medianSalary": 92880
+      },
+      "21110": {
+        "employment": 2160,
+        "medianSalary": 88560
+      }
+    }
+  },
+  "MB": {
+    "name": "Manitoba",
+    "occupations": {
+      "21232": {
+        "employment": 5530,
+        "medianSalary": 86240
+      },
+      "21234": {
+        "employment": 1680,
+        "medianSalary": 68640
+      },
+      "21211": {
+        "employment": 1120,
+        "medianSalary": 92400
+      },
+      "20012": {
+        "employment": 2590,
+        "medianSalary": 121440
+      },
+      "11100": {
+        "employment": 4620,
+        "medianSalary": 72160
+      },
+      "11101": {
+        "employment": 1610,
+        "medianSalary": 78320
+      },
+      "10010": {
+        "employment": 2170,
+        "medianSalary": 112640
+      },
+      "11202": {
+        "employment": 3080,
+        "medianSalary": 63360
+      },
+      "12101": {
+        "employment": 2380,
+        "medianSalary": 66880
+      },
+      "31301": {
+        "employment": 10850,
+        "medianSalary": 80960
+      },
+      "31102": {
+        "employment": 1680,
+        "medianSalary": 238000
+      },
+      "21310": {
+        "employment": 1470,
+        "medianSalary": 82720
+      },
+      "21301": {
+        "employment": 1820,
+        "medianSalary": 77440
+      },
+      "21300": {
+        "employment": 2030,
+        "medianSalary": 79200
+      },
+      "31200": {
+        "employment": 840,
+        "medianSalary": 84480
+      },
+      "41300": {
+        "employment": 2240,
+        "medianSalary": 66000
+      },
+      "52120": {
+        "employment": 1330,
+        "medianSalary": 54560
+      },
+      "41220": {
+        "employment": 4025,
+        "medianSalary": 77440
+      },
+      "41221": {
+        "employment": 6475,
+        "medianSalary": 73920
+      },
+      "41101": {
+        "employment": 1610,
+        "medianSalary": 110000
+      },
+      "41400": {
+        "employment": 980,
+        "medianSalary": 75680
+      },
+      "21110": {
+        "employment": 630,
+        "medianSalary": 72160
+      }
+    }
+  },
+  "SK": {
+    "name": "Saskatchewan",
+    "occupations": {
+      "21232": {
+        "employment": 4740,
+        "medianSalary": 88200
+      },
+      "21234": {
+        "employment": 1440,
+        "medianSalary": 70200
+      },
+      "21211": {
+        "employment": 960,
+        "medianSalary": 94500
+      },
+      "20012": {
+        "employment": 2220,
+        "medianSalary": 124200
+      },
+      "11100": {
+        "employment": 3960,
+        "medianSalary": 73800
+      },
+      "11101": {
+        "employment": 1380,
+        "medianSalary": 80100
+      },
+      "10010": {
+        "employment": 1860,
+        "medianSalary": 115200
+      },
+      "11202": {
+        "employment": 2640,
+        "medianSalary": 64800
+      },
+      "12101": {
+        "employment": 2040,
+        "medianSalary": 68400
+      },
+      "31301": {
+        "employment": 9300,
+        "medianSalary": 82800
+      },
+      "31102": {
+        "employment": 1440,
+        "medianSalary": 240000
+      },
+      "21310": {
+        "employment": 1260,
+        "medianSalary": 84600
+      },
+      "21301": {
+        "employment": 1560,
+        "medianSalary": 79200
+      },
+      "21300": {
+        "employment": 1740,
+        "medianSalary": 81000
+      },
+      "31200": {
+        "employment": 720,
+        "medianSalary": 86400
+      },
+      "41300": {
+        "employment": 1920,
+        "medianSalary": 67500
+      },
+      "52120": {
+        "employment": 1140,
+        "medianSalary": 55800
+      },
+      "41220": {
+        "employment": 3450,
+        "medianSalary": 79200
+      },
+      "41221": {
+        "employment": 5550,
+        "medianSalary": 75600
+      },
+      "41101": {
+        "employment": 1380,
+        "medianSalary": 112500
+      },
+      "41400": {
+        "employment": 840,
+        "medianSalary": 77400
+      },
+      "21110": {
+        "employment": 540,
+        "medianSalary": 73800
+      }
+    }
+  },
+  "NS": {
+    "name": "Nova Scotia",
+    "occupations": {
+      "21232": {
+        "employment": 3950,
+        "medianSalary": 83300
+      },
+      "21234": {
+        "employment": 1200,
+        "medianSalary": 66300
+      },
+      "21211": {
+        "employment": 800,
+        "medianSalary": 89250
+      },
+      "20012": {
+        "employment": 1850,
+        "medianSalary": 117300
+      },
+      "11100": {
+        "employment": 3300,
+        "medianSalary": 69700
+      },
+      "11101": {
+        "employment": 1150,
+        "medianSalary": 75650
+      },
+      "10010": {
+        "employment": 1550,
+        "medianSalary": 108800
+      },
+      "11202": {
+        "employment": 2200,
+        "medianSalary": 61200
+      },
+      "12101": {
+        "employment": 1700,
+        "medianSalary": 64600
+      },
+      "31301": {
+        "employment": 7750,
+        "medianSalary": 78200
+      },
+      "31102": {
+        "employment": 1200,
+        "medianSalary": 235000
+      },
+      "21310": {
+        "employment": 1050,
+        "medianSalary": 79900
+      },
+      "21301": {
+        "employment": 1300,
+        "medianSalary": 74800
+      },
+      "21300": {
+        "employment": 1450,
+        "medianSalary": 76500
+      },
+      "31200": {
+        "employment": 600,
+        "medianSalary": 81600
+      },
+      "41300": {
+        "employment": 1600,
+        "medianSalary": 63750
+      },
+      "52120": {
+        "employment": 950,
+        "medianSalary": 52700
+      },
+      "41220": {
+        "employment": 2875,
+        "medianSalary": 74800
+      },
+      "41221": {
+        "employment": 4625,
+        "medianSalary": 71400
+      },
+      "41101": {
+        "employment": 1150,
+        "medianSalary": 106250
+      },
+      "41400": {
+        "employment": 700,
+        "medianSalary": 73100
+      },
+      "21110": {
+        "employment": 450,
+        "medianSalary": 69700
+      }
+    }
+  },
+  "NB": {
+    "name": "New Brunswick",
+    "occupations": {
+      "21232": {
+        "employment": 3160,
+        "medianSalary": 81340
+      },
+      "21234": {
+        "employment": 960,
+        "medianSalary": 64740
+      },
+      "21211": {
+        "employment": 640,
+        "medianSalary": 87150
+      },
+      "20012": {
+        "employment": 1480,
+        "medianSalary": 114540
+      },
+      "11100": {
+        "employment": 2640,
+        "medianSalary": 68060
+      },
+      "11101": {
+        "employment": 920,
+        "medianSalary": 73870
+      },
+      "10010": {
+        "employment": 1240,
+        "medianSalary": 106240
+      },
+      "11202": {
+        "employment": 1760,
+        "medianSalary": 59760
+      },
+      "12101": {
+        "employment": 1360,
+        "medianSalary": 63080
+      },
+      "31301": {
+        "employment": 6200,
+        "medianSalary": 76360
+      },
+      "31102": {
+        "employment": 960,
+        "medianSalary": 232999
+      },
+      "21310": {
+        "employment": 840,
+        "medianSalary": 78020
+      },
+      "21301": {
+        "employment": 1040,
+        "medianSalary": 73040
+      },
+      "21300": {
+        "employment": 1160,
+        "medianSalary": 74700
+      },
+      "31200": {
+        "employment": 480,
+        "medianSalary": 79680
+      },
+      "41300": {
+        "employment": 1280,
+        "medianSalary": 62250
+      },
+      "52120": {
+        "employment": 760,
+        "medianSalary": 51460
+      },
+      "41220": {
+        "employment": 2300,
+        "medianSalary": 73040
+      },
+      "41221": {
+        "employment": 3700,
+        "medianSalary": 69720
+      },
+      "41101": {
+        "employment": 920,
+        "medianSalary": 103750
+      },
+      "41400": {
+        "employment": 560,
+        "medianSalary": 71380
+      },
+      "21110": {
+        "employment": 360,
+        "medianSalary": 68060
+      }
+    }
+  },
+  "NL": {
+    "name": "Newfoundland and Labrador",
+    "occupations": {
+      "21232": {
+        "employment": 1896,
+        "medianSalary": 84280
+      },
+      "21234": {
+        "employment": 576,
+        "medianSalary": 67080
+      },
+      "21211": {
+        "employment": 384,
+        "medianSalary": 90300
+      },
+      "20012": {
+        "employment": 888,
+        "medianSalary": 118680
+      },
+      "11100": {
+        "employment": 1584,
+        "medianSalary": 70520
+      },
+      "11101": {
+        "employment": 552,
+        "medianSalary": 76540
+      },
+      "10010": {
+        "employment": 744,
+        "medianSalary": 110080
+      },
+      "11202": {
+        "employment": 1056,
+        "medianSalary": 61920
+      },
+      "12101": {
+        "employment": 816,
+        "medianSalary": 65360
+      },
+      "31301": {
+        "employment": 3720,
+        "medianSalary": 79120
+      },
+      "31102": {
+        "employment": 576,
+        "medianSalary": 236000
+      },
+      "21310": {
+        "employment": 504,
+        "medianSalary": 80840
+      },
+      "21301": {
+        "employment": 624,
+        "medianSalary": 75680
+      },
+      "21300": {
+        "employment": 696,
+        "medianSalary": 77400
+      },
+      "31200": {
+        "employment": 288,
+        "medianSalary": 82560
+      },
+      "41300": {
+        "employment": 768,
+        "medianSalary": 64500
+      },
+      "52120": {
+        "employment": 456,
+        "medianSalary": 53320
+      },
+      "41220": {
+        "employment": 1380,
+        "medianSalary": 75680
+      },
+      "41221": {
+        "employment": 2220,
+        "medianSalary": 72240
+      },
+      "41101": {
+        "employment": 552,
+        "medianSalary": 107500
+      },
+      "41400": {
+        "employment": 336,
+        "medianSalary": 73960
+      },
+      "21110": {
+        "employment": 216,
+        "medianSalary": 70520
+      }
+    }
+  },
+  "PE": {
+    "name": "Prince Edward Island",
+    "occupations": {
+      "21232": {
+        "employment": 790,
+        "medianSalary": 78400
+      },
+      "21234": {
+        "employment": 240,
+        "medianSalary": 62400
+      },
+      "21211": {
+        "employment": 160,
+        "medianSalary": 84000
+      },
+      "20012": {
+        "employment": 370,
+        "medianSalary": 110400
+      },
+      "11100": {
+        "employment": 660,
+        "medianSalary": 65600
+      },
+      "11101": {
+        "employment": 230,
+        "medianSalary": 71200
+      },
+      "10010": {
+        "employment": 310,
+        "medianSalary": 102400
+      },
+      "11202": {
+        "employment": 440,
+        "medianSalary": 57600
+      },
+      "12101": {
+        "employment": 340,
+        "medianSalary": 60800
+      },
+      "31301": {
+        "employment": 1550,
+        "medianSalary": 73600
+      },
+      "31102": {
+        "employment": 240,
+        "medianSalary": 230000
+      },
+      "21310": {
+        "employment": 210,
+        "medianSalary": 75200
+      },
+      "21301": {
+        "employment": 260,
+        "medianSalary": 70400
+      },
+      "21300": {
+        "employment": 290,
+        "medianSalary": 72000
+      },
+      "31200": {
+        "employment": 120,
+        "medianSalary": 76800
+      },
+      "41300": {
+        "employment": 320,
+        "medianSalary": 60000
+      },
+      "52120": {
+        "employment": 190,
+        "medianSalary": 49600
+      },
+      "41220": {
+        "employment": 575,
+        "medianSalary": 70400
+      },
+      "41221": {
+        "employment": 925,
+        "medianSalary": 67200
+      },
+      "41101": {
+        "employment": 230,
+        "medianSalary": 100000
+      },
+      "41400": {
+        "employment": 140,
+        "medianSalary": 68800
+      },
+      "21110": {
+        "employment": 90,
+        "medianSalary": 65600
+      }
+    }
+  },
+  "YT": {
+    "name": "Yukon",
+    "occupations": {
+      "21232": {
+        "employment": 158,
+        "medianSalary": 109760
+      },
+      "21234": {
+        "employment": 48,
+        "medianSalary": 87360
+      },
+      "21211": {
+        "employment": 32,
+        "medianSalary": 117600
+      },
+      "20012": {
+        "employment": 74,
+        "medianSalary": 154560
+      },
+      "11100": {
+        "employment": 132,
+        "medianSalary": 91840
+      },
+      "11101": {
+        "employment": 46,
+        "medianSalary": 99680
+      },
+      "10010": {
+        "employment": 62,
+        "medianSalary": 143360
+      },
+      "11202": {
+        "employment": 88,
+        "medianSalary": 80640
+      },
+      "12101": {
+        "employment": 68,
+        "medianSalary": 85120
+      },
+      "31301": {
+        "employment": 310,
+        "medianSalary": 103040
+      },
+      "31102": {
+        "employment": 48,
+        "medianSalary": 262000
+      },
+      "21310": {
+        "employment": 42,
+        "medianSalary": 105280
+      },
+      "21301": {
+        "employment": 52,
+        "medianSalary": 98560
+      },
+      "21300": {
+        "employment": 58,
+        "medianSalary": 100800
+      },
+      "31200": {
+        "employment": 24,
+        "medianSalary": 107520
+      },
+      "41300": {
+        "employment": 64,
+        "medianSalary": 84000
+      },
+      "52120": {
+        "employment": 38,
+        "medianSalary": 69440
+      },
+      "41220": {
+        "employment": 115,
+        "medianSalary": 98560
+      },
+      "41221": {
+        "employment": 185,
+        "medianSalary": 94080
+      },
+      "41101": {
+        "employment": 46,
+        "medianSalary": 140000
+      },
+      "41400": {
+        "employment": 28,
+        "medianSalary": 96320
+      },
+      "21110": {
+        "employment": 18,
+        "medianSalary": 91840
+      }
+    }
+  },
+  "NT": {
+    "name": "Northwest Territories",
+    "occupations": {
+      "21232": {
+        "employment": 158,
+        "medianSalary": 112699
+      },
+      "21234": {
+        "employment": 48,
+        "medianSalary": 89700
+      },
+      "21211": {
+        "employment": 32,
+        "medianSalary": 120749
+      },
+      "20012": {
+        "employment": 74,
+        "medianSalary": 158700
+      },
+      "11100": {
+        "employment": 132,
+        "medianSalary": 94299
+      },
+      "11101": {
+        "employment": 46,
+        "medianSalary": 102349
+      },
+      "10010": {
+        "employment": 62,
+        "medianSalary": 147200
+      },
+      "11202": {
+        "employment": 88,
+        "medianSalary": 82800
+      },
+      "12101": {
+        "employment": 68,
+        "medianSalary": 87400
+      },
+      "31301": {
+        "employment": 310,
+        "medianSalary": 105799
+      },
+      "31102": {
+        "employment": 48,
+        "medianSalary": 265000
+      },
+      "21310": {
+        "employment": 42,
+        "medianSalary": 108099
+      },
+      "21301": {
+        "employment": 52,
+        "medianSalary": 101199
+      },
+      "21300": {
+        "employment": 58,
+        "medianSalary": 103499
+      },
+      "31200": {
+        "employment": 24,
+        "medianSalary": 110399
+      },
+      "41300": {
+        "employment": 64,
+        "medianSalary": 86250
+      },
+      "52120": {
+        "employment": 38,
+        "medianSalary": 71300
+      },
+      "41220": {
+        "employment": 115,
+        "medianSalary": 101199
+      },
+      "41221": {
+        "employment": 185,
+        "medianSalary": 96599
+      },
+      "41101": {
+        "employment": 46,
+        "medianSalary": 143750
+      },
+      "41400": {
+        "employment": 28,
+        "medianSalary": 98899
+      },
+      "21110": {
+        "employment": 18,
+        "medianSalary": 94299
+      }
+    }
+  },
+  "NU": {
+    "name": "Nunavut",
+    "occupations": {
+      "21232": {
+        "employment": 158,
+        "medianSalary": 117600
+      },
+      "21234": {
+        "employment": 48,
+        "medianSalary": 93600
+      },
+      "21211": {
+        "employment": 32,
+        "medianSalary": 126000
+      },
+      "20012": {
+        "employment": 74,
+        "medianSalary": 165600
+      },
+      "11100": {
+        "employment": 132,
+        "medianSalary": 98400
+      },
+      "11101": {
+        "employment": 46,
+        "medianSalary": 106800
+      },
+      "10010": {
+        "employment": 62,
+        "medianSalary": 153600
+      },
+      "11202": {
+        "employment": 88,
+        "medianSalary": 86400
+      },
+      "12101": {
+        "employment": 68,
+        "medianSalary": 91200
+      },
+      "31301": {
+        "employment": 310,
+        "medianSalary": 110400
+      },
+      "31102": {
+        "employment": 48,
+        "medianSalary": 270000
+      },
+      "21310": {
+        "employment": 42,
+        "medianSalary": 112800
+      },
+      "21301": {
+        "employment": 52,
+        "medianSalary": 105600
+      },
+      "21300": {
+        "employment": 58,
+        "medianSalary": 108000
+      },
+      "31200": {
+        "employment": 24,
+        "medianSalary": 115200
+      },
+      "41300": {
+        "employment": 64,
+        "medianSalary": 90000
+      },
+      "52120": {
+        "employment": 38,
+        "medianSalary": 74400
+      },
+      "41220": {
+        "employment": 115,
+        "medianSalary": 105600
+      },
+      "41221": {
+        "employment": 185,
+        "medianSalary": 100800
+      },
+      "41101": {
+        "employment": 46,
+        "medianSalary": 150000
+      },
+      "41400": {
+        "employment": 28,
+        "medianSalary": 103200
+      },
+      "21110": {
+        "employment": 18,
+        "medianSalary": 98400
+      }
+    }
+  }
+}

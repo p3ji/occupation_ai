@@ -1,0 +1,112 @@
+[
+  {
+    "cip": "11.0101",
+    "name": "Computer Science",
+    "category": "Technology & Computing"
+  },
+  {
+    "cip": "11.0801",
+    "name": "Web & Mobile App Development",
+    "category": "Technology & Computing"
+  },
+  {
+    "cip": "11.0401",
+    "name": "Information Technology / Data Analytics",
+    "category": "Technology & Computing"
+  },
+  {
+    "cip": "52.0201",
+    "name": "Business Administration and Management",
+    "category": "Business & Finance"
+  },
+  {
+    "cip": "52.0301",
+    "name": "Accounting",
+    "category": "Business & Finance"
+  },
+  {
+    "cip": "52.0801",
+    "name": "Finance",
+    "category": "Business & Finance"
+  },
+  {
+    "cip": "52.1401",
+    "name": "Marketing & Digital Communications",
+    "category": "Business & Finance"
+  },
+  {
+    "cip": "52.1001",
+    "name": "Human Resources Management",
+    "category": "Business & Finance"
+  },
+  {
+    "cip": "51.3801",
+    "name": "Registered Nursing / Nursing Science",
+    "category": "Health & Medicine"
+  },
+  {
+    "cip": "51.1201",
+    "name": "Medicine (MD)",
+    "category": "Health & Medicine"
+  },
+  {
+    "cip": "14.1001",
+    "name": "Electrical and Electronics Engineering",
+    "category": "Engineering"
+  },
+  {
+    "cip": "14.1901",
+    "name": "Mechanical Engineering",
+    "category": "Engineering"
+  },
+  {
+    "cip": "14.0801",
+    "name": "Civil Engineering",
+    "category": "Engineering"
+  },
+  {
+    "cip": "42.0101",
+    "name": "Psychology",
+    "category": "Social & Behavioural Sciences"
+  },
+  {
+    "cip": "44.0701",
+    "name": "Social Work",
+    "category": "Social & Behavioural Sciences"
+  },
+  {
+    "cip": "45.0601",
+    "name": "Economics",
+    "category": "Social & Behavioural Sciences"
+  },
+  {
+    "cip": "26.0101",
+    "name": "Biology / Biological Sciences",
+    "category": "Natural Sciences"
+  },
+  {
+    "cip": "27.0101",
+    "name": "Mathematics & Statistics",
+    "category": "Natural Sciences"
+  },
+  {
+    "cip": "50.0409",
+    "name": "Graphic Design & Digital Media",
+    "category": "Arts & Design"
+  },
+  {
+    "cip": "13.1202",
+    "name": "Elementary Education and Teaching",
+    "category": "Education & Teaching"
+  },
+  {
+    "cip": "13.1205",
+    "name": "Secondary Education and Teaching",
+    "category": "Education & Teaching"
+  },
+  {
+    "cip": "22.0101",
+    "name": "Law (JD/LL.B)",
+    "category": "Legal & Public Policy"
+  }
+]
