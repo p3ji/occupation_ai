@@ -164,8 +164,16 @@ export default function OccupationDetail({ selectedNoc, occupations, onViewMetho
 
         {/* AI Rationale Text */}
         <div className="text-xs text-zinc-400 bg-zinc-950/40 p-3.5 rounded-lg border border-border/50 leading-relaxed">
-          <span className="font-semibold text-zinc-300 block mb-1">Impact Rationale:</span>
-          {activeOcc.karpathyRationale}
+          <span className="font-semibold text-zinc-300 block mb-2">Impact Rationale:</span>
+          {Array.isArray(activeOcc.karpathyRationale) ? (
+            <ul className="list-disc pl-4 space-y-2 text-zinc-400">
+              {activeOcc.karpathyRationale.map((bullet, idx) => (
+                <li key={idx}>{bullet}</li>
+              ))}
+            </ul>
+          ) : (
+            <p>{activeOcc.karpathyRationale}</p>
+          )}
         </div>
       </div>
 
