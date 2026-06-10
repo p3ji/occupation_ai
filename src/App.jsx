@@ -2,9 +2,8 @@ import React, { useState, useEffect } from 'react';
 import MajorSelector from './components/MajorSelector';
 import OccupationTable from './components/OccupationTable';
 import OccupationDetail from './components/OccupationDetail';
-import SalaryCalculator from './components/SalaryCalculator';
 import MethodologyPage from './components/MethodologyPage';
-import { Compass, Calculator, GraduationCap, Github, Briefcase, Award, BookOpen } from 'lucide-react';
+import { Compass, GraduationCap, Github, Briefcase, Award, BookOpen } from 'lucide-react';
 
 export default function App() {
   const [data, setData] = useState({
@@ -83,13 +82,6 @@ export default function App() {
     }
   };
 
-  const handleJumpToMajor = (cip, noc) => {
-    setSelectedCip(cip);
-    setSelectedNoc(noc);
-    setActiveTab('explorer');
-    // Scroll window to top
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  };
 
   if (loading) {
     return (
@@ -172,17 +164,6 @@ export default function App() {
             Major & Career Explorer
           </button>
           <button
-            onClick={() => setActiveTab('calculator')}
-            className={`py-3 text-xs font-semibold flex items-center gap-2 border-b-2 transition-all cursor-pointer ${
-              activeTab === 'calculator'
-                ? 'border-primary text-primary-bright'
-                : 'border-transparent text-zinc-400 hover:text-zinc-200'
-            }`}
-          >
-            <Calculator size={14} />
-            Salary Reverse Calculator
-          </button>
-          <button
             onClick={() => setActiveTab('methodology')}
             className={`py-3 text-xs font-semibold flex items-center gap-2 border-b-2 transition-all cursor-pointer ${
               activeTab === 'methodology'
@@ -205,10 +186,10 @@ export default function App() {
               <div className="mb-4">
                 <h2 className="text-sm font-semibold text-white flex items-center gap-2">
                   <GraduationCap size={16} className="text-primary-bright" />
-                  Select Post-Secondary Program
+                  Select Bachelor's Degree Program
                 </h2>
                 <p className="text-xs text-zinc-500 mt-0.5">
-                  Browse Stats Canada instructional programs to discover linked occupational prospects.
+                  Browse bachelor degree programs to discover linked occupational prospects. All career distributions represent outcomes for young bachelor's degree holders (aged 25 to 34).
                 </p>
               </div>
               <MajorSelector
@@ -290,28 +271,6 @@ export default function App() {
                 </section>
               </div>
             </div>
-          </div>
-        )}
-
-        {activeTab === 'calculator' && (
-          <div className="max-w-4xl mx-auto">
-            <section className="bg-surface/30 p-6 rounded-xl border border-border">
-              <div className="mb-4">
-                <h2 className="text-sm font-semibold text-white flex items-center gap-2">
-                  <Calculator size={16} className="text-primary-bright" />
-                  Canadian Target Salary Mapping Tool
-                </h2>
-                <p className="text-xs text-zinc-500 mt-0.5">
-                  Slide your target annual salary to see matching Canadian careers and required post-secondary degrees.
-                </p>
-              </div>
-              <SalaryCalculator
-                occupations={data.occupations}
-                majors={data.majors}
-                crosswalk={data.crosswalk}
-                onJumpToMajor={handleJumpToMajor}
-              />
-            </section>
           </div>
         )}
 

@@ -49,7 +49,7 @@ export default function OccupationTable({ selectedCip, crosswalk, occupations, s
         <Briefcase className="mx-auto text-zinc-500 mb-3" size={32} />
         <h3 className="text-sm font-medium text-white">No Career Mappings</h3>
         <p className="text-xs text-muted mt-1 max-w-xs mx-auto">
-          We don't have direct occupation data for this program yet. Choose another major or use the salary calculator.
+          We don't have direct occupation data for this program yet. Choose another major.
         </p>
       </div>
     );
@@ -57,13 +57,18 @@ export default function OccupationTable({ selectedCip, crosswalk, occupations, s
 
   return (
     <div className="space-y-4">
-      <div className="flex items-center justify-between">
-        <h4 className="text-sm font-semibold text-white flex items-center gap-2">
-          <Briefcase size={16} className="text-primary-bright" />
-          Mapped Occupations ({allJobs.length})
-        </h4>
-        <span className="text-[10px] text-zinc-500 italic hidden sm:block">
-          Select an occupation below to view AI insights & regional salaries.
+      <div className="flex flex-col gap-1.5 md:flex-row md:items-center md:justify-between">
+        <div>
+          <h4 className="text-sm font-semibold text-white flex items-center gap-2">
+            <Briefcase size={16} className="text-primary-bright" />
+            Prevalent Careers for Bachelor's Graduates ({allJobs.length})
+          </h4>
+          <p className="text-[10px] text-zinc-500 mt-0.5 font-medium">
+            Employment distributions represent outcomes for young bachelor's degree holders (aged 25 to 34).
+          </p>
+        </div>
+        <span className="text-[10px] text-zinc-500 italic hidden lg:block">
+          Click a job to view regional wages.
         </span>
       </div>
 
