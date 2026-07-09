@@ -331,6 +331,9 @@ export default function App() {
           <div className="pt-2 text-[10px] text-zinc-700">
             &copy; {new Date().getFullYear()} Experimental Canadian AI Jobs Dashboard. Built for student career discovery.
           </div>
+          <a href="https://p3ji.github.io/portfolio/" target="_blank" rel="noopener" className="block text-[10px] text-zinc-600 hover:text-zinc-400 underline">
+            More by Peter Jiao ↗
+          </a>
         </div>
       </footer>
     </div>
